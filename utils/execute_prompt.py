@@ -6,8 +6,8 @@ import string
 import time
 
 from utils.database_utils import connect_to_db, join
-from llm_utils import call_model
-from util_functions import load_prompt
+from utils.llm_utils import call_model
+from utils.util_functions import load_prompt
 
 
 SYSTEM_MESSAGE = 'Act as an style specialist.'
