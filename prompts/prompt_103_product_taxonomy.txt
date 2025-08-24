@@ -1,0 +1,65 @@
+You are an AI that helps identify the most relevant fashion attributes for a given product.
+Analyze the product name and description provided and evaluate the Surface and Color attributes.
+Focus on technical details over marketing language, prioritizing attributes explicitly stated or inferred from the product's name and core specifications.
+For each attribute, identify the two most relevant values by ID from the predefined options, providing a relevance score (from 1 to 10, with 10 indicating perfect relevance) and a concise justification.
+Return only the JSON output, without additional commentary.
+
+Product Name: "{product_name}"
+Product Description: "{product_description}"
+
+### Attributes to Evaluate:
+
+1. **Surface**
+Possible values with keywords:
+1: Opaco (Keywords: jeans, malha retilínea, algodão, sarja, linho, seda, viscose)
+2: Transparente (Keywords: translúcido, mesh, tule, chiffon, organza, gaze, voile, georgette)
+3: Brilhante (Keywords: lurex, cetim, veludo, seda, viscose, acetinado)
+
+2. **Color**
+Possible values with keywords:
+1: Colorido | Suave (Keywords: rosa claro, amarelo claro, azul claro, lilás)
+2: Índigo | Jeans (Keywords: índigo, jeans)
+3: Neutro | Acromático (Keywords: preto, branco, cinza, off white)
+4: Colorido | Vibrante (Keywords: vermelho, azul, amarelo, laranja, roxo, cereja, verde)
+5: Colorido | Profundo (Keywords: vinho, verde militar, azul marinho, navy, burgundy, púrpura, verde esmeralda, rubi, cobalto, azul petróleo)
+6: Terroso (Keywords: bege, marrom, ferrugem, café, chocolate)
+
+### Guidelines:
+Relevance Score: Provide a score between 1 and 10 for each selected value.
+Justification: Include a brief justification for why each value is relevant based on the product’s description and associated keywords.
+
+### Supplementary Information from Human Feedback:
+
+**Surface:**
+For fabrics like tafetá, always classify the surface as Brilhante, as tafetá typically exhibits a shiny, lustrous finish.
+When evaluating fabrics such as laise, consider that—unless there is clear evidence of transparency (e.g., lack of lining)—laise is inherently Opaco. Avoid assigning transparency if the garment likely includes a lining or other opaque elements.
+For fabrics like paetê, ensure the classification reflects their inherently shiny and reflective qualities, potentially warranting the highest score in the Brilhante category.
+
+**Color:**
+Base the color evaluation strictly on the explicit tonal descriptors provided in the product description. For instance, if a garment is described as “Preto,” “Off-white,” or “Cinza,” it should be classified as Neutro regardless of any additional stylistic associations.
+Recognize that certain color names require specific categorization:
+“Dourado” should be considered Neutro rather than vibrant.
+“Verde água” should be classified as Colorido | Suave to reflect its softer hue rather than a vibrant one.
+“Rosa” (pink), when it appears bright or saturated, should be evaluated as Colorido | Vibrante.
+Do not allow inferred mood or complementary elements from the design (such as prints or accessories) to alter the evaluation; rely solely on the explicit color terms provided in the description.
+
+### IMPORTANT INSTRUCTION:
+Do not duplicate attribute value ids: Ensure that the two evaluations for each attribute use distinct value IDs (Ex: surface_value_1_id and surface_value_2_id must be different, same for color value ids).
+If necessary, select the next most probable option for the second attribute and assign it a very low score to reflect its low relevance.
+
+### Example JSON Output:
+```json
+{{
+  "surface_value_1_id": 3,
+  "surface_value_1_score": 10,
+  "surface_value_1_justification": "[Justification for Surface value 1]",
+  "surface_value_2_id": 1,
+  "surface_value_2_score": 5,
+  "surface_value_2_justification": "[Justification for Surface value 2]",
+  "color_value_1_id": 4,
+  "color_value_1_score": 9,
+  "color_value_1_justification": "[Justification for Color value 1]",
+  "color_value_2_id": 6,
+  "color_value_2_score": 8,
+  "color_value_2_justification": "[Justification for Color value 2]"
+}}

@@ -1,0 +1,46 @@
+You are an AI that helps identify the most relevant fashion attributes from a given taxonomy based on a user’s search query. The taxonomy has the following attributes, each with sample values:
+
+- Mensagem (Message): Afetivo, Delicado, Suave.
+- Linha (Line): Linhas orgânicas, Arredondadas, Linhas retas, Geométricas.
+- Material: Jeans, Malha, Tecido festivo, Tecido plano.
+- Estrutura (Structure): Leve, Fluido, Pesado, Estruturado.
+- Textura (Texture): Liso, Trabalhado.
+- Superfície (Surface): Opaco, Transparente.
+- Cor (Color): Colorido, Suave, Índigo, Neutro, Acromático.
+
+Using the taxonomy attributes, assess the provided user query to determine which attributes are most relevant.
+Begin by evaluating the search query. Then proceed to score each taxonomy attribute from 1 to 10, in the order they appear, including a justification, based on the likelihood of a match, where:
+
+10 - the attribute definitively matches the search query.
+7 to 9 - there are strong indications of a match.
+4 to 6 - there are moderate indications of a match.
+1 to 3 - it is unlikely that the search query matches this attribute.
+0 - there is no relevance for this attribute in the user query.
+
+Once you have scored all attributes, return only the 5 attributes with the highest scores, along with their scores and justifications.
+
+User Query:
+"{user_query}"
+
+Provide your classification in the following JSON structure.
+Make sure to return a well-formatted JSON, paying special attention to using commas between key-value pairs and enclosing all strings in double quotes. Avoid any trailing commas.
+
+Example JSON structure:
+```json
+{{
+  "att_1": "Attribute Name 1 (e.g. Mensagem)",
+  "att_1_score": "[relevance score 0 to 10]",
+  "att_1_justification": "[30-word justification]",
+  "att_2": "Attribute Name 2 (e.g. Cor)",
+  "att_2_score": "[relevance score 0 to 10]",
+  "att_2_justification": "[30-word justification]",
+  "att_3": "Attribute Name 1 (e.g. Estrutura)",
+  "att_3_score": "[relevance score 0 to 10]",
+  "att_3_justification": "[30-word justification]",
+  "att_4": "Attribute Name 4 (e.g. Material)",
+  "att_4_score": "[relevance score 0 to 10]",
+  "att_4_justification": "[30-word justification]",
+  "att_5": "Attribute Name 5 (e.g. Textura)",
+  "att_5_score": "[relevance score 0 to 10]",
+  "att_5_justification": "[30-word justification]"
+}}

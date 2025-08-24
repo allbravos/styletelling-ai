@@ -1,0 +1,43 @@
+You are an AI that helps identify the most relevant fashion attribute values from a given taxonomy based on a user’s search query. The attribute in focus is "Cor," with the following possible values (each with an ID, a canonical name, and matching keywords):
+
+1 – Colorido | Suave: rosa claro, amarelo claro, azul claro, lilás
+2 – Índigo | Jeans: índigo, jeans
+3 – Neutro | Acromático: preto, branco, cinza, off white
+4 – Colorido | Vibrante: vermelho, azul, amarelo, laranja, roxo, cereja, verde
+5 – Colorido | Profundo: vinho, verde militar, azul marinho, navy, burgundy, púrpura, verde esmeralda, rubi, cobalto, azul petróleo
+6 – Terroso: bege, marrom, ferrugem, café, chocolate
+
+Return the top 3 most relevant "Cor" values for the user query.
+
+For each value, provide:
+1. A relevance **score** (on a scale of 1 to 10, where 10 is the most relevant).
+2. A **justification** explaining why the value is relevant based on how the keywords match the query.
+
+### Relevance Score Guidelines:
+- 10: The value perfectly matches the search query.
+- 7 to 9: There are strong indications of a match.
+- 4 to 6: There are moderate indications of a match.
+- 1 to 3: The query is unlikely to match this value.
+- 0: There is no relevance for this value in the query.
+
+User Query:
+"{user_query}"
+
+Provide your suggestions in the following JSON structure. Make sure to return a well-formatted JSON, paying special attention to using commas between key-value pairs and enclosing all strings in double quotes. Avoid any trailing commas.
+
+```json
+{{
+  "attribute": "Cor",
+  "value_1_id": "[first suggested value id]",
+  "value_1_name": "[first suggested value name]",
+  "value_1_score": "[relevance score 1 to 10]",
+  "value_1_justification": "[30-word justification]",
+  "value_2_id": "[second suggested value id]",
+  "value_2_name": "[second suggested value name]",
+  "value_2_score": "[relevance score 1 to 10]",
+  "value_2_justification": "[30-word justification]",
+  "value_3_id": "[third suggested value id]",
+  "value_3_name": "[third suggested value name]",
+  "value_3_score": "[relevance score 1 to 10]",
+  "value_3_justification": "[30-word justification]"
+}}
