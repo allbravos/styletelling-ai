@@ -8,7 +8,8 @@ from io import BytesIO
 import streamlit as st
 
 from streamlit_persistence import save_feedback
-from utils.streamlit_utils import _fetch_image_bytes, _placeholder_bytes
+from utils.streamlit_utils import _fetch_image_bytes, _placeholder_bytes, inject_discreet_link_css_once
+
 
 
 def _render_image(p: Dict[str, Any]):
@@ -83,9 +84,14 @@ def _render_product_card(p: Dict[str, Any]):
     st.caption(f"ID: `{pid}` • {cat_label} • Score: {score}")
     if price:
         st.write(price)
+
     desc = (p.get("description") or "").strip()
     if desc:
-        st.write(desc)
+        inject_discreet_link_css_once()
+        st.markdown('<div class="desc-trigger">', unsafe_allow_html=True)
+        with st.popover("ver mais..."):  # no key arg in your Streamlit
+            st.write(desc)
+        st.markdown('</div>', unsafe_allow_html=True)
 
     # Already submitted?
     if st.session_state.get(submitted_key):
