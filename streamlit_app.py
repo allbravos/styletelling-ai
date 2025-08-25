@@ -8,7 +8,16 @@ import uuid
 
 import streamlit as st
 
-from streamlit_client import stream_user_query, DATA_MODE, RECORD_FIXTURES
+from data.cache_runtime import (
+    read_rows,
+    canonicalize_query,
+    build_envelope,
+    write_cache,
+    CACHE_DIR,
+    load_index,          # <-- add
+    get_cached_result,   # <-- add
+)
+from streamlit_client import stream_user_query, DATA_MODE, RECORD_FIXTURES, RECORD_CACHE
 from streamlit_persistence import ensure_tables
 from data.record_fixtures import record_fixture
 
@@ -17,7 +26,7 @@ from streamlit_products import render_grouped_products
 
 # --------------------------- constants ---------------------------------------
 MAX_PRODUCTS = 15
-
+USE_CACHE: bool = True
 # --------------------------- page setup & state -------------------------------
 st.set_page_config(page_title="Styletelling – Streamlit", layout="wide")
 ensure_tables()
@@ -31,6 +40,14 @@ if "logs" not in st.session_state:
 if "products" not in st.session_state:
     # grouped dict: {category: [products]}
     st.session_state.products: Dict[str, List[Dict[str, Any]]] = {}
+
+st.set_page_config(page_title="Styletelling – Streamlit", layout="wide")
+ensure_tables()
+
+try:
+    CACHE_INDEX = load_index("data/queries.csv")
+except Exception:
+    CACHE_INDEX = {}
 
 # --------------------------- header & inputs ---------------------------------
 st.title("🛍️ Styletelling — Assistente de Moda")
@@ -47,6 +64,77 @@ retry_clicked = col_retry.button("Repetir última busca", disabled=not st.sessio
 
 logs_area = st.empty()
 results_area = st.empty()
+
+# --------------------------- sidebar ------------------------------
+def _fetch_results_for_prewarm(query: str) -> dict:
+    final_payload = None
+    for ev in stream_user_query(query):
+        status = ev.get("status")
+        if status == "final_result":
+            data = ev.get("data")
+            if isinstance(data, dict):
+                final_payload = data
+            else:
+                final_payload = group_products(data)
+            break
+        elif status == "error":
+            raise RuntimeError(ev.get("message", "Erro ao buscar resultados"))
+    if final_payload is None:
+        raise RuntimeError("Fluxo terminou sem 'final_result'")
+    return final_payload
+
+with st.sidebar:
+    st.markdown("### Cache")
+    _overwrite = st.checkbox("Sobrescrever existentes", False)
+    _limit = st.number_input("Limite (0 = todos)", min_value=0, value=0, step=1)
+    if st.button("🔧 Preaquecer cache agora"):
+        _rows = read_rows("data/queries.csv")
+        if _limit and _limit > 0:
+            _rows = _rows[: int(_limit)]
+
+        prog = st.progress(0.0, text="Preparando…")
+        log = st.empty()
+
+        total = len(_rows)
+        written = 0
+        skipped = 0
+        failed = 0
+
+        for i, r in enumerate(_rows, start=1):
+            try:
+                # skip if exists and not overwriting
+                path = CACHE_DIR / r.filename
+                if path.exists() and not _overwrite:
+                    skipped += 1
+                else:
+                    # fetch + write envelope atomically
+                    result = _fetch_results_for_prewarm(r.query_raw)
+                    env = build_envelope(
+                        query_raw=r.query_raw,
+                        query_norm=r.query_norm,
+                        result=result,
+                        filename=r.filename,
+                        meta_extra={
+                            "backend_version": "styletelling-prewarm-ui",
+                            "mode": DATA_MODE,
+                        },
+                    )
+                    write_cache(r.filename, env)
+                    written += 1
+
+                prog.progress(i / total, text=f"{i}/{total} • {r.filename}")
+                log.markdown(
+                    f"**Último:** `{r.filename}`  \n"
+                    f"— *query:* {r.query_raw[:80]}{'…' if len(r.query_raw)>80 else ''}"
+                )
+            except Exception as e:
+                failed += 1
+                prog.progress(i / total, text=f"{i}/{total} • erro em {r.filename}")
+                log.markdown(f"**Erro:** `{r.filename}` — {e}")
+
+        st.success(
+            f"Preaquecer concluído • total={total} • gravados={written} • pulados={skipped} • falhas={failed}"
+        )
 
 # --------------------------- helpers (unchanged) ------------------------------
 
@@ -81,8 +169,20 @@ def _render_results():
     with results_area.container():
         render_grouped_products(st.session_state.products)
 
-
 def _handle_stream(q: str):
+
+    if USE_CACHE and q:
+        key = canonicalize_query(q)
+        cached_payload = get_cached_result(key, CACHE_INDEX)
+        if cached_payload is not None:
+            st.session_state.products = cached_payload
+            total = sum(len(v) for v in st.session_state.products.values())
+            st.session_state.logs.append("⚡ Resultado do cache")
+            st.session_state.logs.append(f"\n---\n**Tempo total:** ~0s • Itens retornados: {total}")
+            _render_logs()
+            _render_results()
+            return
+
     with st.spinner("Encontrando os melhores produtos…"):
         try:
             start = time.time()
@@ -114,6 +214,26 @@ def _handle_stream(q: str):
                 elif status == "final_result":
                     final_results = step.get("data") or {}
                     st.session_state.products = group_products(final_results, cap=MAX_PRODUCTS)
+
+                    if USE_CACHE and RECORD_CACHE:
+                        key = canonicalize_query(q)
+                        filename = CACHE_INDEX.get(key)
+                        if filename:
+                            try:
+                                env = build_envelope(
+                                    query_raw=q,
+                                    query_norm=key,
+                                    result=st.session_state.products,
+                                    filename=filename,
+                                    meta_extra={
+                                        "backend_version": "styletelling-stream-2025-08-25",
+                                        "mode": DATA_MODE,
+                                    },
+                                )
+                                write_cache(filename, env)
+                            except Exception as _cache_err:
+                                st.session_state.logs.append(f"_Cache write falhou: {_cache_err}_")
+
                     # Save a single-file fixture with the exact payload the UI will render.
                     # Only in real mode, only once per rerun, and only if enabled.
                     if (

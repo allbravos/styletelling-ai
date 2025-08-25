@@ -3,8 +3,9 @@ from typing import Iterator, Dict, Any
 
 # DATA_MODE: "real" streams from backend, "mock" replays a saved fixture.
 # RECORD_FIXTURES: if True in real mode, save latest payload to disk (creates the mocks based on real data)
-DATA_MODE: str = "mock"         # "real" or "mock"
+DATA_MODE: str = "real"         # "real" or "mock"
 RECORD_FIXTURES: bool = False
+RECORD_CACHE: bool = True
 
 
 def stream_user_query(user_query: str) -> Iterator[Dict[str, Any]]:

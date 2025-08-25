@@ -4,7 +4,7 @@
 
 from typing import Dict, List, Any
 from io import BytesIO
-
+import hashlib, json
 import streamlit as st
 
 from streamlit_persistence import save_feedback
@@ -21,6 +21,17 @@ def _render_image(p: Dict[str, Any]):
 
 
 # --------------------------- helpers: feedback & UI ----------------------------
+
+def _stable_uid(product: dict) -> str:
+    """Deterministic short id for a product."""
+    pivot = {
+        "id": product.get("id"),
+        "sku": product.get("sku"),
+        "url": product.get("url"),
+        "slug": product.get("slug"),
+    }
+    raw = json.dumps(pivot, sort_keys=True, ensure_ascii=False)
+    return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:10]
 
 def _persist_feedback(pid: str, rating: str, p: Dict[str, Any], details: str | None):
     details = (details or "").strip() or None
@@ -65,10 +76,17 @@ def _dislike_dialog(pid: str, p: Dict[str, Any], base: str):
 
 # Single product card + feedback buttons
 
-def _render_product_card(p: Dict[str, Any]):
+def _next_widget_seq() -> int:
+    k = "__widget_seq__"
+    st.session_state[k] = st.session_state.get(k, 0) + 1
+    return st.session_state[k]
+
+def _render_product_card(p: Dict[str, Any], scope: str):
     pid = p["product_id"]
     cat = (p.get("category") or "").replace(" ", "_")
-    base = f"{pid}_{cat}_{st.session_state.session_id}"
+    uid = _stable_uid(p)
+    seq = _next_widget_seq()  # <-- NEW: per-render tiebreaker
+    base = f"{pid}_{cat}_{uid}_{scope}_{seq}_{st.session_state.session_id}"
 
     submitted_key = f"submitted_{base}"
     open_dialog_key = f"open_dialog_{base}"
@@ -106,7 +124,6 @@ def _render_product_card(p: Dict[str, Any]):
     cols = st.columns(2, gap="small")
     with cols[0]:
         if st.button("👍 Gostei", key=f"like_{base}", use_container_width=True):
-            # clear any leftover dialog flag just in case
             st.session_state.pop(open_dialog_key, None)
             _persist_feedback(pid, "Gostei", p, details=None)
             st.session_state[submitted_key] = True
@@ -117,18 +134,31 @@ def _render_product_card(p: Dict[str, Any]):
             st.rerun()
             return
 
-
 # Render grouped products in rows with category headers
+def _dedupe_products(items: list[dict]) -> list[dict]:
+    seen = set()
+    out = []
+    for p in items:
+        # Use the same identity you trust for a product; fallback to the stable uid
+        key = p.get("product_id") or p.get("sku") or p.get("url") or _stable_uid(p)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(p)
+    return out
 
 def render_grouped_products(grouped: Dict[str, List[Dict[str, Any]]]):
     if not grouped:
         st.info("Nenhum produto encontrado. Tente refinar a descrição.")
         return
     for cat, products in grouped.items():
+        products = _dedupe_products(products)  # <-- remove dupes early
         st.subheader(f"{cat} · {len(products)}")
         cols_per_row = 3
         for i, p in enumerate(products):
             if i % cols_per_row == 0:
                 row = st.columns(cols_per_row, gap="medium")
+            scope = f"{cat}_{i}"
             with row[i % cols_per_row]:
-                _render_product_card(p)
+                _render_product_card(p, scope=scope)
+
