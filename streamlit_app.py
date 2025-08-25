@@ -8,8 +8,9 @@ import uuid
 
 import streamlit as st
 
-from streamlit_client import stream_user_query
+from streamlit_client import stream_user_query, DATA_MODE, RECORD_FIXTURES
 from streamlit_persistence import ensure_tables
+from data.record_fixtures import record_fixture
 
 from utils.streamlit_utils import format_context_summary, group_products
 from streamlit_products import render_grouped_products
@@ -54,6 +55,7 @@ def _reset_session_for_run(q: str):
     st.session_state.last_query = q
     st.session_state.logs = ["### Processando sua solicitação."]
     st.session_state.products = {}
+    st.session_state.fixture_saved = False
     # also clear per-product transient states from any previous run
     keys_to_clear = [
         k for k in list(st.session_state.keys())
@@ -112,6 +114,21 @@ def _handle_stream(q: str):
                 elif status == "final_result":
                     final_results = step.get("data") or {}
                     st.session_state.products = group_products(final_results, cap=MAX_PRODUCTS)
+                    # Save a single-file fixture with the exact payload the UI will render.
+                    # Only in real mode, only once per rerun, and only if enabled.
+                    if (
+                            DATA_MODE.lower() == "real"
+                            and RECORD_FIXTURES
+                            and st.session_state.products
+                            and not st.session_state.get("fixture_saved", False)
+                    ):
+                        try:
+                            record_fixture(st.session_state.products)
+                            st.session_state.fixture_saved = True
+                            st.session_state.logs.append("_Fixture salva em `data/products_fixture.json`._")
+                        except Exception as _rec_err:
+                            st.session_state.logs.append(f"_Não foi possível salvar a fixture: {_rec_err}_")
+
                     took = round(time.time() - start, 2)
                     total = sum(len(v) for v in st.session_state.products.values())
                     st.session_state.logs.append(f"\n---\n**Tempo total:** {took}s • Itens retornados: {total}")

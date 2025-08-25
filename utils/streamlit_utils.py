@@ -2,6 +2,7 @@
 from collections import OrderedDict
 from typing import Dict, List, Any
 from io import BytesIO
+import html as _html
 
 import streamlit as st
 import requests
@@ -98,3 +99,30 @@ def _placeholder_bytes(size=(600, 600)) -> bytes:
     buf = BytesIO()
     img.save(buf, format="PNG")
     return buf.getvalue()
+
+
+def inject_discreet_link_css_once():
+    """Style popover trigger to look like a subtle text link."""
+    flag = "_desc_link_css_v1"
+    if not st.session_state.get(flag):
+        st.markdown(
+            """
+            <style>
+              .desc-trigger button {
+                background: none !important;
+                border: none !important;
+                padding: 0 !important;
+                margin: 2px 0 0 0 !important;
+                text-decoration: underline;
+                font-size: 0.85rem;
+                opacity: 0.7;
+              }
+              .desc-trigger button:hover {
+                opacity: 1;
+                text-decoration: underline;
+              }
+            </style>
+            """,
+            unsafe_allow_html=True,
+        )
+        st.session_state[flag] = True
