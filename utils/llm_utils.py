@@ -5,8 +5,7 @@ from openai import OpenAI, APIError, RateLimitError, AuthenticationError
 
 # --- API Key ---
 # Place the API key for the service you want to use (OpenAI, DeepSeek, Google) here.
-API_KEY = 'sk-3f6fb6901cd04b238c9c974b1e067311'
-# API_KEY = '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'
+API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Number of tokens in one million
 TOKENS_PER_MILLION = 1_000_000
