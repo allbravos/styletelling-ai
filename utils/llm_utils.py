@@ -6,6 +6,7 @@ from openai import OpenAI, APIError, RateLimitError, AuthenticationError
 # --- API Key ---
 # Place the API key for the service you want to use (OpenAI, DeepSeek, Google) here.
 API_KEY = 'sk-3f6fb6901cd04b238c9c974b1e067311'
+# API_KEY = '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'
 
 # Number of tokens in one million
 TOKENS_PER_MILLION = 1_000_000
@@ -22,10 +23,10 @@ last_cost = 0.0
 
 # Supported model configurations
 MODELS = {
-    "gpt-4o": {
+    "gpt-5-mini": {
         "provider": "openai",
-        "model_name": "gpt-4o",
-        "cost_per_million": {"input": 5.0, "output": 15.0}
+        "model_name": "gpt-5-mini",
+        "cost_per_million": {"input": 0.25, "output": 2.0}
     },
     "gpt-4o-mini": {
         "provider": "openai",
@@ -50,7 +51,7 @@ MODELS = {
 current_model = "deepseek-v3"
 
 
-def call_model(messages, model=current_model, response_format=None, retry=False, temperature=0.8):
+def call_model(messages, model=current_model, response_format=None, retry=False, temperature=1):
     """
     Send a chat completion request to the specified model using the OpenAI library.
     Automatically picks the endpoint based on model provider configuration.
@@ -140,3 +141,85 @@ def print_costs():
     print(f"Total input tokens: {total_input_tokens}")
     print(f"Total output tokens: {total_output_tokens}")
     print(f"--------------------\n")
+
+
+# --- ADD: small helper to read the prompt file ---
+def _read_text(path: str) -> str:
+    with open(path, "r", encoding="utf-8") as f:
+        return f.read()
+
+# --- ADD: bench-friendly wrapper (non-breaking) ---
+def execute_prompt(
+    api_model: str,           # alias from bench (e.g., "deepseek-v3")
+    prompt_file: str,         # path to system/prefix prompt
+    user_query: str,          # the actual query
+    *,
+    model_id: str | None = None,   # explicit model id for OpenAI-compatible calls
+    api_key: str | None = None,    # provider-specific key
+    base_url: str | None = None,   # provider/base endpoint (OpenAI-compatible)
+    defaults: dict | None = None,  # temperature, max_tokens, top_p, etc.
+    **_,
+) -> str:
+    """
+    Minimal contract for bench.py, without changing the rest of the app:
+    - Returns a string (final text)
+    - Updates last_input_tokens, last_output_tokens, last_cost
+    - Uses OpenAI-compatible path if model_id/base_url/api_key are given
+    - Otherwise falls back to existing call_model(...) path used by your app
+    """
+
+    # reset per-call globals; bench may compute cost from pricing
+    global last_input_tokens, last_output_tokens, last_cost
+    last_input_tokens = 0
+    last_output_tokens = 0
+    last_cost = 0.0
+
+    system_text = _read_text(prompt_file)
+    defaults = defaults or {}
+
+    # Messages (works for both paths)
+    messages = [
+        {"role": "system", "content": system_text},
+        {"role": "user", "content": user_query},
+    ]
+
+    # --- Path A: explicit OpenAI-compatible call (bench uses this) ---
+    if model_id or base_url or api_key:
+        client = OpenAI(
+            api_key=api_key or os.getenv("OPENAI_API_KEY") or os.getenv("GOOGLE_API_KEY") or os.getenv("DEEPSEEK_API_KEY") or os.getenv("TOGETHER_API_KEY"),
+            base_url=base_url or None,
+        )
+        params = {
+            "model": model_id or api_model,   # prefer explicit id
+            "messages": messages,
+        }
+        # map common generation params
+        if "temperature" in defaults: params["temperature"] = defaults["temperature"]
+        if "max_tokens"  in defaults: params["max_tokens"]  = defaults["max_tokens"]
+        if "top_p"       in defaults: params["top_p"]       = defaults["top_p"]
+
+        resp = client.chat.completions.create(**params)
+        text = (resp.choices[0].message.content or "").strip()
+
+        # usage (if provider returns it)
+        if getattr(resp, "usage", None):
+            try:
+                last_input_tokens  = int(resp.usage.prompt_tokens or 0)
+                last_output_tokens = int(resp.usage.completion_tokens or 0)
+            except Exception:
+                pass
+        # last_cost intentionally left at 0.0; bench will compute from pricing
+        return text
+
+    # --- Path B: legacy path through your existing call_model (keeps app behavior) ---
+    # Choose a temperature fallback consistent with current behavior
+    temperature = defaults.get("temperature", 0.8)
+    response = call_model(messages, model=api_model, temperature=temperature)
+    if response is None:
+        return ""  # maintain graceful failure
+
+    # Extract text like the rest of your app
+    try:
+        return (response.choices[0].message.content or "").strip()
+    except Exception:
+        return ""
