@@ -1,0 +1,159 @@
+{
+  "query_raw":"Festa de Réveillon na praia",
+  "query_norm":"festa de reveillon na praia",
+  "generated_at":"2025-08-25T07:18:09.072656+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_77_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8223351996577",
+        "name":"VESTIDO LONGO COM FENDA - VERDE",
+        "price":"R$ 399,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425143_0014_vestido-longo-com-fenda-verde_0_a37f847f-b645-4464-a229-c7666badd96d.jpg?v=1747250661",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com elegância e sofisticação neste vestido longo com fenda. O comprimento midi e a alça fina trazem um toque de sensualidade, enquanto o tecido de viscose e linho garante conforto e fluidez. Perfeito para eventos noturnos ou ocasiões especiais. Detalhes da peça Estampa: liso Comprimento: midi Decote: reto Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":288
+      },
+      {
+        "product_id":"8223359631521",
+        "name":"VESTIDO LONGO DECOTE V COM GOLA - AZUL",
+        "price":"R$ 439,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425144_0015_vestido-longo-decote-v-com-gola-azul_0_3976c61a-dd67-49f9-82d8-aaecb9fd2736.jpg?v=1749232184",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com o VESTIDO LONGO DECOTE V COM GOLA, a peça perfeita para mulheres sofisticadas e modernas. Com design minimalista em linho e viscose, manga curta e comprimento midi, esse vestido é um item versátil e atemporal que te acompanha em diversas ocasiões, do dia à noite. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga curta Estilo: maxi Tecido: plano",
+        "relevance_score":277
+      },
+      {
+        "product_id":"7935596560545",
+        "name":"Vestido Curto Reto com Alça - Verde Militar",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225371_0033_vestido-curto-reto-com-alca-verde-militar_0_0ec2422a-2e6a-4e16-8a66-dc4dd5d8416b.jpg?v=1749580438",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para mulheres que buscam elegância e sofisticação, o Vestido Curto Reto com Alça é a peça perfeita para um look versátil e atemporal. Seu design minimalista e tecido de viscose e poliamida garantem conforto e estilo em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: básico Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":250
+      }
+    ],
+    "ROUPAS DE PRAIA":[
+      {
+        "product_id":"8177627693217",
+        "name":"Saída Curta Aquamarine Topázio - Azul",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015594_0015_saida-de-praia-curta-aquamarine-topazio-azul_0_a7de24ea-d582-43d7-8f7a-0cd400d63814.jpg?v=1746727415",
+        "category":"ROUPAS DE PRAIA",
+        "description":"Com modelagem best-seller, esta peça pode ser usada como saída de praia ou vestido. A saída curta na cor azul clara possui modelagem mais solta, além de mangas longas flare e decote V frontal com detalhe entrelaçado. Simplesmente linda, ela é toda em viscose, um tecido fluido e com transpirabilidade para o verão.",
+        "relevance_score":288
+      },
+      {
+        "product_id":"8177628020897",
+        "name":"Vestido Longo Aquamarine Topázio - Azul",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015595_0015_saida-de-praia-longa-aquamarine-topazio-azul_0_6b73faa2-e692-4816-b983-8866aa1fcf65.jpg?v=1746727415",
+        "category":"ROUPAS DE PRAIA",
+        "description":"Esta peça pode ser usada como vestido ou saída de praia. O vestido longo azul claro Aquamarine possui modelagem ajustada ao corpo, decote reto, alças extremamente finas e amarração por toda a lateral da peça. Além disso, ele é todo em viscose, um tecido leve e com transpirabilidade para o verão. Para as fashionistas de plantão!",
+        "relevance_score":288
+      },
+      {
+        "product_id":"8177626448033",
+        "name":"Pantalona Palms Areia - Areia",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015578_0557_pantalona-palms-areia-areia-4_0_91b93900-9141-4430-8dc7-256adace42a8.jpg?v=1745947403",
+        "category":"ROUPAS DE PRAIA",
+        "description":"Calça em viscose estampada, com modelagem ampla e soltinha, bolsos frontais quadrados. Cós reto com elástico adaptando a vários tipos de quadril. Por ser 100% de viscose, sua transpirabilidade é alta por ser de fibra natural, por isso é perfeita para o verão e dias mais quentes. A coleção Palms é uma estampa exclusiva Suntime, inspirada nas lindas palmeiras que beiram o mar.",
+        "relevance_score":218
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"8223929991329",
+        "name":"Macacão com Alças de Alfaiataria - Verde",
+        "price":"R$ 439,00",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310839_0014_macacao-com-alcas-de-alfaiataria-verde_0_936df973-e592-4ed6-81d6-46e9b578e542.jpg?v=1747173148",
+        "category":"MACACÕES",
+        "description":"Desfrute da elegância e sofisticação do Macacão com Alças de Alfaiataria, perfeito para um evento especial ou uma ocasião casual chique. Feito em linho e viscose, seu comprimento midi e detalhes minimalistas garantem um look versátil e atemporal. Detalhes da peça: Estampa: liso Comprimento: midi Decote: v Manga: alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":287
+      },
+      {
+        "product_id":"8223929761953",
+        "name":"MACACÃO SEM ALÇAS DE ALFAIATARIA - VERDE",
+        "price":"R$ 519,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310838_0014_macacao-sem-alcas-de-alfaiataria-verde_0_56528684-eec2-40cf-ae20-9393d0dbf492.jpg?v=1746730314",
+        "category":"MACACÕES",
+        "description":"Desfrute do luxo discreto do Macacão Sem Alças de Alfaiataria, feito em crepe de poliéster. O design minimalista e elegante, com decote reto e comprimento longo, torna esta peça um item versátil para eventos sofisticados ou ocasiões especiais. Detalhes da peça: Estampa: liso Comprimento: longo Decote: reto Manga: sem alça Estilo: alfaiataria Tecido: crepe Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":258
+      },
+      {
+        "product_id":"7914458939553",
+        "name":"Macacão Wide Leg Decote V Regata - Vinho",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224812_0123_macacao-wide-leg-decote-v-regata-vinho_0_1207acc7-5ff8-4eb0-b81e-e4bf64d687a4.jpg?v=1743426012",
+        "category":"MACACÕES",
+        "description":"Macacão elegante com decote V e pernas amplas, ideal para um look casual sofisticado. Peça versátil que te acompanha do trabalho ao happy hour com estilo. Detalhes da Peça: Estilo: Elegante Ocasião: Casual, para trabalhar Alfaitaria: Alfaitado Clima: Calor Altura da Cintura: Cintura alta Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":232
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"8010763239585",
+        "name":"Saia Midi com Pregas - Verde Claro",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225772_0183_saia-midi-com-pregas-verde-claro_0_5926fb68-71a3-4af3-8d79-97995ddd1f53.jpg?v=1747662515",
+        "category":"SAIAS",
+        "description":"Descubra a saia midi com pregas, uma peça de alfaiataria que une elegância e modernidade. Feita em viscose e poliéster, possui cós alto e comprimento longo, perfeita para um look versátil e sofisticado. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":280
+      },
+      {
+        "product_id":"8151924736161",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Coral",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_0018_saia-midi-com-fenda-frontal-alfaiataria-coral_0_cb4064b5-cafc-4b69-bb1b-fd271ae078db.jpg?v=1747255000",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":264
+      },
+      {
+        "product_id":"8010763141281",
+        "name":"Saia Midi com Pregas - Rosa",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225772_0013_saia-midi-com-pregas-rosa_0_93abc5ad-daf1-4c67-8037-ade068fd11e7.jpg?v=1747662509",
+        "category":"SAIAS",
+        "description":"Descubra a saia midi com pregas, uma peça de alfaiataria que une elegância e modernidade. Feita em viscose e poliéster, possui cós alto e comprimento longo, perfeita para um look versátil e sofisticado. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":250
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7890588041377",
+        "name":"Blusa Manga Longa Transpassada com Amarração - Azul",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225246_0015_blusa-manga-longa-transpassada-com-amarracao-azul_0_15e23ab9-07dd-42aa-8b3c-e02848f3d863.jpg?v=1743708642",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa manga longa transpassada com amarração, perfeita para um look casual chic. O design transpassado e a amarração trazem um toque moderno e elegante, ideal para diversas ocasiões. Detalhes da peça: Composição: Viscose, Poliamida Tipo de Punho: Punhos de camisa Tipo do Fecho: Amarração Estampa: Liso Tecido: Plano Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":282
+      },
+      {
+        "product_id":"8046845296801",
+        "name":"Regata Tricot Decote U Texturizada - Amarelo",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226245_0010_regata-de-tricot-decote-u-texturizada-amarelo_0_1b9da023-3282-40e6-aac2-d91fd06fbc8c.jpg?v=1743180638",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata tricot decote U texturizada, peça básica e confortável para um look casual elegante. Ideal para dias quentes, essa regata ajustada destaca-se pelo design texturizado e decote U. Detalhes da Peça: Estilo: Básico, confortável Ocasião: Casual Estilo de Alça: Alça larga Estilo de Gola/Decote: Decote U Comprimento da Manga: Sem manga Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":267
+      },
+      {
+        "product_id":"8150521577633",
+        "name":"Camiseta Cropped de Tricot Listrada - Vermelho",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_0012_camiseta-cropped-de-tricot-listrada-vermelho_0_ffe6adb7-d761-4219-8012-b618e3170dc3.jpg?v=1743180665",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":266
+      }
+    ]
+  }
+}

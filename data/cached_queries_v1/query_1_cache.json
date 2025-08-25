@@ -1,0 +1,130 @@
+{
+  "query_raw":"Casamento na praia no fim do dia, clima informal-chique",
+  "query_norm":"casamento na praia no fim do dia clima informalchique",
+  "generated_at":"2025-08-25T05:34:09.162910+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_1_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"7943878344865",
+        "name":"Vestido Longo com Recortes de Malha - Preto",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226234_0002_vestido-manga-longa-de-malha-com-recortes-preto_0_5d580d20-0a78-40c2-a0f2-cfb394c11a2f.jpg?v=1744114428",
+        "category":"VESTIDOS",
+        "description":"**** Deslumbrante vestido longo com recortes de malha, perfeito para ocasiões especiais ou para um look elevado no dia a dia. O design loose e os detalhes em viscose garantem conforto e estilo único. Detalhes da peça: Estampa: liso Comprimento: longo Decote: u Manga: manga longa Estilo: loose Tecido: malha Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":318
+      },
+      {
+        "product_id":"8223371067553",
+        "name":"VESTIDO CURTO MANGA LONGA BUFANTE - PRETO",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425145_0002_vestido-curto-manga-longa-bufante-preto_0_db0cecda-9f33-4cde-bed4-b07f3a47f5cf.jpg?v=1749230995",
+        "category":"VESTIDOS",
+        "description":"Deslumbre em qualquer evento com nosso Vestido Curto Manga Longa Bufante! O design sofisticado e a gola elegante combinam perfeitamente com a manga longa e o tecido fluido em poliéster. Seja o destaque da festa com essa peça única e versátil. Detalhes da peça: Estampa: liso Comprimento: curto Decote: gola Manga: manga longa Estilo: festa Tecido: plano",
+        "relevance_score":311
+      },
+      {
+        "product_id":"8223332696225",
+        "name":"VESTIDO CURTO DE ALÇAS - BEGE",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425142_0006_vestido-curto-de-alcas-bege_0_80fe4cbe-9388-44a9-90e7-cec35aedad5c.jpg?v=1746731044",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com o VESTIDO CURTO DE ALÇAS! Perfeito para festas, seu design minimalista e tecido fluido de poliéster, algodão, viscose e linho proporcionam um look elevado e versátil. Um item curinga no seu closet! Detalhes da peça: Estampa: liso Comprimento: curto Decote: u Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":307
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"8028389671073",
+        "name":"Macaquinho Manga Longa - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226102_0002_macaquinho-manga-longa-preto_0_3bdcc896-cb05-4892-a8dd-999056007fc6.jpg?v=1745864564",
+        "category":"MACACÕES",
+        "description":"Macaquinho manga longa perfeito para um look elegante e despojado. Destaque para a cintura com amarração e mangas longas. Ideal para eventos casuais ou encontros sofisticados. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Altura da Cintura: Cintura com amarração Comprimento: Curto Comprimento da Manga: Manga longa Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":308
+      },
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":280
+      },
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":262
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"8010763141281",
+        "name":"Saia Midi com Pregas - Rosa",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225772_0013_saia-midi-com-pregas-rosa_0_93abc5ad-daf1-4c67-8037-ade068fd11e7.jpg?v=1747662509",
+        "category":"SAIAS",
+        "description":"Descubra a saia midi com pregas, uma peça de alfaiataria que une elegância e modernidade. Feita em viscose e poliéster, possui cós alto e comprimento longo, perfeita para um look versátil e sofisticado. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":315
+      },
+      {
+        "product_id":"8010763239585",
+        "name":"Saia Midi com Pregas - Verde Claro",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225772_0183_saia-midi-com-pregas-verde-claro_0_5926fb68-71a3-4af3-8d79-97995ddd1f53.jpg?v=1747662515",
+        "category":"SAIAS",
+        "description":"Descubra a saia midi com pregas, uma peça de alfaiataria que une elegância e modernidade. Feita em viscose e poliéster, possui cós alto e comprimento longo, perfeita para um look versátil e sofisticado. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":313
+      },
+      {
+        "product_id":"8000652705953",
+        "name":"Saia Evasê de Malha - Preto",
+        "price":"R$ 149,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225831_0002_short-saia-evase-preto_0_10bc6848-be93-4e17-b539-50a029363778.jpg?v=1733347390",
+        "category":"SAIAS",
+        "description":"Saia Evasê de Malha Uma peça versátil e atemporal para seu closet. A saia evasê de malha, com cintura alta e comprimento curto, é perfeita para looks casuais com um toque de elegância. Detalhes da Peça: Estilo: Básico Ocasião: Casual Alfaitaria: Alfaitado Clima: Calor Silhueta: Evasê Modelo tem 1.79m de altura e veste o tamanho P / 36",
+        "relevance_score":303
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":348
+      },
+      {
+        "product_id":"7935596429473",
+        "name":"Blusa Ampla de Manga Curta - Preto",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225367_0002_blusa-ampla-de-manga-curta-preto_0_ea37059c-fac9-4e71-b9f5-9927470be75c.jpg?v=1749587063",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa Ampla de Manga Curta: Versátil e cool, essa blusa básica em viscolycra é um item curinga em qualquer closet. Ideal para um look casual e confortável, te acompanha por várias temporadas. Detalhes da peça: Composição: Viscose, Poliamida Decote: Reto Manga: Manga Curta Estilo: Básico Tecido: Plano Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":318
+      },
+      {
+        "product_id":"8098200289441",
+        "name":"Blusa Manga Curta de Malha - Bege",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226606_0006_blusa-manga-curta-de-malha-bege_0_2844ff16-1c23-45f3-add7-7536e6304e24.jpg?v=1739825678",
+        "category":"BLUSAS & TOPS",
+        "description":"Esta blusa manga curta de malha é o item básico perfeito para o seu closet! Versátil e confortável, te acompanha em diversas ocasiões. Combine com jeans para um look casual e despojado ou com uma saia para um visual mais elegante. Detalhes da peça: Composição: Algodão Estilo: Básico Estampa: Liso Decote: U Manga: Manga curta Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":315
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "query_raw":"Sou arquiteta e preciso visitar obras",
+  "query_norm":"sou arquiteta e preciso visitar obras",
+  "generated_at":"2025-08-25T06:35:34.446058+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_41_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "CALÇAS":[
+      {
+        "product_id":"7927614406817",
+        "name":"Calça Reta Cintura Alta Alfaiataria - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226231_0002_calca-cintura-alta-de-alfaiataria-preto_0_e3aade34-dda3-484f-a73e-4d8a20dfe463.jpg?v=1747662684",
+        "category":"CALÇAS",
+        "description":"Desfrute de elegância e conforto com a Calça Reta Cintura Alta Alfaiataria. Feita em viscose e poliéster, seu design clássico e cós alto proporcionam um look elevado em qualquer ocasião. Perfeita para um visual sofisticado e versátil. Detalhes da peça: Estampa: liso Comprimento: longo Cós: alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":213
+      },
+      {
+        "product_id":"8223935791265",
+        "name":"CALÇA RETA COM BOLSOS DE ALFAIATARIA - VERDE",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310841_0014_calca-reta-com-bolsos-de-alfaiataria-verde_0_a719a8c1-8c48-4fc5-a3b2-fcb6d4db8495.jpg?v=1748268099",
+        "category":"CALÇAS",
+        "description":"Feita para mulheres sofisticadas, a calça reta com bolsos de alfaiataria é a peça-chave do seu guarda-roupa. Em viscose e poliéster, o tecido de sarja proporciona conforto e elegância. Versátil, pode ser usada em diversas ocasiões, do trabalho a um jantar especial. Detalhes da peça Estampa: liso Comprimento: longo Cós: médio Estilo: reta Tecido: sarja Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":213
+      },
+      {
+        "product_id":"7956204978337",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Preto",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0002_calca-wide-leg-cos-elastico-com-pregas-preto_0_549163b0-a179-4b58-a82b-bd226c46b0b8.jpg?v=1749566672",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":210
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":194
+      },
+      {
+        "product_id":"8223929761953",
+        "name":"MACACÃO SEM ALÇAS DE ALFAIATARIA - VERDE",
+        "price":"R$ 519,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310838_0014_macacao-sem-alcas-de-alfaiataria-verde_0_56528684-eec2-40cf-ae20-9393d0dbf492.jpg?v=1746730314",
+        "category":"MACACÕES",
+        "description":"Desfrute do luxo discreto do Macacão Sem Alças de Alfaiataria, feito em crepe de poliéster. O design minimalista e elegante, com decote reto e comprimento longo, torna esta peça um item versátil para eventos sofisticados ou ocasiões especiais. Detalhes da peça: Estampa: liso Comprimento: longo Decote: reto Manga: sem alça Estilo: alfaiataria Tecido: crepe Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":194
+      },
+      {
+        "product_id":"8177527816353",
+        "name":"Macacão Decote Halter Neck Alfaiataria - Azul",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310779_0015_macacao-decote-halter-neck-alfaiataria-azul_0_52d10d12-0e11-476a-8bb1-04921a98e0d7.jpg?v=1740751109",
+        "category":"MACACÕES",
+        "description":"Destaque-se com o Macacão Decote Halter Neck Alfaiataria, perfeito para um look urbano e casual com um toque statement. Seu design alfaia-tado e comprimento longo garantem elegância e estilo em qualquer ocasião. Detalhes da Peça: Estilo: Urbano, Statement Ocasião: Casual Alfaitaria: Alfaia-tado Comprimento: Longo Estilo de Gola/Decote Frontal: Frente Única Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":190
+      }
+    ],
+    "CAMISAS":[
+      {
+        "product_id":"8223194808481",
+        "name":"CAMISA MANGA LONGA BARRA RETA - OFF-WHITE",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425139_0029_camisa-manga-longa-barra-reta-off-white_0_f474b6ec-4253-4247-9dec-4aa9a66b53ce.jpg?v=1749567505",
+        "category":"CAMISAS",
+        "description":"Com design clean e minimalista, a CAMISA MANGA LONGA BARRA RETA é uma peça versátil e atemporal, perfeita para um look elegante e sofisticado. Confeccionada em poliéster, possui detalhes na gola e mangas, garantindo um visual sofisticado e moderno. Ideal para compor um look de trabalho ou um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":207
+      },
+      {
+        "product_id":"8223197855905",
+        "name":"CAMISA MANGA LONGA BARRA RETA - PRETO",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425140_0002_camisa-manga-longa-barra-reta-preto-1_0_f90ef993-6ba0-418c-a005-ef1cf687c201.jpg?v=1747260626",
+        "category":"CAMISAS",
+        "description":"Uma camisa de manga longa com barra reta, em tecido plano de poliéster. Versátil e minimalista, perfeita para um look elegante e atemporal. Ideal para um evento social ou uma reunião de negócios. Detalhes da peça Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":207
+      },
+      {
+        "product_id":"8223194775713",
+        "name":"CAMISA MANGA LONGA BARRA RETA - MARROM",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425139_0008_camisa-manga-longa-barra-reta-marrom_0_ef870971-10f4-4afc-b7c5-317aebac54c6.jpg?v=1749567485",
+        "category":"CAMISAS",
+        "description":"Com design clean e minimalista, a CAMISA MANGA LONGA BARRA RETA é uma peça versátil e atemporal, perfeita para um look elegante e sofisticado. Confeccionada em poliéster, possui detalhes na gola e mangas, garantindo um visual sofisticado e moderno. Ideal para compor um look de trabalho ou um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":206
+      }
+    ]
+  }
+}

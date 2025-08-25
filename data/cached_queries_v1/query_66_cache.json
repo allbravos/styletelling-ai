@@ -1,0 +1,159 @@
+{
+  "query_raw":"Tarde de autógrafos em livraria cult",
+  "query_norm":"tarde de autografos em livraria cult",
+  "generated_at":"2025-08-25T07:04:41.079571+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_66_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"7935596462241",
+        "name":"Vestido Curto Reto com Alça - Preto",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225371_0002_vestido-curto-reto-com-alca-preto_0_98c059ca-422d-4340-89c5-a0b37c80283e.jpg?v=1749580489",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para mulheres que buscam elegância e sofisticação, o Vestido Curto Reto com Alça é a peça perfeita para um look versátil e atemporal. Seu design minimalista e tecido de viscose e poliamida garantem conforto e estilo em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: básico Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":200
+      },
+      {
+        "product_id":"7903276171425",
+        "name":"Vestido Regata Alfaiataria Midi - Preto",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224857_0002_vestido-regata-alfaiataria-midi-preto_0_4ed8bd1e-2d54-46b0-b8a2-b84346d3fbef.jpg?v=1749587057",
+        "category":"VESTIDOS",
+        "description":"Com design clean e minimalista, o Vestido Regata Alfaiataria Midi é a peça curinga que faltava no seu closet. Feito em crepe de poliéster, possui comprimento midi, decote reto e alças finas. Ideal para um look elegante e versátil em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: midi Decote: reto Manga: alça Estilo: alfaiataria Tecido: crepe Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":198
+      },
+      {
+        "product_id":"7994087080097",
+        "name":"Vestido Regata Midi de Crepe  - Preto",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225379_0002_vestido-regata-midi-de-crepe-preto_0_b7305d8e-95c9-47c1-b359-30794aee17d8.jpg?v=1749589606",
+        "category":"VESTIDOS",
+        "description":"Vista-se com sofisticação e estilo com o Vestido Regata Midi de Crepe. Com design minimalista e corte impecável, essa peça versátil é perfeita para um jantar elegante ou um evento casual. Aproveite o conforto do tecido de viscose e arrase em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: midi Decote: reto Manga: alça Estilo: básico Tecido: crepe Modelo tem 1.78m de altura e veste o tamanho P / 36",
+        "relevance_score":198
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":222
+      },
+      {
+        "product_id":"7935596429473",
+        "name":"Blusa Ampla de Manga Curta - Preto",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225367_0002_blusa-ampla-de-manga-curta-preto_0_ea37059c-fac9-4e71-b9f5-9927470be75c.jpg?v=1749587063",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa Ampla de Manga Curta: Versátil e cool, essa blusa básica em viscolycra é um item curinga em qualquer closet. Ideal para um look casual e confortável, te acompanha por várias temporadas. Detalhes da peça: Composição: Viscose, Poliamida Decote: Reto Manga: Manga Curta Estilo: Básico Tecido: Plano Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":204
+      },
+      {
+        "product_id":"8018804506785",
+        "name":"Regata Reta  - Preto",
+        "price":"R$ 169,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225355_0002_regata-reta-com-botoes-na-lateral-preto_0_f54722e6-48b5-4f4d-9883-f5b27065dcc6.jpg?v=1743180630",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata Reta em crepe, perfeita para um look casual-chic. Ideal para combinar com peças de alfaiataria ou jeans. O fecho de botão nas costas adiciona um toque de sofisticação. Detalhes da peça: Estilo básico Composição: viscose, poliamida Fecho de botão nas costas Estampa lisa Decote reto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":203
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7842321629345",
+        "name":"Saia Midi Tubo  - Preto",
+        "price":"R$ 259,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51107222_0002_saia-midi-tubo-preto_0_7d4fe1bf-addc-428b-bacd-f5a709ebdce0.jpg?v=1744114192",
+        "category":"SAIAS",
+        "description":"Desfrute da elegância minimalista da Saia Midi Tubo. Com cós alto e comprimento midi, essa peça em crepe é um item versátil e atemporal para seu closet. Perfeito para um look elevado em qualquer ocasião. Detalhes da peça: Estampa: liso Comprimento: midi Cós: alto Estilo: plano Tecido: crepe Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":197
+      },
+      {
+        "product_id":"8169043034273",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Manteiga",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_5799_saia-midi-com-fenda-frontal-alfaiataria-manteiga_0_67c97384-1266-48b3-868f-5d91536ef066.jpg?v=1747255015",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":196
+      },
+      {
+        "product_id":"7979069276321",
+        "name":"Saia Midi Cintura Alta com Pregas - Off-white",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225455_0029_saia-midi-cintura-alta-com-pregas-off-white_0_92c2d4ef-d629-4ef1-b59b-be90eb986b36.jpg?v=1744291453",
+        "category":"SAIAS",
+        "description":"Saia Midi Cintura Alta com Pregas Peça versátil e elegante para um look elevado. A saia midi cintura alta com pregas é um item clássico e atemporal, perfeito para ocasiões casuais. Detalhes da Peça Estilo: Clássico Ocasião: Casual Alfaitaria: Alfaitado Clima: Meia-estação, calor Silhueta: Evasê Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":192
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"7956205076641",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0029_calca-wide-leg-cos-elastico-com-pregas-off-white_0_3615de9d-dd76-47d7-aac3-5e0fd616321c.jpg?v=1749566685",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":203
+      },
+      {
+        "product_id":"7981101940897",
+        "name":"Calça Reta Cós Elástico  - Preto",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225414_0002_calca-reta-cos-elastico-preto_0_f6a1f367-b7be-45bf-a7ca-6af5c3451777.jpg?v=1740412823",
+        "category":"CALÇAS",
+        "description":"Calça Reta Cós Elástico: A peça curinga que te acompanha em diversas ocasiões. Com cintura alta e cós elástico, essa calça proporciona conforto e estilo em um só item. Perfeita para um look casual e descolado. Detalhes da peça: Estilo: Reta Composição: Viscose, Poliamida Altura da Cintura: Cintura Alta Comprimento: Longo Estampa: Liso Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":203
+      },
+      {
+        "product_id":"7956204978337",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Preto",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0002_calca-wide-leg-cos-elastico-com-pregas-preto_0_549163b0-a179-4b58-a82b-bd226c46b0b8.jpg?v=1749566672",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":200
+      }
+    ],
+    "CAMISAS":[
+      {
+        "product_id":"8223185404065",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - AREIA",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0557_camisa-manga-longa-barra-arredondada-areia_0_dae87324-2c57-4162-91b6-ba4292dfa8c9.jpg?v=1749230435",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":207
+      },
+      {
+        "product_id":"8223185305761",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - OFF-WHITE",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0029_camisa-manga-longa-barra-arredondada-off-white_0_6ff6f4dc-5932-485e-8a9f-b0c561cb3365.jpg?v=1749230425",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":205
+      },
+      {
+        "product_id":"8223185207457",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - PRETO",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0002_camisa-manga-longa-barra-arredondada-preto_0_f11201de-ca1e-466e-800b-50f2db8c8509.jpg?v=1749230402",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":204
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "query_raw":"Gravação de vídeo institucional da empresa",
+  "query_norm":"gravacao de video institucional da empresa",
+  "generated_at":"2025-08-25T06:42:10.002676+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_47_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "CAMISAS":[
+      {
+        "product_id":"8223194808481",
+        "name":"CAMISA MANGA LONGA BARRA RETA - OFF-WHITE",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425139_0029_camisa-manga-longa-barra-reta-off-white_0_f474b6ec-4253-4247-9dec-4aa9a66b53ce.jpg?v=1749567505",
+        "category":"CAMISAS",
+        "description":"Com design clean e minimalista, a CAMISA MANGA LONGA BARRA RETA é uma peça versátil e atemporal, perfeita para um look elegante e sofisticado. Confeccionada em poliéster, possui detalhes na gola e mangas, garantindo um visual sofisticado e moderno. Ideal para compor um look de trabalho ou um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":75
+      },
+      {
+        "product_id":"8223197855905",
+        "name":"CAMISA MANGA LONGA BARRA RETA - PRETO",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425140_0002_camisa-manga-longa-barra-reta-preto-1_0_f90ef993-6ba0-418c-a005-ef1cf687c201.jpg?v=1747260626",
+        "category":"CAMISAS",
+        "description":"Uma camisa de manga longa com barra reta, em tecido plano de poliéster. Versátil e minimalista, perfeita para um look elegante e atemporal. Ideal para um evento social ou uma reunião de negócios. Detalhes da peça Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":75
+      },
+      {
+        "product_id":"7973223694497",
+        "name":"Camisa Manga Longa de Crepe - Coral",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225351_0018_camisa-manga-longa-de-crepe-coral_0_2adf2e29-1a1c-49b6-98a0-a98d70da3942.jpg?v=1743708094",
+        "category":"CAMISAS",
+        "description":"Camisa Manga Longa de Crepe Uma camisa versátil e elegante, perfeita para um look de trabalho ou happy hour. O crepe confere um toque sofisticado, enquanto o corte impecável garante um visual moderno e atemporal. Detalhes da peça: Manga longa Gola decote frontal Fecho frontal Silhueta clássica Material em crepe Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":74
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"8018804506785",
+        "name":"Regata Reta  - Preto",
+        "price":"R$ 169,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225355_0002_regata-reta-com-botoes-na-lateral-preto_0_f54722e6-48b5-4f4d-9883-f5b27065dcc6.jpg?v=1743180630",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata Reta em crepe, perfeita para um look casual-chic. Ideal para combinar com peças de alfaiataria ou jeans. O fecho de botão nas costas adiciona um toque de sofisticação. Detalhes da peça: Estilo básico Composição: viscose, poliamida Fecho de botão nas costas Estampa lisa Decote reto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":77
+      },
+      {
+        "product_id":"8041802268833",
+        "name":"Regata Reta  - Bege",
+        "price":"R$ 169,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225355_0006_regata-reta-com-botoes-na-lateral-bege_0_91ff4485-918f-4450-8f54-1506ddb8208c.jpg?v=1743180658",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata Reta em crepe, perfeita para um look casual-chic. Ideal para combinar com peças de alfaiataria ou jeans. O fecho de botão nas costas adiciona um toque de sofisticação. Detalhes da peça: Estilo básico Composição: viscose, poliamida Fecho de botão nas costas Estampa lisa Decote reto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":76
+      },
+      {
+        "product_id":"7888894263457",
+        "name":"Blusa Manga Longa Decote V - Bege",
+        "price":"R$ 169,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224965_0006_blusa-manga-longa-decote-v-bege_0_49513404-b29c-4fb9-a75d-5c44246ec01b.jpg?v=1745240519",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa Manga Longa Decote V: Peça versátil e cool, ideal para um look elevado no dia a dia. O decote V e o caimento fluido garantem um visual despojado e moderno. Detalhes da Peça: Blusa Manga Longa Decote V: Peça versátil e cool, ideal para um look elevado no dia a dia. O decote V e o caimento fluido garantem um visual despojado e moderno. **Detalhes da Peça:** Estilo: Casual Comprimento da Manga: Longa Decote: V Estampa: Liso Tecido: Plano Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":75
+      }
+    ],
+    "VESTIDOS":[
+      {
+        "product_id":"8223359631521",
+        "name":"VESTIDO LONGO DECOTE V COM GOLA - AZUL",
+        "price":"R$ 439,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425144_0015_vestido-longo-decote-v-com-gola-azul_0_3976c61a-dd67-49f9-82d8-aaecb9fd2736.jpg?v=1749232184",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com o VESTIDO LONGO DECOTE V COM GOLA, a peça perfeita para mulheres sofisticadas e modernas. Com design minimalista em linho e viscose, manga curta e comprimento midi, esse vestido é um item versátil e atemporal que te acompanha em diversas ocasiões, do dia à noite. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga curta Estilo: maxi Tecido: plano",
+        "relevance_score":76
+      },
+      {
+        "product_id":"7935596560545",
+        "name":"Vestido Curto Reto com Alça - Verde Militar",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225371_0033_vestido-curto-reto-com-alca-verde-militar_0_0ec2422a-2e6a-4e16-8a66-dc4dd5d8416b.jpg?v=1749580438",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para mulheres que buscam elegância e sofisticação, o Vestido Curto Reto com Alça é a peça perfeita para um look versátil e atemporal. Seu design minimalista e tecido de viscose e poliamida garantem conforto e estilo em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: básico Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":75
+      },
+      {
+        "product_id":"8223309529249",
+        "name":"VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA - AZUL",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310828_0015_vestido-curto-frente-unica-alfaiataria-azul_0_ed3b0cbd-b0c1-4b37-a8f1-7b93e53de13c.jpg?v=1746645258",
+        "category":"VESTIDOS",
+        "description":"Desfrute do VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA, uma peça versátil e elegante para o seu closet de alta classe. Com design minimalista e tecido de poliéster e elastano, este vestido curto apresenta um decote reto, sem alça, perfeito para ocasiões sofisticadas e modernas. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: sem alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":75
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"7956204978337",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Preto",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0002_calca-wide-leg-cos-elastico-com-pregas-preto_0_549163b0-a179-4b58-a82b-bd226c46b0b8.jpg?v=1749566672",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":78
+      },
+      {
+        "product_id":"7927614406817",
+        "name":"Calça Reta Cintura Alta Alfaiataria - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226231_0002_calca-cintura-alta-de-alfaiataria-preto_0_e3aade34-dda3-484f-a73e-4d8a20dfe463.jpg?v=1747662684",
+        "category":"CALÇAS",
+        "description":"Desfrute de elegância e conforto com a Calça Reta Cintura Alta Alfaiataria. Feita em viscose e poliéster, seu design clássico e cós alto proporcionam um look elevado em qualquer ocasião. Perfeita para um visual sofisticado e versátil. Detalhes da peça: Estampa: liso Comprimento: longo Cós: alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":77
+      },
+      {
+        "product_id":"7956205043873",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Coral",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0018_calca-wide-leg-cos-elastico-com-pregas-coral_0_211cca5c-7e60-4131-b276-53ba6c0373da.jpg?v=1749566731",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":77
+      }
+    ]
+  }
+}

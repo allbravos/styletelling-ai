@@ -1,0 +1,159 @@
+{
+  "query_raw":"Lançamento de livro",
+  "query_norm":"lancamento de livro",
+  "generated_at":"2025-08-25T06:11:10.414545+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_18_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8223359631521",
+        "name":"VESTIDO LONGO DECOTE V COM GOLA - AZUL",
+        "price":"R$ 439,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425144_0015_vestido-longo-decote-v-com-gola-azul_0_3976c61a-dd67-49f9-82d8-aaecb9fd2736.jpg?v=1749232184",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com o VESTIDO LONGO DECOTE V COM GOLA, a peça perfeita para mulheres sofisticadas e modernas. Com design minimalista em linho e viscose, manga curta e comprimento midi, esse vestido é um item versátil e atemporal que te acompanha em diversas ocasiões, do dia à noite. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga curta Estilo: maxi Tecido: plano",
+        "relevance_score":81
+      },
+      {
+        "product_id":"7935596560545",
+        "name":"Vestido Curto Reto com Alça - Verde Militar",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225371_0033_vestido-curto-reto-com-alca-verde-militar_0_0ec2422a-2e6a-4e16-8a66-dc4dd5d8416b.jpg?v=1749580438",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para mulheres que buscam elegância e sofisticação, o Vestido Curto Reto com Alça é a peça perfeita para um look versátil e atemporal. Seu design minimalista e tecido de viscose e poliamida garantem conforto e estilo em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: básico Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":79
+      },
+      {
+        "product_id":"8223309529249",
+        "name":"VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA - AZUL",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310828_0015_vestido-curto-frente-unica-alfaiataria-azul_0_ed3b0cbd-b0c1-4b37-a8f1-7b93e53de13c.jpg?v=1746645258",
+        "category":"VESTIDOS",
+        "description":"Desfrute do VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA, uma peça versátil e elegante para o seu closet de alta classe. Com design minimalista e tecido de poliéster e elastano, este vestido curto apresenta um decote reto, sem alça, perfeito para ocasiões sofisticadas e modernas. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: sem alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":79
+      }
+    ],
+    "CAMISAS":[
+      {
+        "product_id":"8223185207457",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - PRETO",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0002_camisa-manga-longa-barra-arredondada-preto_0_f11201de-ca1e-466e-800b-50f2db8c8509.jpg?v=1749230402",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":79
+      },
+      {
+        "product_id":"8223185305761",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - OFF-WHITE",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0029_camisa-manga-longa-barra-arredondada-off-white_0_6ff6f4dc-5932-485e-8a9f-b0c561cb3365.jpg?v=1749230425",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":78
+      },
+      {
+        "product_id":"8223185404065",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - AREIA",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0557_camisa-manga-longa-barra-arredondada-areia_0_dae87324-2c57-4162-91b6-ba4292dfa8c9.jpg?v=1749230435",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":78
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7873071055009",
+        "name":"Blusa Manga Longa Transpassada com Amarração - Verde Militar",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225246_0033_blusa-manga-longa-transpassada-com-amarracao-verde-militar_0_c1d31b80-224c-43d6-ab31-8a2807905a94.jpg?v=1743708629",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa manga longa transpassada com amarração, perfeita para um look casual chic. O design transpassado e a amarração trazem um toque moderno e elegante, ideal para diversas ocasiões. Detalhes da peça: Composição: Viscose, Poliamida Tipo de Punho: Punhos de camisa Tipo do Fecho: Amarração Estampa: Liso Tecido: Plano Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":85
+      },
+      {
+        "product_id":"7890588041377",
+        "name":"Blusa Manga Longa Transpassada com Amarração - Azul",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225246_0015_blusa-manga-longa-transpassada-com-amarracao-azul_0_15e23ab9-07dd-42aa-8b3c-e02848f3d863.jpg?v=1743708642",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa manga longa transpassada com amarração, perfeita para um look casual chic. O design transpassado e a amarração trazem um toque moderno e elegante, ideal para diversas ocasiões. Detalhes da peça: Composição: Viscose, Poliamida Tipo de Punho: Punhos de camisa Tipo do Fecho: Amarração Estampa: Liso Tecido: Plano Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":82
+      },
+      {
+        "product_id":"8018804506785",
+        "name":"Regata Reta  - Preto",
+        "price":"R$ 169,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225355_0002_regata-reta-com-botoes-na-lateral-preto_0_f54722e6-48b5-4f4d-9883-f5b27065dcc6.jpg?v=1743180630",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata Reta em crepe, perfeita para um look casual-chic. Ideal para combinar com peças de alfaiataria ou jeans. O fecho de botão nas costas adiciona um toque de sofisticação. Detalhes da peça: Estilo básico Composição: viscose, poliamida Fecho de botão nas costas Estampa lisa Decote reto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":80
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":76
+      },
+      {
+        "product_id":"7880068563105",
+        "name":"Macacão com Manga Sino Alfaiataria - Rosa Escuro",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225153_0927_macacao-wide-com-manga-sino-rosa-escuro_0_ef3d6441-2854-4caf-9250-37cdace630a4.jpg?v=1743703950",
+        "category":"MACACÕES",
+        "description":"Macacão com manga sino, perfeito para um look elegante e moderno. Ideal para trabalhar ou para uma noite especial. Detalhes da Peça: Estilo clássico Alfaitaria alinhada Manga flutuante Decote redondo Silhueta justa Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":76
+      },
+      {
+        "product_id":"8223929761953",
+        "name":"MACACÃO SEM ALÇAS DE ALFAIATARIA - VERDE",
+        "price":"R$ 519,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310838_0014_macacao-sem-alcas-de-alfaiataria-verde_0_56528684-eec2-40cf-ae20-9393d0dbf492.jpg?v=1746730314",
+        "category":"MACACÕES",
+        "description":"Desfrute do luxo discreto do Macacão Sem Alças de Alfaiataria, feito em crepe de poliéster. O design minimalista e elegante, com decote reto e comprimento longo, torna esta peça um item versátil para eventos sofisticados ou ocasiões especiais. Detalhes da peça: Estampa: liso Comprimento: longo Decote: reto Manga: sem alça Estilo: alfaiataria Tecido: crepe Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":76
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7935598493857",
+        "name":"Saia Curta Transpassada com Amarração - Verde Militar",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225420_0033_saia-curta-transpassada-com-amarracao-verde-militar_0_376538e5-d0d1-47d5-b58a-3796b264d6d8.jpg?v=1743771250",
+        "category":"SAIAS",
+        "description":"Saia Curta Transpassada com Amarração: peça versátil que te acompanha em diversas ocasiões. O design transpassado e a amarração destacam a silhueta, garantindo um look cool e descolado. Detalhes da peça: Composição: Viscose, Poliamida Comprimento: Curto Detalhes: Amarração Estampa: Liso Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":83
+      },
+      {
+        "product_id":"7788019810465",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Preto",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_0002_saia-midi-com-fenda-preto_0_9b8a5f84-3b00-44d8-849b-a1a56101f582.jpg?v=1747255086",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":79
+      },
+      {
+        "product_id":"7935598395553",
+        "name":"Saia Curta Transpassada com Amarração - Preto",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225420_0002_saia-curta-transpassada-com-amarracao-preto_0_a80e8049-9385-4091-ac70-12280b15a8eb.jpg?v=1743771241",
+        "category":"SAIAS",
+        "description":"Saia Curta Transpassada com Amarração: peça versátil que te acompanha em diversas ocasiões. O design transpassado e a amarração destacam a silhueta, garantindo um look cool e descolado. Detalhes da peça: Composição: Viscose, Poliamida Comprimento: Curto Detalhes: Amarração Estampa: Liso Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":79
+      }
+    ]
+  }
+}

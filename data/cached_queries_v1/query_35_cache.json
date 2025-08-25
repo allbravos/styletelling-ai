@@ -1,0 +1,159 @@
+{
+  "query_raw":"Look para ir da academia para o mercado",
+  "query_norm":"look para ir da academia para o mercado",
+  "generated_at":"2025-08-25T06:28:58.785640+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_35_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":378
+      },
+      {
+        "product_id":"8098200289441",
+        "name":"Blusa Manga Curta de Malha - Bege",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226606_0006_blusa-manga-curta-de-malha-bege_0_2844ff16-1c23-45f3-add7-7536e6304e24.jpg?v=1739825678",
+        "category":"BLUSAS & TOPS",
+        "description":"Esta blusa manga curta de malha é o item básico perfeito para o seu closet! Versátil e confortável, te acompanha em diversas ocasiões. Combine com jeans para um look casual e despojado ou com uma saia para um visual mais elegante. Detalhes da peça: Composição: Algodão Estilo: Básico Estampa: Liso Decote: U Manga: Manga curta Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":351
+      },
+      {
+        "product_id":"8151265411233",
+        "name":"Blusa Polo de Tricot Telado - Chumbo",
+        "price":"R$ 219,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211270_0152_blusa-polo-de-tricot-telado-chumbo_0_663f8f02-2952-422e-9ebf-199341352d51.jpg?v=1747254979",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa polo de tricot telado, perfeita para um look casual e descolado. Confeccionada em material reciclado, com gola polo e mangas curtas, é uma peça versátil que te acompanha por várias temporadas. Detalhes da peça: Estilo básico Composição: acrílico, viscose Silhueta reta Comprimento longo Estampa lisa Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":348
+      }
+    ],
+    "CAMISETAS":[
+      {
+        "product_id":"8098189803681",
+        "name":"Camiseta Manga Curta Dobrada de Malha - Bege",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226512_0006_01_1d5bc74d-45ba-4521-977d-7917ba719374.jpg?v=1745354161",
+        "category":"CAMISETAS",
+        "description":"Desperte seu estilo casual com a CAMISETA MANGA CURTA DOBRADA DE MALHA, perfeita para um look descontraído e atual. Feita em poliéster e viscose, essa peça versátil é um curinga no seu closet. Detalhes da peça: Estilo: BÁSICO Composição: POLIÉSTER, VISCOSE Estampa: LISO Manga: MANGA CURTA Tecido: MALHA Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":365
+      },
+      {
+        "product_id":"7788769935521",
+        "name":"T-shirt Viscose Decote V Lisa - Preto",
+        "price":"R$ 89,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50500701_0002_t-shirt-basica-viscose-decote-v-lisa-preto_0_b4fd6783-8bb0-465c-b9ba-049a49cce762.jpg?v=1747835349",
+        "category":"CAMISETAS",
+        "description":"A t-shirt de viscose com decote V é a peça curinga que faltava no seu closet de luxo. Feita em malha de alta qualidade, seu design minimalista e elegante se destaca pela versatilidade e conforto. Perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: v Manga: manga curta Estilo: camiseta Tecido: malha Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":331
+      },
+      {
+        "product_id":"7788770099361",
+        "name":"T-shirt Viscose Decote V Lisa - Off-white",
+        "price":"R$ 89,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50500701_0029_t-shirt-basica-viscose-decote-v-lisa-off-white_0_b448a068-f640-4c72-a85c-83257d1ac91b.jpg?v=1747835261",
+        "category":"CAMISETAS",
+        "description":"A t-shirt de viscose com decote V é a peça curinga que faltava no seu closet de luxo. Feita em malha de alta qualidade, seu design minimalista e elegante se destaca pela versatilidade e conforto. Perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: v Manga: manga curta Estilo: camiseta Tecido: malha Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":331
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"7956205076641",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0029_calca-wide-leg-cos-elastico-com-pregas-off-white_0_3615de9d-dd76-47d7-aac3-5e0fd616321c.jpg?v=1749566685",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":327
+      },
+      {
+        "product_id":"7956204978337",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Preto",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0002_calca-wide-leg-cos-elastico-com-pregas-preto_0_549163b0-a179-4b58-a82b-bd226c46b0b8.jpg?v=1749566672",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":321
+      },
+      {
+        "product_id":"7981101940897",
+        "name":"Calça Reta Cós Elástico  - Preto",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225414_0002_calca-reta-cos-elastico-preto_0_f6a1f367-b7be-45bf-a7ca-6af5c3451777.jpg?v=1740412823",
+        "category":"CALÇAS",
+        "description":"Calça Reta Cós Elástico: A peça curinga que te acompanha em diversas ocasiões. Com cintura alta e cós elástico, essa calça proporciona conforto e estilo em um só item. Perfeita para um look casual e descolado. Detalhes da peça: Estilo: Reta Composição: Viscose, Poliamida Altura da Cintura: Cintura Alta Comprimento: Longo Estampa: Liso Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":317
+      }
+    ],
+    "SHORTS":[
+      {
+        "product_id":"8093312286881",
+        "name":"Shorts de Malha Atoalhado - Off-white",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226629_0029_shorts-de-malha-atoalhado-off-white_1_b5ecc82b-41f2-488c-8505-a0c406b6a737.jpg?v=1738763563",
+        "category":"SHORTS",
+        "description":"Shorts de malha atoalhado, perfeito para um look casual e confortável. Ideal para dias quentes, com cintura alta e elástico, proporcionando estilo e praticidade. Detalhes da Peça: Estilo: Confortável, Urbano Ocasião: Casual Clima: Calor Altura da Cintura: Cintura Alta Comprimento: Curto Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":328
+      },
+      {
+        "product_id":"8000653099169",
+        "name":"Short com Bolsos Frontais de Malha - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225833_0029_short-curto-com-bolsos-de-malha-off-white_0_bedb6758-fb3f-492c-9b71-54f429d9b6ec.jpg?v=1740759266",
+        "category":"SHORTS",
+        "description":"Short com bolsos frontais de malha, perfeito para um look casual e descolado. Cintura alta com elástico e comprimento curto, destaca-se pela barra larga. Ideal para dias de calor ou meia-estação. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Alfaitaria: Alfaitado Altura da Cintura: Cintura alta Silhueta: Triângulo Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":315
+      },
+      {
+        "product_id":"8223925141665",
+        "name":"SHORTS CURTO RETO ALFAIATARIA - AREIA",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310830_0557_shorts-curto-reto-alfaiataria-areia_0_6f1f5d23-7e77-4423-bddf-37a89c4813a2.jpg?v=1747916563",
+        "category":"SHORTS",
+        "description":"Despojado e sofisticado, o Shorts Curto em Alfaiataria é um must-have para o seu closet de verão. Feito em poliéster e elastano, possui cós médio e comprimento curto, perfeito para um look casual chic. Detalhes da peça Estampa: liso Comprimento: curto Cós: médio Estilo: shorts Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":315
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"8028389671073",
+        "name":"Macaquinho Manga Longa - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226102_0002_macaquinho-manga-longa-preto_0_3bdcc896-cb05-4892-a8dd-999056007fc6.jpg?v=1745864564",
+        "category":"MACACÕES",
+        "description":"Macaquinho manga longa perfeito para um look elegante e despojado. Destaque para a cintura com amarração e mangas longas. Ideal para eventos casuais ou encontros sofisticados. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Altura da Cintura: Cintura com amarração Comprimento: Curto Comprimento da Manga: Manga longa Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":320
+      },
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":294
+      },
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":273
+      }
+    ]
+  }
+}

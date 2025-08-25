@@ -1,0 +1,159 @@
+{
+  "query_raw":"Um look elegante para um jantar de negócios",
+  "query_norm":"um look elegante para um jantar de negocios",
+  "generated_at":"2025-08-25T06:23:48.092434+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_30_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8088451612833",
+        "name":"Vestido Curto de Alfaiataria com Recortes - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226130_0002_vestido-preto-5_0_39c86181-5878-44a0-9807-10b2b337baf1.jpg?v=1749580459",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para mulheres que buscam elegância e sofisticação, o Vestido Curto de Alfaiataria com Recortes é uma peça versátil e atemporal. Com detalhes impecáveis e tecido de linho e viscose, garante um look elevado em qualquer ocasião. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":362
+      },
+      {
+        "product_id":"8223344001185",
+        "name":"VESTIDO CURTO ACINTURADO ALFAIATARIA - PRETO",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/5666558.jpg?v=1749225547",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para a mulher contemporânea, o Vestido Curto Acinturado de Alfaiataria é a peça ideal para quem busca sofisticação e versatilidade. Com corte impecável e tecido de alta qualidade, sua alça fina e decote reto adicionam um toque minimalista e elegante ao look. Perfeito para eventos diurnos ou uma noite casual elegante. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: alfaiataria Tecido: plano",
+        "relevance_score":352
+      },
+      {
+        "product_id":"8223309496481",
+        "name":"VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA - PRETO",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310828_0002_vestido-curto-frente-unica-alfaiataria-preto_0_1a7c2d45-aa09-4edb-b58e-5f5a3d1677ec.jpg?v=1747859305",
+        "category":"VESTIDOS",
+        "description":"Desfrute do VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA, uma peça versátil e elegante para o seu closet de alta classe. Com design minimalista e tecido de poliéster e elastano, este vestido curto apresenta um decote reto, sem alça, perfeito para ocasiões sofisticadas e modernas. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: sem alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":348
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":328
+      },
+      {
+        "product_id":"7880068563105",
+        "name":"Macacão com Manga Sino Alfaiataria - Rosa Escuro",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225153_0927_macacao-wide-com-manga-sino-rosa-escuro_0_ef3d6441-2854-4caf-9250-37cdace630a4.jpg?v=1743703950",
+        "category":"MACACÕES",
+        "description":"Macacão com manga sino, perfeito para um look elegante e moderno. Ideal para trabalhar ou para uma noite especial. Detalhes da Peça: Estilo clássico Alfaitaria alinhada Manga flutuante Decote redondo Silhueta justa Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":317
+      },
+      {
+        "product_id":"7922702057633",
+        "name":"Macacão com Amarração na Cintura - Caramelo",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0027_macacao-utilitario-manga-longa-caramelo_0_589d81ea-71bd-44b0-bef4-5fc0d4654b67.jpg?v=1743703924",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":301
+      }
+    ],
+    "BLAZERS":[
+      {
+        "product_id":"8223288164513",
+        "name":"BLAZER SLIM GOLA COM LAPELA ALFAIATARIA - PRETO",
+        "price":"R$ 499,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310825_0002_blazer-slim-gola-com-lapela-alfaiataria-preto_0_59a8498e-cb22-46c2-8b8f-d6ada03c7020.jpg?v=1748268727",
+        "category":"BLAZERS",
+        "description":"Blazer Slim Gola com Lapela é a peça curinga que faltava no seu closet! Em tecido plano de poliéster e elastano, seu estilo alfaiataria traz elegância e sofisticação para qualquer look. Perfeito para um look elevado no trabalho ou para um evento especial. Detalhes da peça Comprimento: midi Estampa: liso Decote: gola Manga: manga longa Estilo: alfaiataria Tecido: poliéster, elastano Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":356
+      },
+      {
+        "product_id":"8041878651041",
+        "name":"Blazer Abotoamento Duplo - Preto",
+        "price":"R$ 419,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226134_0002_blazer-preto-1_0_96e88ebc-c965-4e62-a13f-b4b38f4483b8.jpg?v=1749567332",
+        "category":"BLAZERS",
+        "description":"Blazer Abotoamento Duplo Destaque-se com elegância no trabalho com nosso blazer abotoamento duplo. O design clássico e sofisticado é perfeito para a meia-estação e dias frios, garantindo um look elevado e versátil. Detalhes da Peça: Estilo: Clássico Ocasião: Para trabalhar Alfaitaria: Alfaitado Clima: Meia-estação, frio Comprimento da manga: Manga longa Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":345
+      },
+      {
+        "product_id":"8070839337121",
+        "name":"Blazer Slim Abotoamento Simples - Preto",
+        "price":"R$ 259,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225402_0002_blazer-slim-abotoamento-simples-preto_0_c29a57db-4701-462a-a796-1745c5a78cc2.jpg?v=1732206122",
+        "category":"BLAZERS",
+        "description":"Blazer Slim Abotoamento Simples Este blazer slim de abotoamento simples é a peça-chave para um look elegante e moderno. Seu corte impecável e design minimalista garantem sofisticação em qualquer ocasião. Detalhes da Peça: Código do Produto: 51225402 Categoria: Clothing Estilo: Clássico Comprimento da Manga: - Estrutura do Material: - Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":345
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"8010756522145",
+        "name":"Calça Wide Leg com Pregas - Preto",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225752_0002_calca-wide-leg-com-pregas-preto-1_0_09cfc759-b9ea-4273-8ca3-5c0affde66c2.jpg?v=1744291776",
+        "category":"CALÇAS",
+        "description":"Calça Wide Leg com pregas, perfeita para um look elegante e moderno. Destaque para o design sofisticado e corte impecável, ideal para ocasiões especiais ou para um visual de trabalho refinado. Detalhes da Peça: Estilo: Alfaitaria Altura da Cintura: - Cintura: - Comprimento: - Silhueta: Wide Leg Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":361
+      },
+      {
+        "product_id":"7927614406817",
+        "name":"Calça Reta Cintura Alta Alfaiataria - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226231_0002_calca-cintura-alta-de-alfaiataria-preto_0_e3aade34-dda3-484f-a73e-4d8a20dfe463.jpg?v=1747662684",
+        "category":"CALÇAS",
+        "description":"Desfrute de elegância e conforto com a Calça Reta Cintura Alta Alfaiataria. Feita em viscose e poliéster, seu design clássico e cós alto proporcionam um look elevado em qualquer ocasião. Perfeita para um visual sofisticado e versátil. Detalhes da peça: Estampa: liso Comprimento: longo Cós: alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":359
+      },
+      {
+        "product_id":"8223936610465",
+        "name":"CALÇA SLIM CROPPED DE ALFAIATARIA - PRETO",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310843_0002_calca-slim-cropped-de-alfaiataria-preto_0_4830c886-d834-4d7d-afc1-2202d4421475.jpg?v=1749224795",
+        "category":"CALÇAS",
+        "description":"Calça slim cropped de alfaiataria, perfeita para um look elegante e moderno. Feita em linho e viscose, com comprimento midi, cós médio e detalhes minimalistas. O tecido plano e a estampa lisa garantem um visual atemporal e sofisticado. Detalhes da peça: Estampa: liso Comprimento: midi Cós: médio Estilo: slim Tecido: plano",
+        "relevance_score":357
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7788019810465",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Preto",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_0002_saia-midi-com-fenda-preto_0_9b8a5f84-3b00-44d8-849b-a1a56101f582.jpg?v=1747255086",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":359
+      },
+      {
+        "product_id":"8223927369889",
+        "name":"SAIA CURTA COM PASSANTES DE ALFAIATARIA - PRETO",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310835_0002_saia-curta-com-passantes-de-alfaiataria-preto_0_775481a6-1a26-414c-bdba-eba5dc7ff8c7.jpg?v=1749224773",
+        "category":"SAIAS",
+        "description":"Saia curta com passantes de alfaiataria em poliéster, perfeita para compor looks versáteis e sofisticados. Seu design minimalista e elegante a torna um item curinga para o closet da mulher moderna. Detalhes da peça: Estampa: liso Comprimento: curto Cós: médio Estilo: alfaiataria Tecido: plano",
+        "relevance_score":351
+      },
+      {
+        "product_id":"8223927435425",
+        "name":"SAIA CURTA SLIM DE ALFAIATARIA - PRETO",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310836_0002_saia-curta-slim-de-alfaiataria-preto_0_0381a46d-01f5-40d6-b435-5e3235a2a929.jpg?v=1747411907",
+        "category":"SAIAS",
+        "description":"Desenvolvida para mulheres que buscam sofisticação no dia a dia, a Saia Curta Slim de Alfaiataria é um item versátil e elegante. Com tecido plano de poliéster e elastano, seu corte impecável garante um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Cós: médio Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":351
+      }
+    ]
+  }
+}

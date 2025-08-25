@@ -1,0 +1,130 @@
+{
+  "query_raw":"Cerimônia civil de casamento no cartório",
+  "query_norm":"cerimonia civil de casamento no cartorio",
+  "generated_at":"2025-08-25T06:18:30.687641+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_25_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8000617775265",
+        "name":"Vestido Midi com Fenda de Malha com Lurex - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225852_0002_vestido-midi-com-fenda-de-malha-de-lurex-preto_0_c76c4116-3376-4ffc-a3a0-8d414ab28d49.jpg?v=1744114307",
+        "category":"VESTIDOS",
+        "description":"Destaque-se com o VESTIDO MIDI COM FENDA DE MALHA COM LUREX, perfeito para diversas ocasiões. O design urbano e confortável com toque básico é ideal para um look casual ou para a noite. Detalhes da Peça: Estilo: Urbano, Confortável, Básico Ocasião: Casual, Para a Noite Comprimento: Midi Estilo de Manga: Sem Manga Decote: Redondo Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":326
+      },
+      {
+        "product_id":"7922702712993",
+        "name":"Vestido Midi de Alça com Saia Franzida - Preto",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224795_0002_vestido-midi-de-alca-com-saia-franzida-preto_0_c52e1195-feb5-4c34-a1f1-f77317e63571.jpg?v=1743703893",
+        "category":"VESTIDOS",
+        "description":"Destaque-se com elegância neste VESTIDO MIDI DE ALÇA COM SAIA FRANZIDA. Perfeito para ocasiões festivas, seu design clássico e urbano traz sofisticação e estilo. Detalhes da Peça: Estilo: Clássico, Urbano Ocasião: Arrumada, Festa Alfaitaria: Alfaitado Comprimento: Midi Estilo de Alça: Alça Fina",
+        "relevance_score":319
+      },
+      {
+        "product_id":"8223351865505",
+        "name":"VESTIDO LONGO COM FENDA - PRETO",
+        "price":"R$ 399,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425143_0002_vestido-longo-com-fenda-preto-1_0_58936be0-5a8e-47ca-92fe-7405a4ded71b.jpg?v=1747250628",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com elegância e sofisticação neste vestido longo com fenda. O comprimento midi e a alça fina trazem um toque de sensualidade, enquanto o tecido de viscose e linho garante conforto e fluidez. Perfeito para eventos noturnos ou ocasiões especiais. Detalhes da peça Estampa: liso Comprimento: midi Decote: reto Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":305
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7914458939553",
+        "name":"Macacão Wide Leg Decote V Regata - Vinho",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224812_0123_macacao-wide-leg-decote-v-regata-vinho_0_1207acc7-5ff8-4eb0-b81e-e4bf64d687a4.jpg?v=1743426012",
+        "category":"MACACÕES",
+        "description":"Macacão elegante com decote V e pernas amplas, ideal para um look casual sofisticado. Peça versátil que te acompanha do trabalho ao happy hour com estilo. Detalhes da Peça: Estilo: Elegante Ocasião: Casual, para trabalhar Alfaitaria: Alfaitado Clima: Calor Altura da Cintura: Cintura alta Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":261
+      },
+      {
+        "product_id":"8028389671073",
+        "name":"Macaquinho Manga Longa - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226102_0002_macaquinho-manga-longa-preto_0_3bdcc896-cb05-4892-a8dd-999056007fc6.jpg?v=1745864564",
+        "category":"MACACÕES",
+        "description":"Macaquinho manga longa perfeito para um look elegante e despojado. Destaque para a cintura com amarração e mangas longas. Ideal para eventos casuais ou encontros sofisticados. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Altura da Cintura: Cintura com amarração Comprimento: Curto Comprimento da Manga: Manga longa Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":256
+      },
+      {
+        "product_id":"7880068563105",
+        "name":"Macacão com Manga Sino Alfaiataria - Rosa Escuro",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225153_0927_macacao-wide-com-manga-sino-rosa-escuro_0_ef3d6441-2854-4caf-9250-37cdace630a4.jpg?v=1743703950",
+        "category":"MACACÕES",
+        "description":"Macacão com manga sino, perfeito para um look elegante e moderno. Ideal para trabalhar ou para uma noite especial. Detalhes da Peça: Estilo clássico Alfaitaria alinhada Manga flutuante Decote redondo Silhueta justa Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":247
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7979069276321",
+        "name":"Saia Midi Cintura Alta com Pregas - Off-white",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225455_0029_saia-midi-cintura-alta-com-pregas-off-white_0_92c2d4ef-d629-4ef1-b59b-be90eb986b36.jpg?v=1744291453",
+        "category":"SAIAS",
+        "description":"Saia Midi Cintura Alta com Pregas Peça versátil e elegante para um look elevado. A saia midi cintura alta com pregas é um item clássico e atemporal, perfeito para ocasiões casuais. Detalhes da Peça Estilo: Clássico Ocasião: Casual Alfaitaria: Alfaitado Clima: Meia-estação, calor Silhueta: Evasê Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":292
+      },
+      {
+        "product_id":"7944283881633",
+        "name":"Saia Curta de Jacquard Tricot - Verde Militar",
+        "price":"R$ 69,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50301874_0033_saia-curta-tricot-jacquard-verde-militar_0_a4e1c32a-f870-4604-908f-fec14d34c5d9.jpg?v=1743180619",
+        "category":"SAIAS",
+        "description":"Saia Curta Tricot Jacquard Desfrute do verão com estilo nesta saia curta de tricot jacquard. Perfeita para um look casual chic em dias quentes. Detalhes da Peça: Categoria: Clothing Estilo: Statement Ocasião: Casual Clima: Calor, Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.73m de altura e veste o tamanho P /  36",
+        "relevance_score":291
+      },
+      {
+        "product_id":"7827694059681",
+        "name":"Saia Midi Tubo de Paetê - Prata",
+        "price":"R$ 219,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224753_0003_saia-midi-tubo-de-paete-prata_0_76ecf8df-0b54-4074-8c41-fb8b5634410f.jpg?v=1749567867",
+        "category":"SAIAS",
+        "description":"Deslumbre com a sofisticação da Saia Midi Tubo de Paetê, perfeita para eventos noturnos. O cós alto valoriza a silhueta, enquanto o tecido de paetê garante brilho e glamour. Ideal para se destacar com elegância! Detalhes da peça Comprimento: midi Cós: alto Tecido: paetê Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":288
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"8000617676961",
+        "name":"Regata Gola Canoa de Malha com Lurex - Prata",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225849_0003_regata-gola-canoa-de-malha-com-lurex-prata_0_ef034357-3f7a-4966-991c-63ab038e4e42.jpg?v=1743180644",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata Gola Canoa de Malha com Lurex, perfeita para um look casual elegante durante o dia ou para à noite. Destaque-se com esse item statement e urbano. Detalhes da Peça: Estilo: Statement, Urbano Ocasião: Casual, Para à Noite Silhueta: Justa Decote: Canoa Comprimento da Manga: Regata Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":334
+      },
+      {
+        "product_id":"8000618070177",
+        "name":"Regata Gola Canoa de Malha com Lurex - Dourado",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225849_0009_regata-gola-canoa-de-malha-com-lurex-dourado_0_7be715e2-a49d-4bd4-9fbe-2e62b218c236.jpg?v=1743180653",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata Gola Canoa de Malha com Lurex, perfeita para um look casual elegante durante o dia ou para à noite. Destaque-se com esse item statement e urbano. Detalhes da Peça: Estilo: Statement, Urbano Ocasião: Casual, Para à Noite Silhueta: Justa Decote: Canoa Comprimento da Manga: Regata Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":329
+      },
+      {
+        "product_id":"7832322048161",
+        "name":"Camiseta Cropped de Tricot Listrada - Azul Marinho e Branco",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_2955_camiseta-cropped-de-trico-listrada-azul-marinho-e-branco_0_ca79b1cf-19e0-46c1-ad9f-68cd0ac0e047.jpg?v=1743180651",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":322
+      }
+    ]
+  }
+}

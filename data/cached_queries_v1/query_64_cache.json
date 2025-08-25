@@ -1,0 +1,101 @@
+{
+  "query_raw":"Pocket show de banda local",
+  "query_norm":"pocket show de banda local",
+  "generated_at":"2025-08-25T07:02:09.234352+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_64_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "MACACÕES":[
+      {
+        "product_id":"7922702123169",
+        "name":"Macacão com Amarração na Cintura - Cereja",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0351_macacao-utilitario-manga-longa-cereja_0_928f6b8a-daf6-4477-a9a1-2fb32e50f01c.jpg?v=1743703932",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":126
+      },
+      {
+        "product_id":"7880068563105",
+        "name":"Macacão com Manga Sino Alfaiataria - Rosa Escuro",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225153_0927_macacao-wide-com-manga-sino-rosa-escuro_0_ef3d6441-2854-4caf-9250-37cdace630a4.jpg?v=1743703950",
+        "category":"MACACÕES",
+        "description":"Macacão com manga sino, perfeito para um look elegante e moderno. Ideal para trabalhar ou para uma noite especial. Detalhes da Peça: Estilo clássico Alfaitaria alinhada Manga flutuante Decote redondo Silhueta justa Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":122
+      },
+      {
+        "product_id":"8177527816353",
+        "name":"Macacão Decote Halter Neck Alfaiataria - Azul",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310779_0015_macacao-decote-halter-neck-alfaiataria-azul_0_52d10d12-0e11-476a-8bb1-04921a98e0d7.jpg?v=1740751109",
+        "category":"MACACÕES",
+        "description":"Destaque-se com o Macacão Decote Halter Neck Alfaiataria, perfeito para um look urbano e casual com um toque statement. Seu design alfaia-tado e comprimento longo garantem elegância e estilo em qualquer ocasião. Detalhes da Peça: Estilo: Urbano, Statement Ocasião: Casual Alfaitaria: Alfaia-tado Comprimento: Longo Estilo de Gola/Decote Frontal: Frente Única Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":115
+      }
+    ],
+    "VESTIDOS":[
+      {
+        "product_id":"8000617775265",
+        "name":"Vestido Midi com Fenda de Malha com Lurex - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225852_0002_vestido-midi-com-fenda-de-malha-de-lurex-preto_0_c76c4116-3376-4ffc-a3a0-8d414ab28d49.jpg?v=1744114307",
+        "category":"VESTIDOS",
+        "description":"Destaque-se com o VESTIDO MIDI COM FENDA DE MALHA COM LUREX, perfeito para diversas ocasiões. O design urbano e confortável com toque básico é ideal para um look casual ou para a noite. Detalhes da Peça: Estilo: Urbano, Confortável, Básico Ocasião: Casual, Para a Noite Comprimento: Midi Estilo de Manga: Sem Manga Decote: Redondo Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":159
+      },
+      {
+        "product_id":"7922702712993",
+        "name":"Vestido Midi de Alça com Saia Franzida - Preto",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224795_0002_vestido-midi-de-alca-com-saia-franzida-preto_0_c52e1195-feb5-4c34-a1f1-f77317e63571.jpg?v=1743703893",
+        "category":"VESTIDOS",
+        "description":"Destaque-se com elegância neste VESTIDO MIDI DE ALÇA COM SAIA FRANZIDA. Perfeito para ocasiões festivas, seu design clássico e urbano traz sofisticação e estilo. Detalhes da Peça: Estilo: Clássico, Urbano Ocasião: Arrumada, Festa Alfaitaria: Alfaitado Comprimento: Midi Estilo de Alça: Alça Fina",
+        "relevance_score":142
+      },
+      {
+        "product_id":"8223309529249",
+        "name":"VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA - AZUL",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310828_0015_vestido-curto-frente-unica-alfaiataria-azul_0_ed3b0cbd-b0c1-4b37-a8f1-7b93e53de13c.jpg?v=1746645258",
+        "category":"VESTIDOS",
+        "description":"Desfrute do VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA, uma peça versátil e elegante para o seu closet de alta classe. Com design minimalista e tecido de poliéster e elastano, este vestido curto apresenta um decote reto, sem alça, perfeito para ocasiões sofisticadas e modernas. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: sem alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":122
+      }
+    ],
+    "BLAZERS":[
+      {
+        "product_id":"8076856328353",
+        "name":"Blazer com Transpasse Alfaiataria - Roxo",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224826_0017_blazer-acinturado-com-transpasse-roxo_0_83bd7764-8c84-4272-bb88-82d513e386d8.jpg?v=1743705413",
+        "category":"BLAZERS",
+        "description":"Blazer com transpasse em alfaiataria, perfeito para um look sofisticado e moderno. O fechamento transpassado e o comprimento longo são destaques dessa peça versátil e atemporal. Detalhes da peça: Estilo: Alfaiataria Composição: Poliamida, poliéster Comprimento: Longo Detalhes: Fechamento transpassado Estampa: Liso Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":131
+      },
+      {
+        "product_id":"8027095695521",
+        "name":"Blazer Cropped com Fechamento Transpassado - Rosa",
+        "price":"R$ 259,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225387_0013_blazer-cropped-com-fechamento-transpassado-rosa_0_4d38b43c-2c2e-4bc4-a3ea-013c74f3845c.jpg?v=1743705653",
+        "category":"BLAZERS",
+        "description":"Blazer Cropped com Fechamento Transpassado Este blazer cropped é a peça-chave para um look elegante e moderno. Com fechamento transpassado, é perfeito para um evento social ou reunião de negócios. Detalhes da Peça: Design moderno com fechamento transpassado Comprimento cropped Estilo de manga e gola sofisticados Estrutura do material de alta qualidade Versátil e atemporal Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":130
+      },
+      {
+        "product_id":"8223288164513",
+        "name":"BLAZER SLIM GOLA COM LAPELA ALFAIATARIA - PRETO",
+        "price":"R$ 499,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310825_0002_blazer-slim-gola-com-lapela-alfaiataria-preto_0_59a8498e-cb22-46c2-8b8f-d6ada03c7020.jpg?v=1748268727",
+        "category":"BLAZERS",
+        "description":"Blazer Slim Gola com Lapela é a peça curinga que faltava no seu closet! Em tecido plano de poliéster e elastano, seu estilo alfaiataria traz elegância e sofisticação para qualquer look. Perfeito para um look elevado no trabalho ou para um evento especial. Detalhes da peça Comprimento: midi Estampa: liso Decote: gola Manga: manga longa Estilo: alfaiataria Tecido: poliéster, elastano Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":122
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "query_raw":"Festa junina noturna em sítio",
+  "query_norm":"festa junina noturna em sitio",
+  "generated_at":"2025-08-25T07:20:34.734953+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_79_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8223351996577",
+        "name":"VESTIDO LONGO COM FENDA - VERDE",
+        "price":"R$ 399,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425143_0014_vestido-longo-com-fenda-verde_0_a37f847f-b645-4464-a229-c7666badd96d.jpg?v=1747250661",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com elegância e sofisticação neste vestido longo com fenda. O comprimento midi e a alça fina trazem um toque de sensualidade, enquanto o tecido de viscose e linho garante conforto e fluidez. Perfeito para eventos noturnos ou ocasiões especiais. Detalhes da peça Estampa: liso Comprimento: midi Decote: reto Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":248
+      },
+      {
+        "product_id":"8223344132257",
+        "name":"VESTIDO CURTO ACINTURADO ALFAIATARIA - AREIA",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310829_0557_vestido-curto-acinturado-alfaiataria-areia_0_c317ea67-a930-4358-a557-e67f41cd1568.jpg?v=1749224766",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para a mulher contemporânea, o Vestido Curto Acinturado de Alfaiataria é a peça ideal para quem busca sofisticação e versatilidade. Com corte impecável e tecido de alta qualidade, sua alça fina e decote reto adicionam um toque minimalista e elegante ao look. Perfeito para eventos diurnos ou uma noite casual elegante. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: alfaiataria Tecido: plano",
+        "relevance_score":232
+      },
+      {
+        "product_id":"8000617775265",
+        "name":"Vestido Midi com Fenda de Malha com Lurex - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225852_0002_vestido-midi-com-fenda-de-malha-de-lurex-preto_0_c76c4116-3376-4ffc-a3a0-8d414ab28d49.jpg?v=1744114307",
+        "category":"VESTIDOS",
+        "description":"Destaque-se com o VESTIDO MIDI COM FENDA DE MALHA COM LUREX, perfeito para diversas ocasiões. O design urbano e confortável com toque básico é ideal para um look casual ou para a noite. Detalhes da Peça: Estilo: Urbano, Confortável, Básico Ocasião: Casual, Para a Noite Comprimento: Midi Estilo de Manga: Sem Manga Decote: Redondo Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":226
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7944283816097",
+        "name":"Saia Curta de Jacquard Tricot - Caramelo",
+        "price":"R$ 69,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50301874_0027_saia-curta-tricot-jacquard-caramelo_0_69020a8b-2f6f-4f12-bc53-df31c7dcf29d.jpg?v=1743180607",
+        "category":"SAIAS",
+        "description":"Saia Curta Tricot Jacquard Desfrute do verão com estilo nesta saia curta de tricot jacquard. Perfeita para um look casual chic em dias quentes. Detalhes da Peça: Categoria: Clothing Estilo: Statement Ocasião: Casual Clima: Calor, Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.73m de altura e veste o tamanho P /  36",
+        "relevance_score":265
+      },
+      {
+        "product_id":"7826907725985",
+        "name":"Mini Saia Reta Jacquard  - Caramelo",
+        "price":"R$ 49,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50301751_0027_0_mini-saia-reta-jacquard-caramelo_v1724231467790.jpg?v=1724231471",
+        "category":"SAIAS",
+        "description":"Mini saia reta jacquard, peça curinga para um look elevado. Ideal para ocasiões casuais ou arrumadas, seu design clássico e cintura alta sem cós garantem um visual sofisticado e moderno. Detalhes da Peça: Código do Produto: 50301751 Categoria: Clothing Estilo: Versátil Ocasião: Casual, Arrumada Alfaitaria: False Clima: - Altura da Cintura: Cintura Alta Cintura: Sem cós com fechamento Comprimento: Curto Silhueta: Justa Estrutura do Material: Malha Forro: Sem forro Estilo de Barra: Barra Padrão Modelo tem 1.75m de altura e veste o tamanho PP / 36",
+        "relevance_score":235
+      },
+      {
+        "product_id":"8223927468193",
+        "name":"SAIA CURTA SLIM DE ALFAIATARIA - BEGE",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310836_0006_saia-curta-slim-de-alfaiataria-bege_0_9cc5e5ef-62fd-4ba7-9b5b-706037913014.jpg?v=1747411960",
+        "category":"SAIAS",
+        "description":"Desenvolvida para mulheres que buscam sofisticação no dia a dia, a Saia Curta Slim de Alfaiataria é um item versátil e elegante. Com tecido plano de poliéster e elastano, seu corte impecável garante um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Cós: médio Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":232
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7922702123169",
+        "name":"Macacão com Amarração na Cintura - Cereja",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0351_macacao-utilitario-manga-longa-cereja_0_928f6b8a-daf6-4477-a9a1-2fb32e50f01c.jpg?v=1743703932",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":250
+      },
+      {
+        "product_id":"7922702057633",
+        "name":"Macacão com Amarração na Cintura - Caramelo",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0027_macacao-utilitario-manga-longa-caramelo_0_589d81ea-71bd-44b0-bef4-5fc0d4654b67.jpg?v=1743703924",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":215
+      },
+      {
+        "product_id":"8223929991329",
+        "name":"Macacão com Alças de Alfaiataria - Verde",
+        "price":"R$ 439,00",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310839_0014_macacao-com-alcas-de-alfaiataria-verde_0_936df973-e592-4ed6-81d6-46e9b578e542.jpg?v=1747173148",
+        "category":"MACACÕES",
+        "description":"Desfrute da elegância e sofisticação do Macacão com Alças de Alfaiataria, perfeito para um evento especial ou uma ocasião casual chique. Feito em linho e viscose, seu comprimento midi e detalhes minimalistas garantem um look versátil e atemporal. Detalhes da peça: Estampa: liso Comprimento: midi Decote: v Manga: alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":211
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"8150521577633",
+        "name":"Camiseta Cropped de Tricot Listrada - Vermelho",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_0012_camiseta-cropped-de-tricot-listrada-vermelho_0_ffe6adb7-d761-4219-8012-b618e3170dc3.jpg?v=1743180665",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":228
+      },
+      {
+        "product_id":"8000618070177",
+        "name":"Regata Gola Canoa de Malha com Lurex - Dourado",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225849_0009_regata-gola-canoa-de-malha-com-lurex-dourado_0_7be715e2-a49d-4bd4-9fbe-2e62b218c236.jpg?v=1743180653",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata Gola Canoa de Malha com Lurex, perfeita para um look casual elegante durante o dia ou para à noite. Destaque-se com esse item statement e urbano. Detalhes da Peça: Estilo: Statement, Urbano Ocasião: Casual, Para à Noite Silhueta: Justa Decote: Canoa Comprimento da Manga: Regata Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":227
+      },
+      {
+        "product_id":"8041802268833",
+        "name":"Regata Reta  - Bege",
+        "price":"R$ 169,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225355_0006_regata-reta-com-botoes-na-lateral-bege_0_91ff4485-918f-4450-8f54-1506ddb8208c.jpg?v=1743180658",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata Reta em crepe, perfeita para um look casual-chic. Ideal para combinar com peças de alfaiataria ou jeans. O fecho de botão nas costas adiciona um toque de sofisticação. Detalhes da peça: Estilo básico Composição: viscose, poliamida Fecho de botão nas costas Estampa lisa Decote reto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":225
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"7888651157665",
+        "name":"Calça Wide Leg Acetinada com Elástico - Areia",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51107121_0557_calca-wide-leg-acetinada-com-elastico-areia_0_19db9f4f-2c89-470f-ba0a-a2823fdc6dc9.jpg?v=1743175234",
+        "category":"CALÇAS",
+        "description":"Calça Wide Leg Acetinada com Elástico, perfeita para noites sofisticadas. O design clássico e elegante garante um visual impecável, enquanto o tecido acetinado proporciona conforto e estilo. Detalhes da Peça: Categoria: Clothing Estilo: Clássico, Elegante Ocasião: Para à noite Clima: Meia-estação Altura da Cintura: Cintura Alta Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":273
+      },
+      {
+        "product_id":"7865175343265",
+        "name":"Calça Reta com Cós Transpassado - Roxo",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225052_0017_calca-reta-com-cos-transpassado-roxo_0_445af5b7-5a6b-48b4-a7c4-c955d5d02090.jpg?v=1740411067",
+        "category":"CALÇAS",
+        "description":"Calça Reta com cós transpassado - A peça curinga que te acompanha em diversas ocasiões com muito estilo. O cós transpassado traz um toque único a essa calça de alfaiataria, perfeita para compor um look elegante e descolado ao mesmo tempo. Detalhes da peça: Estilo: Reta, Alfaiataria Composição: Poliéster Altura da Cintura: Alta Comprimento: Longo Detalhes: Cós com fechamento transpassado Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":250
+      },
+      {
+        "product_id":"8223936118945",
+        "name":"Calça Mom Cropped de Alfaiataria - Verde",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310842_0014_calca-mom-cropped-de-alfaiataria-verde_0_a5acadeb-f2e5-4ce7-8aaf-d92cac4c4e2c.jpg?v=1747233852",
+        "category":"CALÇAS",
+        "description":"Descubra a versatilidade da Calça Mom Cropped de Alfaiataria, perfeita para um look elevado e casual. Seu estilo slim e comprimento midi trazem um toque moderno, enquanto o tecido em crepe garante conforto o dia todo. Detalhe para o cós médio e estampa lisa, ideal para combinar com diversas peças do seu closet. Detalhes da peça Estampa: liso Comprimento: midi Cós: médio Estilo: slim Tecido: crepe Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":242
+      }
+    ]
+  }
+}

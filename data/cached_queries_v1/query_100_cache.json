@@ -1,0 +1,159 @@
+{
+  "query_raw":"Sessão de consultoria de estilo como cliente",
+  "query_norm":"sessao de consultoria de estilo como cliente",
+  "generated_at":"2025-08-25T07:46:05.138018+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_100_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"7935596462241",
+        "name":"Vestido Curto Reto com Alça - Preto",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225371_0002_vestido-curto-reto-com-alca-preto_0_98c059ca-422d-4340-89c5-a0b37c80283e.jpg?v=1749580489",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para mulheres que buscam elegância e sofisticação, o Vestido Curto Reto com Alça é a peça perfeita para um look versátil e atemporal. Seu design minimalista e tecido de viscose e poliamida garantem conforto e estilo em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: básico Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":141
+      },
+      {
+        "product_id":"7903276171425",
+        "name":"Vestido Regata Alfaiataria Midi - Preto",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224857_0002_vestido-regata-alfaiataria-midi-preto_0_4ed8bd1e-2d54-46b0-b8a2-b84346d3fbef.jpg?v=1749587057",
+        "category":"VESTIDOS",
+        "description":"Com design clean e minimalista, o Vestido Regata Alfaiataria Midi é a peça curinga que faltava no seu closet. Feito em crepe de poliéster, possui comprimento midi, decote reto e alças finas. Ideal para um look elegante e versátil em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: midi Decote: reto Manga: alça Estilo: alfaiataria Tecido: crepe Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":140
+      },
+      {
+        "product_id":"7922702712993",
+        "name":"Vestido Midi de Alça com Saia Franzida - Preto",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224795_0002_vestido-midi-de-alca-com-saia-franzida-preto_0_c52e1195-feb5-4c34-a1f1-f77317e63571.jpg?v=1743703893",
+        "category":"VESTIDOS",
+        "description":"Destaque-se com elegância neste VESTIDO MIDI DE ALÇA COM SAIA FRANZIDA. Perfeito para ocasiões festivas, seu design clássico e urbano traz sofisticação e estilo. Detalhes da Peça: Estilo: Clássico, Urbano Ocasião: Arrumada, Festa Alfaitaria: Alfaitado Comprimento: Midi Estilo de Alça: Alça Fina",
+        "relevance_score":140
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7880068563105",
+        "name":"Macacão com Manga Sino Alfaiataria - Rosa Escuro",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225153_0927_macacao-wide-com-manga-sino-rosa-escuro_0_ef3d6441-2854-4caf-9250-37cdace630a4.jpg?v=1743703950",
+        "category":"MACACÕES",
+        "description":"Macacão com manga sino, perfeito para um look elegante e moderno. Ideal para trabalhar ou para uma noite especial. Detalhes da Peça: Estilo clássico Alfaitaria alinhada Manga flutuante Decote redondo Silhueta justa Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":140
+      },
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":134
+      },
+      {
+        "product_id":"8028389671073",
+        "name":"Macaquinho Manga Longa - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226102_0002_macaquinho-manga-longa-preto_0_3bdcc896-cb05-4892-a8dd-999056007fc6.jpg?v=1745864564",
+        "category":"MACACÕES",
+        "description":"Macaquinho manga longa perfeito para um look elegante e despojado. Destaque para a cintura com amarração e mangas longas. Ideal para eventos casuais ou encontros sofisticados. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Altura da Cintura: Cintura com amarração Comprimento: Curto Comprimento da Manga: Manga longa Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":133
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7788019810465",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Preto",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_0002_saia-midi-com-fenda-preto_0_9b8a5f84-3b00-44d8-849b-a1a56101f582.jpg?v=1747255086",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":143
+      },
+      {
+        "product_id":"8223927435425",
+        "name":"SAIA CURTA SLIM DE ALFAIATARIA - PRETO",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310836_0002_saia-curta-slim-de-alfaiataria-preto_0_0381a46d-01f5-40d6-b435-5e3235a2a929.jpg?v=1747411907",
+        "category":"SAIAS",
+        "description":"Desenvolvida para mulheres que buscam sofisticação no dia a dia, a Saia Curta Slim de Alfaiataria é um item versátil e elegante. Com tecido plano de poliéster e elastano, seu corte impecável garante um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Cós: médio Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":139
+      },
+      {
+        "product_id":"7842321629345",
+        "name":"Saia Midi Tubo  - Preto",
+        "price":"R$ 259,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51107222_0002_saia-midi-tubo-preto_0_7d4fe1bf-addc-428b-bacd-f5a709ebdce0.jpg?v=1744114192",
+        "category":"SAIAS",
+        "description":"Desfrute da elegância minimalista da Saia Midi Tubo. Com cós alto e comprimento midi, essa peça em crepe é um item versátil e atemporal para seu closet. Perfeito para um look elevado em qualquer ocasião. Detalhes da peça: Estampa: liso Comprimento: midi Cós: alto Estilo: plano Tecido: crepe Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":135
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7832322048161",
+        "name":"Camiseta Cropped de Tricot Listrada - Azul Marinho e Branco",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_2955_camiseta-cropped-de-trico-listrada-azul-marinho-e-branco_0_ca79b1cf-19e0-46c1-ad9f-68cd0ac0e047.jpg?v=1743180651",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":163
+      },
+      {
+        "product_id":"8150126854305",
+        "name":"Regata Halter Neck de Tricot - Azul Marinho",
+        "price":"R$ 129,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211461_0016_regata-halter-neck-de-tricot-azul-marinho_0_5b98c43c-5fe4-4245-bc6e-0c0dd2289a44.jpg?v=1747659197",
+        "category":"BLUSAS & TOPS",
+        "description":"Desfrute do verão com estilo e conforto com nossa Regata Halter Neck de Tricot. O design listrado e o decote nadador dão um toque moderno e descolado à peça, perfeita para um passeio descontraído ou um almoço com as amigas. Detalhes da peça: Composição: Acrílico, Viscose Comprimento: Longo Estilo de Manga: Regata Estilo de Decote nas Costas: Decote Nadador Estampa: Listrado Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":148
+      },
+      {
+        "product_id":"7935596429473",
+        "name":"Blusa Ampla de Manga Curta - Preto",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225367_0002_blusa-ampla-de-manga-curta-preto_0_ea37059c-fac9-4e71-b9f5-9927470be75c.jpg?v=1749587063",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa Ampla de Manga Curta: Versátil e cool, essa blusa básica em viscolycra é um item curinga em qualquer closet. Ideal para um look casual e confortável, te acompanha por várias temporadas. Detalhes da peça: Composição: Viscose, Poliamida Decote: Reto Manga: Manga Curta Estilo: Básico Tecido: Plano Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":146
+      }
+    ],
+    "CAMISAS":[
+      {
+        "product_id":"8223185207457",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - PRETO",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0002_camisa-manga-longa-barra-arredondada-preto_0_f11201de-ca1e-466e-800b-50f2db8c8509.jpg?v=1749230402",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":143
+      },
+      {
+        "product_id":"8223185305761",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - OFF-WHITE",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0029_camisa-manga-longa-barra-arredondada-off-white_0_6ff6f4dc-5932-485e-8a9f-b0c561cb3365.jpg?v=1749230425",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":143
+      },
+      {
+        "product_id":"8223194808481",
+        "name":"CAMISA MANGA LONGA BARRA RETA - OFF-WHITE",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425139_0029_camisa-manga-longa-barra-reta-off-white_0_f474b6ec-4253-4247-9dec-4aa9a66b53ce.jpg?v=1749567505",
+        "category":"CAMISAS",
+        "description":"Com design clean e minimalista, a CAMISA MANGA LONGA BARRA RETA é uma peça versátil e atemporal, perfeita para um look elegante e sofisticado. Confeccionada em poliéster, possui detalhes na gola e mangas, garantindo um visual sofisticado e moderno. Ideal para compor um look de trabalho ou um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":142
+      }
+    ]
+  }
+}

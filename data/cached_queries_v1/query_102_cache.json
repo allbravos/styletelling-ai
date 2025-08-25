@@ -1,0 +1,130 @@
+{
+  "query_raw":"Primeiro encontro romântico",
+  "query_norm":"primeiro encontro romantico",
+  "generated_at":"2025-08-25T07:48:37.233090+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_102_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8223359631521",
+        "name":"VESTIDO LONGO DECOTE V COM GOLA - AZUL",
+        "price":"R$ 439,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425144_0015_vestido-longo-decote-v-com-gola-azul_0_3976c61a-dd67-49f9-82d8-aaecb9fd2736.jpg?v=1749232184",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com o VESTIDO LONGO DECOTE V COM GOLA, a peça perfeita para mulheres sofisticadas e modernas. Com design minimalista em linho e viscose, manga curta e comprimento midi, esse vestido é um item versátil e atemporal que te acompanha em diversas ocasiões, do dia à noite. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga curta Estilo: maxi Tecido: plano",
+        "relevance_score":295
+      },
+      {
+        "product_id":"8223351996577",
+        "name":"VESTIDO LONGO COM FENDA - VERDE",
+        "price":"R$ 399,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425143_0014_vestido-longo-com-fenda-verde_0_a37f847f-b645-4464-a229-c7666badd96d.jpg?v=1747250661",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com elegância e sofisticação neste vestido longo com fenda. O comprimento midi e a alça fina trazem um toque de sensualidade, enquanto o tecido de viscose e linho garante conforto e fluidez. Perfeito para eventos noturnos ou ocasiões especiais. Detalhes da peça Estampa: liso Comprimento: midi Decote: reto Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":287
+      },
+      {
+        "product_id":"8000617775265",
+        "name":"Vestido Midi com Fenda de Malha com Lurex - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225852_0002_vestido-midi-com-fenda-de-malha-de-lurex-preto_0_c76c4116-3376-4ffc-a3a0-8d414ab28d49.jpg?v=1744114307",
+        "category":"VESTIDOS",
+        "description":"Destaque-se com o VESTIDO MIDI COM FENDA DE MALHA COM LUREX, perfeito para diversas ocasiões. O design urbano e confortável com toque básico é ideal para um look casual ou para a noite. Detalhes da Peça: Estilo: Urbano, Confortável, Básico Ocasião: Casual, Para a Noite Comprimento: Midi Estilo de Manga: Sem Manga Decote: Redondo Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":270
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7880068563105",
+        "name":"Macacão com Manga Sino Alfaiataria - Rosa Escuro",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225153_0927_macacao-wide-com-manga-sino-rosa-escuro_0_ef3d6441-2854-4caf-9250-37cdace630a4.jpg?v=1743703950",
+        "category":"MACACÕES",
+        "description":"Macacão com manga sino, perfeito para um look elegante e moderno. Ideal para trabalhar ou para uma noite especial. Detalhes da Peça: Estilo clássico Alfaitaria alinhada Manga flutuante Decote redondo Silhueta justa Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":291
+      },
+      {
+        "product_id":"8223929991329",
+        "name":"Macacão com Alças de Alfaiataria - Verde",
+        "price":"R$ 439,00",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310839_0014_macacao-com-alcas-de-alfaiataria-verde_0_936df973-e592-4ed6-81d6-46e9b578e542.jpg?v=1747173148",
+        "category":"MACACÕES",
+        "description":"Desfrute da elegância e sofisticação do Macacão com Alças de Alfaiataria, perfeito para um evento especial ou uma ocasião casual chique. Feito em linho e viscose, seu comprimento midi e detalhes minimalistas garantem um look versátil e atemporal. Detalhes da peça: Estampa: liso Comprimento: midi Decote: v Manga: alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":282
+      },
+      {
+        "product_id":"8223929761953",
+        "name":"MACACÃO SEM ALÇAS DE ALFAIATARIA - VERDE",
+        "price":"R$ 519,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310838_0014_macacao-sem-alcas-de-alfaiataria-verde_0_56528684-eec2-40cf-ae20-9393d0dbf492.jpg?v=1746730314",
+        "category":"MACACÕES",
+        "description":"Desfrute do luxo discreto do Macacão Sem Alças de Alfaiataria, feito em crepe de poliéster. O design minimalista e elegante, com decote reto e comprimento longo, torna esta peça um item versátil para eventos sofisticados ou ocasiões especiais. Detalhes da peça: Estampa: liso Comprimento: longo Decote: reto Manga: sem alça Estilo: alfaiataria Tecido: crepe Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":270
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7944283881633",
+        "name":"Saia Curta de Jacquard Tricot - Verde Militar",
+        "price":"R$ 69,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50301874_0033_saia-curta-tricot-jacquard-verde-militar_0_a4e1c32a-f870-4604-908f-fec14d34c5d9.jpg?v=1743180619",
+        "category":"SAIAS",
+        "description":"Saia Curta Tricot Jacquard Desfrute do verão com estilo nesta saia curta de tricot jacquard. Perfeita para um look casual chic em dias quentes. Detalhes da Peça: Categoria: Clothing Estilo: Statement Ocasião: Casual Clima: Calor, Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.73m de altura e veste o tamanho P /  36",
+        "relevance_score":319
+      },
+      {
+        "product_id":"8010763239585",
+        "name":"Saia Midi com Pregas - Verde Claro",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225772_0183_saia-midi-com-pregas-verde-claro_0_5926fb68-71a3-4af3-8d79-97995ddd1f53.jpg?v=1747662515",
+        "category":"SAIAS",
+        "description":"Descubra a saia midi com pregas, uma peça de alfaiataria que une elegância e modernidade. Feita em viscose e poliéster, possui cós alto e comprimento longo, perfeita para um look versátil e sofisticado. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":316
+      },
+      {
+        "product_id":"7810661089441",
+        "name":"Saia Curta Tecido Texturizado - Lilás",
+        "price":"R$ 49,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50302234_0020_saia-curta-tecido-texturizado-lilas_0_ec2bd5d7-ea31-424a-abd3-11b179202ad5.jpg?v=1739828174",
+        "category":"SAIAS",
+        "description":"Saia curta em tecido texturizado, perfeita para festas e ocasiões noturnas. Design moderno e versátil, ideal para mulheres que buscam um look elegante e despojado ao mesmo tempo. Detalhes da Peça: Categoria: Clothing Estilo: Básico, Urbano Ocasião: Festa, Arrumada, Para à Noite Altura da Cintura: Cintura Média Silhueta: Justa Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":313
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"8151920607393",
+        "name":"Regata Halter Neck de Tricot - Vinho",
+        "price":"R$ 129,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211461_0123_regata-halter-neck-de-tricot-vinho_0_c7141d2f-f5a6-41e3-8bac-388eb8b66f20.jpg?v=1747659238",
+        "category":"BLUSAS & TOPS",
+        "description":"Desfrute do verão com estilo e conforto com nossa Regata Halter Neck de Tricot. O design listrado e o decote nadador dão um toque moderno e descolado à peça, perfeita para um passeio descontraído ou um almoço com as amigas. Detalhes da peça: Composição: Acrílico, Viscose Comprimento: Longo Estilo de Manga: Regata Estilo de Decote nas Costas: Decote Nadador Estampa: Listrado Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":318
+      },
+      {
+        "product_id":"8046845296801",
+        "name":"Regata Tricot Decote U Texturizada - Amarelo",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226245_0010_regata-de-tricot-decote-u-texturizada-amarelo_0_1b9da023-3282-40e6-aac2-d91fd06fbc8c.jpg?v=1743180638",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata tricot decote U texturizada, peça básica e confortável para um look casual elegante. Ideal para dias quentes, essa regata ajustada destaca-se pelo design texturizado e decote U. Detalhes da Peça: Estilo: Básico, confortável Ocasião: Casual Estilo de Alça: Alça larga Estilo de Gola/Decote: Decote U Comprimento da Manga: Sem manga Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":310
+      },
+      {
+        "product_id":"8098200354977",
+        "name":"Blusa Manga Curta de Malha - Azul Marinho",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226606_0016_blusa-manga-curta-de-malha-azul-marinho_0_2f316e83-fa77-4466-93fb-354d8001ffe8.jpg?v=1739825685",
+        "category":"BLUSAS & TOPS",
+        "description":"Esta blusa manga curta de malha é o item básico perfeito para o seu closet! Versátil e confortável, te acompanha em diversas ocasiões. Combine com jeans para um look casual e despojado ou com uma saia para um visual mais elegante. Detalhes da peça: Composição: Algodão Estilo: Básico Estampa: Liso Decote: U Manga: Manga curta Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":302
+      }
+    ]
+  }
+}

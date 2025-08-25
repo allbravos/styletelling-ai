@@ -1,0 +1,130 @@
+{
+  "query_raw":"Evento de gala com premiação corporativa",
+  "query_norm":"evento de gala com premiacao corporativa",
+  "generated_at":"2025-08-25T06:09:09.673013+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_16_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8000617775265",
+        "name":"Vestido Midi com Fenda de Malha com Lurex - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225852_0002_vestido-midi-com-fenda-de-malha-de-lurex-preto_0_c76c4116-3376-4ffc-a3a0-8d414ab28d49.jpg?v=1744114307",
+        "category":"VESTIDOS",
+        "description":"Destaque-se com o VESTIDO MIDI COM FENDA DE MALHA COM LUREX, perfeito para diversas ocasiões. O design urbano e confortável com toque básico é ideal para um look casual ou para a noite. Detalhes da Peça: Estilo: Urbano, Confortável, Básico Ocasião: Casual, Para a Noite Comprimento: Midi Estilo de Manga: Sem Manga Decote: Redondo Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":319
+      },
+      {
+        "product_id":"7922702712993",
+        "name":"Vestido Midi de Alça com Saia Franzida - Preto",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224795_0002_vestido-midi-de-alca-com-saia-franzida-preto_0_c52e1195-feb5-4c34-a1f1-f77317e63571.jpg?v=1743703893",
+        "category":"VESTIDOS",
+        "description":"Destaque-se com elegância neste VESTIDO MIDI DE ALÇA COM SAIA FRANZIDA. Perfeito para ocasiões festivas, seu design clássico e urbano traz sofisticação e estilo. Detalhes da Peça: Estilo: Clássico, Urbano Ocasião: Arrumada, Festa Alfaitaria: Alfaitado Comprimento: Midi Estilo de Alça: Alça Fina",
+        "relevance_score":309
+      },
+      {
+        "product_id":"8089598525601",
+        "name":"Vestido Curto Frente Única - Off-white",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226370_0029_vestido-curto-frente-unica-off-white-1_0_a4ab4754-9825-415b-bf10-4b1b88378611.jpg?v=1739903451",
+        "category":"VESTIDOS",
+        "description":"Vestido curto frente única, ideal para ocasiões casuais ou para à noite. Destaque para o design alfaitado e as costas abertas, garantindo um look elegante e despojado. Detalhes da Peça: Estilo: Básico, Urbano Ocasião: Casual, Para à Noite Alfaitaria: Alfaitado Estilo de Gola/Decote Frontal: Frente Única Estilo de Decote nas Costas: Costas Abertas Modelo tem 1.79m de altura e veste o tamanho P / 36",
+        "relevance_score":287
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"8177527816353",
+        "name":"Macacão Decote Halter Neck Alfaiataria - Azul",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310779_0015_macacao-decote-halter-neck-alfaiataria-azul_0_52d10d12-0e11-476a-8bb1-04921a98e0d7.jpg?v=1740751109",
+        "category":"MACACÕES",
+        "description":"Destaque-se com o Macacão Decote Halter Neck Alfaiataria, perfeito para um look urbano e casual com um toque statement. Seu design alfaia-tado e comprimento longo garantem elegância e estilo em qualquer ocasião. Detalhes da Peça: Estilo: Urbano, Statement Ocasião: Casual Alfaitaria: Alfaia-tado Comprimento: Longo Estilo de Gola/Decote Frontal: Frente Única Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":264
+      },
+      {
+        "product_id":"7880068563105",
+        "name":"Macacão com Manga Sino Alfaiataria - Rosa Escuro",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225153_0927_macacao-wide-com-manga-sino-rosa-escuro_0_ef3d6441-2854-4caf-9250-37cdace630a4.jpg?v=1743703950",
+        "category":"MACACÕES",
+        "description":"Macacão com manga sino, perfeito para um look elegante e moderno. Ideal para trabalhar ou para uma noite especial. Detalhes da Peça: Estilo clássico Alfaitaria alinhada Manga flutuante Decote redondo Silhueta justa Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":260
+      },
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":254
+      }
+    ],
+    "BLAZERS":[
+      {
+        "product_id":"8041878651041",
+        "name":"Blazer Abotoamento Duplo - Preto",
+        "price":"R$ 419,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226134_0002_blazer-preto-1_0_96e88ebc-c965-4e62-a13f-b4b38f4483b8.jpg?v=1749567332",
+        "category":"BLAZERS",
+        "description":"Blazer Abotoamento Duplo Destaque-se com elegância no trabalho com nosso blazer abotoamento duplo. O design clássico e sofisticado é perfeito para a meia-estação e dias frios, garantindo um look elevado e versátil. Detalhes da Peça: Estilo: Clássico Ocasião: Para trabalhar Alfaitaria: Alfaitado Clima: Meia-estação, frio Comprimento da manga: Manga longa Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":279
+      },
+      {
+        "product_id":"8070839337121",
+        "name":"Blazer Slim Abotoamento Simples - Preto",
+        "price":"R$ 259,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225402_0002_blazer-slim-abotoamento-simples-preto_0_c29a57db-4701-462a-a796-1745c5a78cc2.jpg?v=1732206122",
+        "category":"BLAZERS",
+        "description":"Blazer Slim Abotoamento Simples Este blazer slim de abotoamento simples é a peça-chave para um look elegante e moderno. Seu corte impecável e design minimalista garantem sofisticação em qualquer ocasião. Detalhes da Peça: Código do Produto: 51225402 Categoria: Clothing Estilo: Clássico Comprimento da Manga: - Estrutura do Material: - Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":279
+      },
+      {
+        "product_id":"8223288164513",
+        "name":"BLAZER SLIM GOLA COM LAPELA ALFAIATARIA - PRETO",
+        "price":"R$ 499,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310825_0002_blazer-slim-gola-com-lapela-alfaiataria-preto_0_59a8498e-cb22-46c2-8b8f-d6ada03c7020.jpg?v=1748268727",
+        "category":"BLAZERS",
+        "description":"Blazer Slim Gola com Lapela é a peça curinga que faltava no seu closet! Em tecido plano de poliéster e elastano, seu estilo alfaiataria traz elegância e sofisticação para qualquer look. Perfeito para um look elevado no trabalho ou para um evento especial. Detalhes da peça Comprimento: midi Estampa: liso Decote: gola Manga: manga longa Estilo: alfaiataria Tecido: poliéster, elastano Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":273
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7827694059681",
+        "name":"Saia Midi Tubo de Paetê - Prata",
+        "price":"R$ 219,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224753_0003_saia-midi-tubo-de-paete-prata_0_76ecf8df-0b54-4074-8c41-fb8b5634410f.jpg?v=1749567867",
+        "category":"SAIAS",
+        "description":"Deslumbre com a sofisticação da Saia Midi Tubo de Paetê, perfeita para eventos noturnos. O cós alto valoriza a silhueta, enquanto o tecido de paetê garante brilho e glamour. Ideal para se destacar com elegância! Detalhes da peça Comprimento: midi Cós: alto Tecido: paetê Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":369
+      },
+      {
+        "product_id":"7788019810465",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Preto",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_0002_saia-midi-com-fenda-preto_0_9b8a5f84-3b00-44d8-849b-a1a56101f582.jpg?v=1747255086",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":286
+      },
+      {
+        "product_id":"8223927369889",
+        "name":"SAIA CURTA COM PASSANTES DE ALFAIATARIA - PRETO",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310835_0002_saia-curta-com-passantes-de-alfaiataria-preto_0_775481a6-1a26-414c-bdba-eba5dc7ff8c7.jpg?v=1749224773",
+        "category":"SAIAS",
+        "description":"Saia curta com passantes de alfaiataria em poliéster, perfeita para compor looks versáteis e sofisticados. Seu design minimalista e elegante a torna um item curinga para o closet da mulher moderna. Detalhes da peça: Estampa: liso Comprimento: curto Cós: médio Estilo: alfaiataria Tecido: plano",
+        "relevance_score":273
+      }
+    ]
+  }
+}

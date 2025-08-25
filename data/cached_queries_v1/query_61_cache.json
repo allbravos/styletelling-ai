@@ -1,0 +1,159 @@
+{
+  "query_raw":"Feira de zines ou mercado de arte gráfica",
+  "query_norm":"feira de zines ou mercado de arte grafica",
+  "generated_at":"2025-08-25T06:58:36.018041+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_61_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8223359631521",
+        "name":"VESTIDO LONGO DECOTE V COM GOLA - AZUL",
+        "price":"R$ 439,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425144_0015_vestido-longo-decote-v-com-gola-azul_0_3976c61a-dd67-49f9-82d8-aaecb9fd2736.jpg?v=1749232184",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com o VESTIDO LONGO DECOTE V COM GOLA, a peça perfeita para mulheres sofisticadas e modernas. Com design minimalista em linho e viscose, manga curta e comprimento midi, esse vestido é um item versátil e atemporal que te acompanha em diversas ocasiões, do dia à noite. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga curta Estilo: maxi Tecido: plano",
+        "relevance_score":58
+      },
+      {
+        "product_id":"7935596560545",
+        "name":"Vestido Curto Reto com Alça - Verde Militar",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225371_0033_vestido-curto-reto-com-alca-verde-militar_0_0ec2422a-2e6a-4e16-8a66-dc4dd5d8416b.jpg?v=1749580438",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para mulheres que buscam elegância e sofisticação, o Vestido Curto Reto com Alça é a peça perfeita para um look versátil e atemporal. Seu design minimalista e tecido de viscose e poliamida garantem conforto e estilo em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: básico Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":56
+      },
+      {
+        "product_id":"8223309529249",
+        "name":"VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA - AZUL",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310828_0015_vestido-curto-frente-unica-alfaiataria-azul_0_ed3b0cbd-b0c1-4b37-a8f1-7b93e53de13c.jpg?v=1746645258",
+        "category":"VESTIDOS",
+        "description":"Desfrute do VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA, uma peça versátil e elegante para o seu closet de alta classe. Com design minimalista e tecido de poliéster e elastano, este vestido curto apresenta um decote reto, sem alça, perfeito para ocasiões sofisticadas e modernas. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: sem alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":56
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7880068563105",
+        "name":"Macacão com Manga Sino Alfaiataria - Rosa Escuro",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225153_0927_macacao-wide-com-manga-sino-rosa-escuro_0_ef3d6441-2854-4caf-9250-37cdace630a4.jpg?v=1743703950",
+        "category":"MACACÕES",
+        "description":"Macacão com manga sino, perfeito para um look elegante e moderno. Ideal para trabalhar ou para uma noite especial. Detalhes da Peça: Estilo clássico Alfaitaria alinhada Manga flutuante Decote redondo Silhueta justa Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":55
+      },
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":54
+      },
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":54
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7788019810465",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Preto",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_0002_saia-midi-com-fenda-preto_0_9b8a5f84-3b00-44d8-849b-a1a56101f582.jpg?v=1747255086",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":57
+      },
+      {
+        "product_id":"7944283816097",
+        "name":"Saia Curta de Jacquard Tricot - Caramelo",
+        "price":"R$ 69,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50301874_0027_saia-curta-tricot-jacquard-caramelo_0_69020a8b-2f6f-4f12-bc53-df31c7dcf29d.jpg?v=1743180607",
+        "category":"SAIAS",
+        "description":"Saia Curta Tricot Jacquard Desfrute do verão com estilo nesta saia curta de tricot jacquard. Perfeita para um look casual chic em dias quentes. Detalhes da Peça: Categoria: Clothing Estilo: Statement Ocasião: Casual Clima: Calor, Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.73m de altura e veste o tamanho P /  36",
+        "relevance_score":57
+      },
+      {
+        "product_id":"8169042968737",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Marrom Escuro",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_0403_saia-midi-com-fenda-frontal-alfaiataria-marrom-escuro_0_17812b6f-b630-49cc-88c2-bed7598d84ae.jpg?v=1747255007",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":57
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"8151920607393",
+        "name":"Regata Halter Neck de Tricot - Vinho",
+        "price":"R$ 129,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211461_0123_regata-halter-neck-de-tricot-vinho_0_c7141d2f-f5a6-41e3-8bac-388eb8b66f20.jpg?v=1747659238",
+        "category":"BLUSAS & TOPS",
+        "description":"Desfrute do verão com estilo e conforto com nossa Regata Halter Neck de Tricot. O design listrado e o decote nadador dão um toque moderno e descolado à peça, perfeita para um passeio descontraído ou um almoço com as amigas. Detalhes da peça: Composição: Acrílico, Viscose Comprimento: Longo Estilo de Manga: Regata Estilo de Decote nas Costas: Decote Nadador Estampa: Listrado Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":64
+      },
+      {
+        "product_id":"8150126854305",
+        "name":"Regata Halter Neck de Tricot - Azul Marinho",
+        "price":"R$ 129,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211461_0016_regata-halter-neck-de-tricot-azul-marinho_0_5b98c43c-5fe4-4245-bc6e-0c0dd2289a44.jpg?v=1747659197",
+        "category":"BLUSAS & TOPS",
+        "description":"Desfrute do verão com estilo e conforto com nossa Regata Halter Neck de Tricot. O design listrado e o decote nadador dão um toque moderno e descolado à peça, perfeita para um passeio descontraído ou um almoço com as amigas. Detalhes da peça: Composição: Acrílico, Viscose Comprimento: Longo Estilo de Manga: Regata Estilo de Decote nas Costas: Decote Nadador Estampa: Listrado Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":63
+      },
+      {
+        "product_id":"8000617676961",
+        "name":"Regata Gola Canoa de Malha com Lurex - Prata",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225849_0003_regata-gola-canoa-de-malha-com-lurex-prata_0_ef034357-3f7a-4966-991c-63ab038e4e42.jpg?v=1743180644",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata Gola Canoa de Malha com Lurex, perfeita para um look casual elegante durante o dia ou para à noite. Destaque-se com esse item statement e urbano. Detalhes da Peça: Estilo: Statement, Urbano Ocasião: Casual, Para à Noite Silhueta: Justa Decote: Canoa Comprimento da Manga: Regata Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":61
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"7956204978337",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Preto",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0002_calca-wide-leg-cos-elastico-com-pregas-preto_0_549163b0-a179-4b58-a82b-bd226c46b0b8.jpg?v=1749566672",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":60
+      },
+      {
+        "product_id":"7956205043873",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Coral",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0018_calca-wide-leg-cos-elastico-com-pregas-coral_0_211cca5c-7e60-4131-b276-53ba6c0373da.jpg?v=1749566731",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":59
+      },
+      {
+        "product_id":"7956205076641",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0029_calca-wide-leg-cos-elastico-com-pregas-off-white_0_3615de9d-dd76-47d7-aac3-5e0fd616321c.jpg?v=1749566685",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":59
+      }
+    ]
+  }
+}

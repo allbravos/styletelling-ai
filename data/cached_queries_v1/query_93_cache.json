@@ -1,0 +1,159 @@
+{
+  "query_raw":"Missa de sétimo dia",
+  "query_norm":"missa de setimo dia",
+  "generated_at":"2025-08-25T07:37:22.287493+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_93_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8174540488865",
+        "name":"Vestido  Longo de Alças Jeans - Off-white",
+        "price":"R$ 259,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50511961_0029_vestido-longo-de-alcas-jeans-off-white_0_a7feba89-4bf6-45e1-936f-b9aff71b1e13.jpg?v=1745500901",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com o VESTIDO LONGO DE ALÇAS JEANS, uma peça statement perfeita para ocasiões noturnas. O design godê e alças finas ajustáveis garantem um look elegante e moderno. Detalhes da Peça: Estilo: Statement Ocasião: Arrumada, para à noite Clima: Meia-estação, calor Altura da Cintura: - Cintura: - Comprimento: Longo Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":226
+      },
+      {
+        "product_id":"7943878344865",
+        "name":"Vestido Longo com Recortes de Malha - Preto",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226234_0002_vestido-manga-longa-de-malha-com-recortes-preto_0_5d580d20-0a78-40c2-a0f2-cfb394c11a2f.jpg?v=1744114428",
+        "category":"VESTIDOS",
+        "description":"**** Deslumbrante vestido longo com recortes de malha, perfeito para ocasiões especiais ou para um look elevado no dia a dia. O design loose e os detalhes em viscose garantem conforto e estilo único. Detalhes da peça: Estampa: liso Comprimento: longo Decote: u Manga: manga longa Estilo: loose Tecido: malha Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":224
+      },
+      {
+        "product_id":"8088451612833",
+        "name":"Vestido Curto de Alfaiataria com Recortes - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226130_0002_vestido-preto-5_0_39c86181-5878-44a0-9807-10b2b337baf1.jpg?v=1749580459",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para mulheres que buscam elegância e sofisticação, o Vestido Curto de Alfaiataria com Recortes é uma peça versátil e atemporal. Com detalhes impecáveis e tecido de linho e viscose, garante um look elevado em qualquer ocasião. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":224
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"8028389671073",
+        "name":"Macaquinho Manga Longa - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226102_0002_macaquinho-manga-longa-preto_0_3bdcc896-cb05-4892-a8dd-999056007fc6.jpg?v=1745864564",
+        "category":"MACACÕES",
+        "description":"Macaquinho manga longa perfeito para um look elegante e despojado. Destaque para a cintura com amarração e mangas longas. Ideal para eventos casuais ou encontros sofisticados. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Altura da Cintura: Cintura com amarração Comprimento: Curto Comprimento da Manga: Manga longa Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":209
+      },
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":208
+      },
+      {
+        "product_id":"7922702057633",
+        "name":"Macacão com Amarração na Cintura - Caramelo",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0027_macacao-utilitario-manga-longa-caramelo_0_589d81ea-71bd-44b0-bef4-5fc0d4654b67.jpg?v=1743703924",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":174
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"8000652705953",
+        "name":"Saia Evasê de Malha - Preto",
+        "price":"R$ 149,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225831_0002_short-saia-evase-preto_0_10bc6848-be93-4e17-b539-50a029363778.jpg?v=1733347390",
+        "category":"SAIAS",
+        "description":"Saia Evasê de Malha Uma peça versátil e atemporal para seu closet. A saia evasê de malha, com cintura alta e comprimento curto, é perfeita para looks casuais com um toque de elegância. Detalhes da Peça: Estilo: Básico Ocasião: Casual Alfaitaria: Alfaitado Clima: Calor Silhueta: Evasê Modelo tem 1.79m de altura e veste o tamanho P / 36",
+        "relevance_score":223
+      },
+      {
+        "product_id":"7842321629345",
+        "name":"Saia Midi Tubo  - Preto",
+        "price":"R$ 259,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51107222_0002_saia-midi-tubo-preto_0_7d4fe1bf-addc-428b-bacd-f5a709ebdce0.jpg?v=1744114192",
+        "category":"SAIAS",
+        "description":"Desfrute da elegância minimalista da Saia Midi Tubo. Com cós alto e comprimento midi, essa peça em crepe é um item versátil e atemporal para seu closet. Perfeito para um look elevado em qualquer ocasião. Detalhes da peça: Estampa: liso Comprimento: midi Cós: alto Estilo: plano Tecido: crepe Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":219
+      },
+      {
+        "product_id":"8094401364129",
+        "name":"Saia Curta Jeans com  Desnivel Barra - Off-white",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226927_0029_saia-curta-jeans-com-desnivel-barra-off-white_0_ed2ae35f-2dc4-464c-8fea-8b0ce26b80f2.jpg?v=1747662672",
+        "category":"SAIAS",
+        "description":"Saia curta jeans com desnível na barra, peça versátil e moderna para compor looks descolados. Ideal para um passeio descontraído ou um evento casual. Detalhes da Peça: Código do Produto: 51226927 Categoria: Clothing Material: Jeans Comprimento: Curto Estilo: Desnível na barra Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":215
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"7927614406817",
+        "name":"Calça Reta Cintura Alta Alfaiataria - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226231_0002_calca-cintura-alta-de-alfaiataria-preto_0_e3aade34-dda3-484f-a73e-4d8a20dfe463.jpg?v=1747662684",
+        "category":"CALÇAS",
+        "description":"Desfrute de elegância e conforto com a Calça Reta Cintura Alta Alfaiataria. Feita em viscose e poliéster, seu design clássico e cós alto proporcionam um look elevado em qualquer ocasião. Perfeita para um visual sofisticado e versátil. Detalhes da peça: Estampa: liso Comprimento: longo Cós: alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":228
+      },
+      {
+        "product_id":"8223935758497",
+        "name":"CALÇA RETA COM BOLSOS DE ALFAIATARIA - PRETO",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310841_0002_calca-reta-com-bolsos-de-alfaiataria-preto_3_fb160879-6e97-4322-9113-90f1bacdac54.jpg?v=1749740731",
+        "category":"CALÇAS",
+        "description":"Feita para mulheres sofisticadas, a calça reta com bolsos de alfaiataria é a peça-chave do seu guarda-roupa. Em viscose e poliéster, o tecido de sarja proporciona conforto e elegância. Versátil, pode ser usada em diversas ocasiões, do trabalho a um jantar especial. Detalhes da peça Estampa: liso Comprimento: longo Cós: médio Estilo: reta Tecido: sarja Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":228
+      },
+      {
+        "product_id":"8223936610465",
+        "name":"CALÇA SLIM CROPPED DE ALFAIATARIA - PRETO",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310843_0002_calca-slim-cropped-de-alfaiataria-preto_0_4830c886-d834-4d7d-afc1-2202d4421475.jpg?v=1749224795",
+        "category":"CALÇAS",
+        "description":"Calça slim cropped de alfaiataria, perfeita para um look elegante e moderno. Feita em linho e viscose, com comprimento midi, cós médio e detalhes minimalistas. O tecido plano e a estampa lisa garantem um visual atemporal e sofisticado. Detalhes da peça: Estampa: liso Comprimento: midi Cós: médio Estilo: slim Tecido: plano",
+        "relevance_score":227
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":247
+      },
+      {
+        "product_id":"8164345381025",
+        "name":"Top Cropped Alfaiataria Decote Redondo - Preto",
+        "price":"R$ 219,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304754_0002_top-cropped-alfaiataria-decote-redondo-preto_0_042f5907-9379-4059-8a45-8dff44bd1ad1.jpg?v=1743704265",
+        "category":"BLUSAS & TOPS",
+        "description":"O Top Cropped Alfaiataria é a peça perfeita para um look elevado e descolado. Com decote redondo e sem alça, confeccionado em viscose e poliéster, possui comprimento curto e estilo regata. Ideal para combinar com peças de cintura alta em ocasiões especiais. Detalhes da peça Estampa: liso Comprimento: curto Decote: reto Manga: sem alça Estilo: regata Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":227
+      },
+      {
+        "product_id":"7832322048161",
+        "name":"Camiseta Cropped de Tricot Listrada - Azul Marinho e Branco",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_2955_camiseta-cropped-de-trico-listrada-azul-marinho-e-branco_0_ca79b1cf-19e0-46c1-ad9f-68cd0ac0e047.jpg?v=1743180651",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":220
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "query_raw":"Almoço executivo com diretoria",
+  "query_norm":"almoco executivo com diretoria",
+  "generated_at":"2025-08-25T06:34:26.704611+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_40_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "BLAZERS":[
+      {
+        "product_id":"8223288164513",
+        "name":"BLAZER SLIM GOLA COM LAPELA ALFAIATARIA - PRETO",
+        "price":"R$ 499,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310825_0002_blazer-slim-gola-com-lapela-alfaiataria-preto_0_59a8498e-cb22-46c2-8b8f-d6ada03c7020.jpg?v=1748268727",
+        "category":"BLAZERS",
+        "description":"Blazer Slim Gola com Lapela é a peça curinga que faltava no seu closet! Em tecido plano de poliéster e elastano, seu estilo alfaiataria traz elegância e sofisticação para qualquer look. Perfeito para um look elevado no trabalho ou para um evento especial. Detalhes da peça Comprimento: midi Estampa: liso Decote: gola Manga: manga longa Estilo: alfaiataria Tecido: poliéster, elastano Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":302
+      },
+      {
+        "product_id":"7810253979809",
+        "name":"Blazer sem Abotoamento com Bolso - Bege",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/20027804_0006_blazer-oversized-com-bolso-bege_0_d8e3bd09-c853-4c68-879d-259f1c75bdef.jpg?v=1743180556",
+        "category":"BLAZERS",
+        "description":"Blazer Sem Abotoamento com Bolso Um blazer clássico e urbano, perfeito para trabalhar. O design oversized e o comprimento longo garantem um look elegante e moderno. Detalhes da Peça: Estilo: Clássico, Urbano Ocasião: Para trabalhar Clima: Meia-estação Comprimento da manga: Manga longa Estrutura do material: Crepe Modelo tem 1.8m de altura e veste o tamanho P / 36",
+        "relevance_score":282
+      },
+      {
+        "product_id":"8041878651041",
+        "name":"Blazer Abotoamento Duplo - Preto",
+        "price":"R$ 419,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226134_0002_blazer-preto-1_0_96e88ebc-c965-4e62-a13f-b4b38f4483b8.jpg?v=1749567332",
+        "category":"BLAZERS",
+        "description":"Blazer Abotoamento Duplo Destaque-se com elegância no trabalho com nosso blazer abotoamento duplo. O design clássico e sofisticado é perfeito para a meia-estação e dias frios, garantindo um look elevado e versátil. Detalhes da Peça: Estilo: Clássico Ocasião: Para trabalhar Alfaitaria: Alfaitado Clima: Meia-estação, frio Comprimento da manga: Manga longa Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":275
+      }
+    ],
+    "CAMISAS":[
+      {
+        "product_id":"8223185404065",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - AREIA",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0557_camisa-manga-longa-barra-arredondada-areia_0_dae87324-2c57-4162-91b6-ba4292dfa8c9.jpg?v=1749230435",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":296
+      },
+      {
+        "product_id":"8223194742945",
+        "name":"CAMISA MANGA LONGA BARRA RETA - PRETO",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425139_0002_camisa-manga-longa-barra-reta-preto_0_815c097e-45dd-4909-b690-7b8d118c21f9.jpg?v=1749567478",
+        "category":"CAMISAS",
+        "description":"Com design clean e minimalista, a CAMISA MANGA LONGA BARRA RETA é uma peça versátil e atemporal, perfeita para um look elegante e sofisticado. Confeccionada em poliéster, possui detalhes na gola e mangas, garantindo um visual sofisticado e moderno. Ideal para compor um look de trabalho ou um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":294
+      },
+      {
+        "product_id":"8223197855905",
+        "name":"CAMISA MANGA LONGA BARRA RETA - PRETO",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425140_0002_camisa-manga-longa-barra-reta-preto-1_0_f90ef993-6ba0-418c-a005-ef1cf687c201.jpg?v=1747260626",
+        "category":"CAMISAS",
+        "description":"Uma camisa de manga longa com barra reta, em tecido plano de poliéster. Versátil e minimalista, perfeita para um look elegante e atemporal. Ideal para um evento social ou uma reunião de negócios. Detalhes da peça Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":294
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"7927614406817",
+        "name":"Calça Reta Cintura Alta Alfaiataria - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226231_0002_calca-cintura-alta-de-alfaiataria-preto_0_e3aade34-dda3-484f-a73e-4d8a20dfe463.jpg?v=1747662684",
+        "category":"CALÇAS",
+        "description":"Desfrute de elegância e conforto com a Calça Reta Cintura Alta Alfaiataria. Feita em viscose e poliéster, seu design clássico e cós alto proporcionam um look elevado em qualquer ocasião. Perfeita para um visual sofisticado e versátil. Detalhes da peça: Estampa: liso Comprimento: longo Cós: alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":304
+      },
+      {
+        "product_id":"7956205076641",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0029_calca-wide-leg-cos-elastico-com-pregas-off-white_0_3615de9d-dd76-47d7-aac3-5e0fd616321c.jpg?v=1749566685",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":302
+      },
+      {
+        "product_id":"8223936610465",
+        "name":"CALÇA SLIM CROPPED DE ALFAIATARIA - PRETO",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310843_0002_calca-slim-cropped-de-alfaiataria-preto_0_4830c886-d834-4d7d-afc1-2202d4421475.jpg?v=1749224795",
+        "category":"CALÇAS",
+        "description":"Calça slim cropped de alfaiataria, perfeita para um look elegante e moderno. Feita em linho e viscose, com comprimento midi, cós médio e detalhes minimalistas. O tecido plano e a estampa lisa garantem um visual atemporal e sofisticado. Detalhes da peça: Estampa: liso Comprimento: midi Cós: médio Estilo: slim Tecido: plano",
+        "relevance_score":298
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":279
+      },
+      {
+        "product_id":"7922702057633",
+        "name":"Macacão com Amarração na Cintura - Caramelo",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0027_macacao-utilitario-manga-longa-caramelo_0_589d81ea-71bd-44b0-bef4-5fc0d4654b67.jpg?v=1743703924",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":259
+      },
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":257
+      }
+    ]
+  }
+}

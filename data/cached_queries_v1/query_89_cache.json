@@ -1,0 +1,159 @@
+{
+  "query_raw":"Look para visitar vinícola no inverno",
+  "query_norm":"look para visitar vinicola no inverno",
+  "generated_at":"2025-08-25T07:32:30.592647+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_89_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "MACACÕES":[
+      {
+        "product_id":"7880068563105",
+        "name":"Macacão com Manga Sino Alfaiataria - Rosa Escuro",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225153_0927_macacao-wide-com-manga-sino-rosa-escuro_0_ef3d6441-2854-4caf-9250-37cdace630a4.jpg?v=1743703950",
+        "category":"MACACÕES",
+        "description":"Macacão com manga sino, perfeito para um look elegante e moderno. Ideal para trabalhar ou para uma noite especial. Detalhes da Peça: Estilo clássico Alfaitaria alinhada Manga flutuante Decote redondo Silhueta justa Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":350
+      },
+      {
+        "product_id":"8177527816353",
+        "name":"Macacão Decote Halter Neck Alfaiataria - Azul",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310779_0015_macacao-decote-halter-neck-alfaiataria-azul_0_52d10d12-0e11-476a-8bb1-04921a98e0d7.jpg?v=1740751109",
+        "category":"MACACÕES",
+        "description":"Destaque-se com o Macacão Decote Halter Neck Alfaiataria, perfeito para um look urbano e casual com um toque statement. Seu design alfaia-tado e comprimento longo garantem elegância e estilo em qualquer ocasião. Detalhes da Peça: Estilo: Urbano, Statement Ocasião: Casual Alfaitaria: Alfaia-tado Comprimento: Longo Estilo de Gola/Decote Frontal: Frente Única Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":322
+      },
+      {
+        "product_id":"7922702057633",
+        "name":"Macacão com Amarração na Cintura - Caramelo",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0027_macacao-utilitario-manga-longa-caramelo_0_589d81ea-71bd-44b0-bef4-5fc0d4654b67.jpg?v=1743703924",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":305
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"7795362037921",
+        "name":"Calça Jogging Alfaiataria Essential - Azul Marinho",
+        "price":"R$ 79,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/20004043_0016_calca-jogging-essential-azul-marinho_0_a9047dc4-ceac-4dbb-b423-3daa9d6d79b3.jpg?v=1743180575",
+        "category":"CALÇAS",
+        "description":"Calça Jogging Alfaiataria Essential, perfeita para um look casual e elegante. Com cintura alta e amarração, o modelo cropped traz um toque moderno à alfaiataria. Detalhes da Peça: Estilo: Básico, Urbano Ocasião: Casual Estilo de Alfaitaria: Alfaiatado Clima: Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":353
+      },
+      {
+        "product_id":"8041889890465",
+        "name":"Calça Wide Leg Alfaiataria - Azul Marinho",
+        "price":"R$ 339,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226157_0016_calca-azul-marinho_0_1accd194-73e6-4020-afbe-aa0b347b7bc2.jpg?v=1749567301",
+        "category":"CALÇAS",
+        "description":"Calça Wide Leg Alfaiataria, perfeita para um look elegante e confortável no trabalho ou em um passeio casual. A peça destaca-se pelo corte clássico e versátil, ideal para diversas ocasiões. Detalhes da Peça: Estilo: Básico, Clássico Ocasião: Casual, Para Trabalhar Alfaitaria: Sim Clima: Calor, Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.79m de altura e veste o tamanho P / 36",
+        "relevance_score":349
+      },
+      {
+        "product_id":"7881770762401",
+        "name":"Calça Reta com Pregas e Amarração no Cós - Verde Militar",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224979_0033_calca-pantalona-com-pregas-e-amarracao-no-cos-verde-militar_0_54944e20-e323-4026-a089-8cfe005cd524.jpg?v=1740492005",
+        "category":"CALÇAS",
+        "description":"Calça reta com pregas e amarração no cós, perfeita para um look casual elegante. A cintura alta e o comprimento longo garantem um visual sofisticado e versátil. Detalhes da Peça: Categoria: Clothing Estilo: Confortável, Urbano Ocasião: Casual, Para Trabalhar Altura da Cintura: Cintura Alta Silhueta: Reta Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":333
+      }
+    ],
+    "BLAZERS":[
+      {
+        "product_id":"7903192776865",
+        "name":"Blazer de Linho Alfaiataria - Verde Militar",
+        "price":"R$ 259,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224940_0033_blazer-de-linho-verde-militar_0_f0dd8ea1-a192-4ee6-8519-bcb9d3b4c39d.jpg?v=1749569207",
+        "category":"BLAZERS",
+        "description":"Blazer de linho impecável para um look elevado e versátil. O tecido misto de poliéster, viscose e linho garante conforto e sofisticação. Com corte de alfaiataria, manga longa e gola clássica, é a peça-chave para um visual atemporal e elegante. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":351
+      },
+      {
+        "product_id":"7810253979809",
+        "name":"Blazer sem Abotoamento com Bolso - Bege",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/20027804_0006_blazer-oversized-com-bolso-bege_0_d8e3bd09-c853-4c68-879d-259f1c75bdef.jpg?v=1743180556",
+        "category":"BLAZERS",
+        "description":"Blazer Sem Abotoamento com Bolso Um blazer clássico e urbano, perfeito para trabalhar. O design oversized e o comprimento longo garantem um look elegante e moderno. Detalhes da Peça: Estilo: Clássico, Urbano Ocasião: Para trabalhar Clima: Meia-estação Comprimento da manga: Manga longa Estrutura do material: Crepe Modelo tem 1.8m de altura e veste o tamanho P / 36",
+        "relevance_score":322
+      },
+      {
+        "product_id":"8223305138337",
+        "name":"BLAZER CROPPED COM BOLSOS ALFAIATARIA - MARROM",
+        "price":"R$ 399,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310826_0008_blazer-cropped-com-bolsos-alfaiataria-marrom_0_00f2ddf2-ae7e-4972-a3cf-e26e5f881727.jpg?v=1749216692",
+        "category":"BLAZERS",
+        "description":"Desenvolvido para mulheres sofisticadas e modernas, o Blazer Cropped com Bolsos Alfaitaria é uma peça versátil e estilosa. Com tecido em twill, manga longa e comprimento curto, é perfeito para compor um look elevado e cheio de personalidade. Detalhes da peça: Estampa: liso Comprimento: curto Decote: gola Manga: manga longa Estilo: alfaiataria Tecido: twill Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":316
+      }
+    ],
+    "CAMISAS":[
+      {
+        "product_id":"8223194775713",
+        "name":"CAMISA MANGA LONGA BARRA RETA - MARROM",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425139_0008_camisa-manga-longa-barra-reta-marrom_0_ef870971-10f4-4afc-b7c5-317aebac54c6.jpg?v=1749567485",
+        "category":"CAMISAS",
+        "description":"Com design clean e minimalista, a CAMISA MANGA LONGA BARRA RETA é uma peça versátil e atemporal, perfeita para um look elegante e sofisticado. Confeccionada em poliéster, possui detalhes na gola e mangas, garantindo um visual sofisticado e moderno. Ideal para compor um look de trabalho ou um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":323
+      },
+      {
+        "product_id":"8223185404065",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - AREIA",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0557_camisa-manga-longa-barra-arredondada-areia_0_dae87324-2c57-4162-91b6-ba4292dfa8c9.jpg?v=1749230435",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":311
+      },
+      {
+        "product_id":"8223197855905",
+        "name":"CAMISA MANGA LONGA BARRA RETA - PRETO",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425140_0002_camisa-manga-longa-barra-reta-preto-1_0_f90ef993-6ba0-418c-a005-ef1cf687c201.jpg?v=1747260626",
+        "category":"CAMISAS",
+        "description":"Uma camisa de manga longa com barra reta, em tecido plano de poliéster. Versátil e minimalista, perfeita para um look elegante e atemporal. Ideal para um evento social ou uma reunião de negócios. Detalhes da peça Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":310
+      }
+    ],
+    "COLETES":[
+      {
+        "product_id":"8081130586273",
+        "name":"Colete Decote V Alfaiataria - Azul Marinho",
+        "price":"R$ 259,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226160_0016_colete-azul-marinho_0_f783afd7-120a-4f86-b69b-76097a893015.jpg?v=1749567319",
+        "category":"COLETES",
+        "description":"Destaque-se com o Colete Básico e Clássico, perfeito para trabalhar. Seu design alfaitado e curto traz elegância e versatilidade ao seu look. Detalhes da Peça: Estilo: Básico, Clássico Ocasião: Para trabalhar Clima: Calor, Meia-Estação Comprimento: Curto Estilo de Manga: Regata Modelo tem 1.79m de altura e veste o tamanho P / 36",
+        "relevance_score":349
+      },
+      {
+        "product_id":"8028239560865",
+        "name":"Colete de Alfaiataria com Ombreira - Azul Médio",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225690_0476_blazer-azul-medio_0_1611457d-fbe5-4471-ab59-f55b61ea9a08.jpg?v=1744114224",
+        "category":"COLETES",
+        "description":"Destaque-se com o COLETE DE ALFAIATARIA COM OMBREIRA! Perfeito para um look elegante e moderno, seja para uma reunião de negócios ou um jantar especial. Detalhes da peça: Estilo alfaiataria Comprimento longo Sem manga Decote V Tipo de fecho: botão Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":326
+      },
+      {
+        "product_id":"8169057812641",
+        "name":"Colete Alfaiataria Decote V - Manteiga",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304867_5799_colete-alfaiataria-decote-v-manteiga_0_6e536327-fdb3-411a-89ce-841063a7ab59.jpg?v=1747255012",
+        "category":"COLETES",
+        "description":"Vista-se com elegância e sofisticação com nosso Colete Alfaiataria Decote V. O design clássico e atemporal aliado ao decote V trazem um toque de modernidade e versatilidade. Perfeito para um look de trabalho ou para um evento mais formal. Detalhes da peça: Estilo: Alfaiataria Composição: Poliéster, Viscose Estilo de Decote Frontal: Decote V Tecido: Crepe Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":325
+      }
+    ]
+  }
+}

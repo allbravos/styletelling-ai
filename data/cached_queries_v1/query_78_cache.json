@@ -1,0 +1,159 @@
+{
+  "query_raw":"Jantar temático de gastronomia mexicana",
+  "query_norm":"jantar tematico de gastronomia mexicana",
+  "generated_at":"2025-08-25T07:19:19.279588+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_78_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8223351996577",
+        "name":"VESTIDO LONGO COM FENDA - VERDE",
+        "price":"R$ 399,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425143_0014_vestido-longo-com-fenda-verde_0_a37f847f-b645-4464-a229-c7666badd96d.jpg?v=1747250661",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com elegância e sofisticação neste vestido longo com fenda. O comprimento midi e a alça fina trazem um toque de sensualidade, enquanto o tecido de viscose e linho garante conforto e fluidez. Perfeito para eventos noturnos ou ocasiões especiais. Detalhes da peça Estampa: liso Comprimento: midi Decote: reto Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":190
+      },
+      {
+        "product_id":"8223332696225",
+        "name":"VESTIDO CURTO DE ALÇAS - BEGE",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425142_0006_vestido-curto-de-alcas-bege_0_80fe4cbe-9388-44a9-90e7-cec35aedad5c.jpg?v=1746731044",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com o VESTIDO CURTO DE ALÇAS! Perfeito para festas, seu design minimalista e tecido fluido de poliéster, algodão, viscose e linho proporcionam um look elevado e versátil. Um item curinga no seu closet! Detalhes da peça: Estampa: liso Comprimento: curto Decote: u Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":170
+      },
+      {
+        "product_id":"8150104408225",
+        "name":"Vestido Midi de Tricot - Marrom",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211494_0008_vestido-midi-de-tricot-marrom_0_63f517fd-a82c-4732-8b40-3a4120ba7676.jpg?v=1742237830",
+        "category":"VESTIDOS",
+        "description":"Deslumbre-se com o VESTIDO MIDI DE TRICOT, peça curinga que te acompanha por várias temporadas. Com estilo MAXI, o design minimalista e a alça em V conferem um look elevado. Feito em TRICOT de POLIÉSTER, é perfeito para um visual sofisticado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: midi Decote: v Manga: alça Estilo: maxi Tecido: tricot Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":157
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"8046845296801",
+        "name":"Regata Tricot Decote U Texturizada - Amarelo",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226245_0010_regata-de-tricot-decote-u-texturizada-amarelo_0_1b9da023-3282-40e6-aac2-d91fd06fbc8c.jpg?v=1743180638",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata tricot decote U texturizada, peça básica e confortável para um look casual elegante. Ideal para dias quentes, essa regata ajustada destaca-se pelo design texturizado e decote U. Detalhes da Peça: Estilo: Básico, confortável Ocasião: Casual Estilo de Alça: Alça larga Estilo de Gola/Decote: Decote U Comprimento da Manga: Sem manga Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":188
+      },
+      {
+        "product_id":"8150521577633",
+        "name":"Camiseta Cropped de Tricot Listrada - Vermelho",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_0012_camiseta-cropped-de-tricot-listrada-vermelho_0_ffe6adb7-d761-4219-8012-b618e3170dc3.jpg?v=1743180665",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":174
+      },
+      {
+        "product_id":"7890588041377",
+        "name":"Blusa Manga Longa Transpassada com Amarração - Azul",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225246_0015_blusa-manga-longa-transpassada-com-amarracao-azul_0_15e23ab9-07dd-42aa-8b3c-e02848f3d863.jpg?v=1743708642",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa manga longa transpassada com amarração, perfeita para um look casual chic. O design transpassado e a amarração trazem um toque moderno e elegante, ideal para diversas ocasiões. Detalhes da peça: Composição: Viscose, Poliamida Tipo de Punho: Punhos de camisa Tipo do Fecho: Amarração Estampa: Liso Tecido: Plano Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":170
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7944283816097",
+        "name":"Saia Curta de Jacquard Tricot - Caramelo",
+        "price":"R$ 69,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50301874_0027_saia-curta-tricot-jacquard-caramelo_0_69020a8b-2f6f-4f12-bc53-df31c7dcf29d.jpg?v=1743180607",
+        "category":"SAIAS",
+        "description":"Saia Curta Tricot Jacquard Desfrute do verão com estilo nesta saia curta de tricot jacquard. Perfeita para um look casual chic em dias quentes. Detalhes da Peça: Categoria: Clothing Estilo: Statement Ocasião: Casual Clima: Calor, Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.73m de altura e veste o tamanho P /  36",
+        "relevance_score":212
+      },
+      {
+        "product_id":"7826907725985",
+        "name":"Mini Saia Reta Jacquard  - Caramelo",
+        "price":"R$ 49,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50301751_0027_0_mini-saia-reta-jacquard-caramelo_v1724231467790.jpg?v=1724231471",
+        "category":"SAIAS",
+        "description":"Mini saia reta jacquard, peça curinga para um look elevado. Ideal para ocasiões casuais ou arrumadas, seu design clássico e cintura alta sem cós garantem um visual sofisticado e moderno. Detalhes da Peça: Código do Produto: 50301751 Categoria: Clothing Estilo: Versátil Ocasião: Casual, Arrumada Alfaitaria: False Clima: - Altura da Cintura: Cintura Alta Cintura: Sem cós com fechamento Comprimento: Curto Silhueta: Justa Estrutura do Material: Malha Forro: Sem forro Estilo de Barra: Barra Padrão Modelo tem 1.75m de altura e veste o tamanho PP / 36",
+        "relevance_score":194
+      },
+      {
+        "product_id":"7810661089441",
+        "name":"Saia Curta Tecido Texturizado - Lilás",
+        "price":"R$ 49,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50302234_0020_saia-curta-tecido-texturizado-lilas_0_ec2bd5d7-ea31-424a-abd3-11b179202ad5.jpg?v=1739828174",
+        "category":"SAIAS",
+        "description":"Saia curta em tecido texturizado, perfeita para festas e ocasiões noturnas. Design moderno e versátil, ideal para mulheres que buscam um look elegante e despojado ao mesmo tempo. Detalhes da Peça: Categoria: Clothing Estilo: Básico, Urbano Ocasião: Festa, Arrumada, Para à Noite Altura da Cintura: Cintura Média Silhueta: Justa Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":179
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7922702123169",
+        "name":"Macacão com Amarração na Cintura - Cereja",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0351_macacao-utilitario-manga-longa-cereja_0_928f6b8a-daf6-4477-a9a1-2fb32e50f01c.jpg?v=1743703932",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":192
+      },
+      {
+        "product_id":"8223929991329",
+        "name":"Macacão com Alças de Alfaiataria - Verde",
+        "price":"R$ 439,00",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310839_0014_macacao-com-alcas-de-alfaiataria-verde_0_936df973-e592-4ed6-81d6-46e9b578e542.jpg?v=1747173148",
+        "category":"MACACÕES",
+        "description":"Desfrute da elegância e sofisticação do Macacão com Alças de Alfaiataria, perfeito para um evento especial ou uma ocasião casual chique. Feito em linho e viscose, seu comprimento midi e detalhes minimalistas garantem um look versátil e atemporal. Detalhes da peça: Estampa: liso Comprimento: midi Decote: v Manga: alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":158
+      },
+      {
+        "product_id":"7922702057633",
+        "name":"Macacão com Amarração na Cintura - Caramelo",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0027_macacao-utilitario-manga-longa-caramelo_0_589d81ea-71bd-44b0-bef4-5fc0d4654b67.jpg?v=1743703924",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":157
+      }
+    ],
+    "CAMISAS":[
+      {
+        "product_id":"8223197921441",
+        "name":"CAMISA MANGA LONGA BARRA RETA - VERDE",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425140_0014_camisa-manga-longa-barra-reta-verde_2_87e018c6-b513-49c5-939e-0f37be204626.jpg?v=1749042977",
+        "category":"CAMISAS",
+        "description":"Uma camisa de manga longa com barra reta, em tecido plano de poliéster. Versátil e minimalista, perfeita para um look elegante e atemporal. Ideal para um evento social ou uma reunião de negócios. Detalhes da peça Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":177
+      },
+      {
+        "product_id":"8223194775713",
+        "name":"CAMISA MANGA LONGA BARRA RETA - MARROM",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425139_0008_camisa-manga-longa-barra-reta-marrom_0_ef870971-10f4-4afc-b7c5-317aebac54c6.jpg?v=1749567485",
+        "category":"CAMISAS",
+        "description":"Com design clean e minimalista, a CAMISA MANGA LONGA BARRA RETA é uma peça versátil e atemporal, perfeita para um look elegante e sofisticado. Confeccionada em poliéster, possui detalhes na gola e mangas, garantindo um visual sofisticado e moderno. Ideal para compor um look de trabalho ou um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":157
+      },
+      {
+        "product_id":"7973223694497",
+        "name":"Camisa Manga Longa de Crepe - Coral",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225351_0018_camisa-manga-longa-de-crepe-coral_0_2adf2e29-1a1c-49b6-98a0-a98d70da3942.jpg?v=1743708094",
+        "category":"CAMISAS",
+        "description":"Camisa Manga Longa de Crepe Uma camisa versátil e elegante, perfeita para um look de trabalho ou happy hour. O crepe confere um toque sofisticado, enquanto o corte impecável garante um visual moderno e atemporal. Detalhes da peça: Manga longa Gola decote frontal Fecho frontal Silhueta clássica Material em crepe Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":155
+      }
+    ]
+  }
+}

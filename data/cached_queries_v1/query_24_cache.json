@@ -1,0 +1,159 @@
+{
+  "query_raw":"Evento de lançamento de coleção de marca de moda autoral",
+  "query_norm":"evento de lancamento de colecao de marca de moda autoral",
+  "generated_at":"2025-08-25T06:17:29.024504+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_24_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8223309529249",
+        "name":"VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA - AZUL",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310828_0015_vestido-curto-frente-unica-alfaiataria-azul_0_ed3b0cbd-b0c1-4b37-a8f1-7b93e53de13c.jpg?v=1746645258",
+        "category":"VESTIDOS",
+        "description":"Desfrute do VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA, uma peça versátil e elegante para o seu closet de alta classe. Com design minimalista e tecido de poliéster e elastano, este vestido curto apresenta um decote reto, sem alça, perfeito para ocasiões sofisticadas e modernas. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: sem alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":322
+      },
+      {
+        "product_id":"8223351996577",
+        "name":"VESTIDO LONGO COM FENDA - VERDE",
+        "price":"R$ 399,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425143_0014_vestido-longo-com-fenda-verde_0_a37f847f-b645-4464-a229-c7666badd96d.jpg?v=1747250661",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com elegância e sofisticação neste vestido longo com fenda. O comprimento midi e a alça fina trazem um toque de sensualidade, enquanto o tecido de viscose e linho garante conforto e fluidez. Perfeito para eventos noturnos ou ocasiões especiais. Detalhes da peça Estampa: liso Comprimento: midi Decote: reto Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":320
+      },
+      {
+        "product_id":"8223359631521",
+        "name":"VESTIDO LONGO DECOTE V COM GOLA - AZUL",
+        "price":"R$ 439,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425144_0015_vestido-longo-decote-v-com-gola-azul_0_3976c61a-dd67-49f9-82d8-aaecb9fd2736.jpg?v=1749232184",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com o VESTIDO LONGO DECOTE V COM GOLA, a peça perfeita para mulheres sofisticadas e modernas. Com design minimalista em linho e viscose, manga curta e comprimento midi, esse vestido é um item versátil e atemporal que te acompanha em diversas ocasiões, do dia à noite. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga curta Estilo: maxi Tecido: plano",
+        "relevance_score":297
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7922702123169",
+        "name":"Macacão com Amarração na Cintura - Cereja",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0351_macacao-utilitario-manga-longa-cereja_0_928f6b8a-daf6-4477-a9a1-2fb32e50f01c.jpg?v=1743703932",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":320
+      },
+      {
+        "product_id":"8177527816353",
+        "name":"Macacão Decote Halter Neck Alfaiataria - Azul",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310779_0015_macacao-decote-halter-neck-alfaiataria-azul_0_52d10d12-0e11-476a-8bb1-04921a98e0d7.jpg?v=1740751109",
+        "category":"MACACÕES",
+        "description":"Destaque-se com o Macacão Decote Halter Neck Alfaiataria, perfeito para um look urbano e casual com um toque statement. Seu design alfaia-tado e comprimento longo garantem elegância e estilo em qualquer ocasião. Detalhes da Peça: Estilo: Urbano, Statement Ocasião: Casual Alfaitaria: Alfaia-tado Comprimento: Longo Estilo de Gola/Decote Frontal: Frente Única Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":316
+      },
+      {
+        "product_id":"7880068563105",
+        "name":"Macacão com Manga Sino Alfaiataria - Rosa Escuro",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225153_0927_macacao-wide-com-manga-sino-rosa-escuro_0_ef3d6441-2854-4caf-9250-37cdace630a4.jpg?v=1743703950",
+        "category":"MACACÕES",
+        "description":"Macacão com manga sino, perfeito para um look elegante e moderno. Ideal para trabalhar ou para uma noite especial. Detalhes da Peça: Estilo clássico Alfaitaria alinhada Manga flutuante Decote redondo Silhueta justa Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":304
+      }
+    ],
+    "BODIES":[
+      {
+        "product_id":"8000618037409",
+        "name":"Body Decote U de Malha com Lurex - Verde Militar",
+        "price":"R$ 79,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225851_0033_body-decote-v-de-malha-de-lurex-verde-militar_0_1336d828-d15f-481e-98f0-f3f7225b0b64.jpg?v=1744827708",
+        "category":"BODIES",
+        "description":"Descubra o Body Decote U de Malha com Lurex, a peça curinga que te acompanha em todos os momentos, do básico ao festa. Sua malha de poliéster e elastano agrega conforto, enquanto o detalhe em lurex eleva seu look com um toque de brilho sutil. Detalhes da peça: Estampa: liso Decote: u Manga: alça Estilo: básico, festa Tecido: malha Detalhes: lurex Modelo tem 1.79m de altura e veste o tamanho PP / 36",
+        "relevance_score":289
+      },
+      {
+        "product_id":"8000617742497",
+        "name":"Body Decote U de Malha com Lurex - Prata",
+        "price":"R$ 79,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225851_0003_body-decote-v-de-malha-de-lurex-prata_0_841fd495-d4f4-4677-a850-fe1025e325e8.jpg?v=1744827702",
+        "category":"BODIES",
+        "description":"Descubra o Body Decote U de Malha com Lurex, a peça curinga que te acompanha em todos os momentos, do básico ao festa. Sua malha de poliéster e elastano agrega conforto, enquanto o detalhe em lurex eleva seu look com um toque de brilho sutil. Detalhes da peça: Estampa: liso Decote: u Manga: alça Estilo: básico, festa Tecido: malha Detalhes: lurex Modelo tem 1.79m de altura e veste o tamanho PP / 36",
+        "relevance_score":236
+      },
+      {
+        "product_id":"8097777025185",
+        "name":"Body Regata de Malha - Azul Marinho",
+        "price":"R$ 89,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226604_0016_body-regata-azul-marinho_0_7e1c6685-f937-4a38-9c51-b65563e9437d.jpg?v=1740000661",
+        "category":"BODIES",
+        "description":"Body regata de malha, perfeito para dias quentes. Versátil, pode ser usado sozinho ou combinado com sobreposições. Confortável e trendy, é um item must-have para um look casual chic. Detalhes da Peça: Body regata de malha, perfeito para dias quentes. Versátil, pode ser usado sozinho ou combinado com sobreposições. Confortável e trendy, é um item musthave para um look casual chic. **Detalhes da Peça:** Composição: Algodão Estilo de Manga: Alça Estampa: Liso Tecido: Malha Decote: U Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":220
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7786583326881",
+        "name":"Saia Midi Statement - Verde Militar",
+        "price":"R$ 459,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/20005998_0033_saia-midi-statement-verde-militar_0_b2ff2314-aee4-4af9-a751-899f66789521.jpg?v=1749156664",
+        "category":"SAIAS",
+        "description":"Desperte olhares com a saia midi statement! Com recortes assimétricos e cintura alta, essa peça em poliuretano é o item ideal para um look elevado e descolado. Perfeita para eventos sofisticados ou um jantar especial. Detalhes da peça Estampa: liso Comprimento: midi Cós: alto Estilo: maxi Tecido: poliuretano Detalhes: recortes assimétricos Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":291
+      },
+      {
+        "product_id":"7944283881633",
+        "name":"Saia Curta de Jacquard Tricot - Verde Militar",
+        "price":"R$ 69,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50301874_0033_saia-curta-tricot-jacquard-verde-militar_0_a4e1c32a-f870-4604-908f-fec14d34c5d9.jpg?v=1743180619",
+        "category":"SAIAS",
+        "description":"Saia Curta Tricot Jacquard Desfrute do verão com estilo nesta saia curta de tricot jacquard. Perfeita para um look casual chic em dias quentes. Detalhes da Peça: Categoria: Clothing Estilo: Statement Ocasião: Casual Clima: Calor, Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.73m de altura e veste o tamanho P /  36",
+        "relevance_score":291
+      },
+      {
+        "product_id":"7810661089441",
+        "name":"Saia Curta Tecido Texturizado - Lilás",
+        "price":"R$ 49,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50302234_0020_saia-curta-tecido-texturizado-lilas_0_ec2bd5d7-ea31-424a-abd3-11b179202ad5.jpg?v=1739828174",
+        "category":"SAIAS",
+        "description":"Saia curta em tecido texturizado, perfeita para festas e ocasiões noturnas. Design moderno e versátil, ideal para mulheres que buscam um look elegante e despojado ao mesmo tempo. Detalhes da Peça: Categoria: Clothing Estilo: Básico, Urbano Ocasião: Festa, Arrumada, Para à Noite Altura da Cintura: Cintura Média Silhueta: Justa Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":285
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7890588041377",
+        "name":"Blusa Manga Longa Transpassada com Amarração - Azul",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225246_0015_blusa-manga-longa-transpassada-com-amarracao-azul_0_15e23ab9-07dd-42aa-8b3c-e02848f3d863.jpg?v=1743708642",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa manga longa transpassada com amarração, perfeita para um look casual chic. O design transpassado e a amarração trazem um toque moderno e elegante, ideal para diversas ocasiões. Detalhes da peça: Composição: Viscose, Poliamida Tipo de Punho: Punhos de camisa Tipo do Fecho: Amarração Estampa: Liso Tecido: Plano Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":292
+      },
+      {
+        "product_id":"7873071055009",
+        "name":"Blusa Manga Longa Transpassada com Amarração - Verde Militar",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225246_0033_blusa-manga-longa-transpassada-com-amarracao-verde-militar_0_c1d31b80-224c-43d6-ab31-8a2807905a94.jpg?v=1743708629",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa manga longa transpassada com amarração, perfeita para um look casual chic. O design transpassado e a amarração trazem um toque moderno e elegante, ideal para diversas ocasiões. Detalhes da peça: Composição: Viscose, Poliamida Tipo de Punho: Punhos de camisa Tipo do Fecho: Amarração Estampa: Liso Tecido: Plano Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":271
+      },
+      {
+        "product_id":"7935596527777",
+        "name":"Blusa Ampla de Manga Curta - Verde Militar",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225367_0033_blusa-ampla-de-manga-curta-verde-militar_0_1c98bcf8-84c5-4683-b298-27ab68ceafe4.jpg?v=1749587032",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa Ampla de Manga Curta: Versátil e cool, essa blusa básica em viscolycra é um item curinga em qualquer closet. Ideal para um look casual e confortável, te acompanha por várias temporadas. Detalhes da peça: Composição: Viscose, Poliamida Decote: Reto Manga: Manga Curta Estilo: Básico Tecido: Plano Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":268
+      }
+    ]
+  }
+}

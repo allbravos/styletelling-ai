@@ -1,0 +1,130 @@
+{
+  "query_raw":"Volta à academia depois de tempo parada",
+  "query_norm":"volta a academia depois de tempo parada",
+  "generated_at":"2025-08-25T06:52:35.129958+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_56_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "CALÇAS":[
+      {
+        "product_id":"7956205076641",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0029_calca-wide-leg-cos-elastico-com-pregas-off-white_0_3615de9d-dd76-47d7-aac3-5e0fd616321c.jpg?v=1749566685",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":267
+      },
+      {
+        "product_id":"7956204978337",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Preto",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0002_calca-wide-leg-cos-elastico-com-pregas-preto_0_549163b0-a179-4b58-a82b-bd226c46b0b8.jpg?v=1749566672",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":260
+      },
+      {
+        "product_id":"8038578127009",
+        "name":"Calça Jogger Cintura Elástico - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225637_0002_calca-jogger-cintura-elastico-preto_0_80c688fa-be8e-4904-a6e4-8ec393d454c2.jpg?v=1740419965",
+        "category":"CALÇAS",
+        "description":"Calça Jogger Cintura Elástico Uma peça versátil e confortável para diversas ocasiões. A calça jogger com cintura elástica é um item clássico e prático que te acompanha por várias temporadas. Detalhes da peça: Estilo clássico Casual e para trabalhar Cintura alta com elástico Comprimento cropped Silhueta reta Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":258
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":299
+      },
+      {
+        "product_id":"8151265411233",
+        "name":"Blusa Polo de Tricot Telado - Chumbo",
+        "price":"R$ 219,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211270_0152_blusa-polo-de-tricot-telado-chumbo_0_663f8f02-2952-422e-9ebf-199341352d51.jpg?v=1747254979",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa polo de tricot telado, perfeita para um look casual e descolado. Confeccionada em material reciclado, com gola polo e mangas curtas, é uma peça versátil que te acompanha por várias temporadas. Detalhes da peça: Estilo básico Composição: acrílico, viscose Silhueta reta Comprimento longo Estampa lisa Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":292
+      },
+      {
+        "product_id":"8098200289441",
+        "name":"Blusa Manga Curta de Malha - Bege",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226606_0006_blusa-manga-curta-de-malha-bege_0_2844ff16-1c23-45f3-add7-7536e6304e24.jpg?v=1739825678",
+        "category":"BLUSAS & TOPS",
+        "description":"Esta blusa manga curta de malha é o item básico perfeito para o seu closet! Versátil e confortável, te acompanha em diversas ocasiões. Combine com jeans para um look casual e despojado ou com uma saia para um visual mais elegante. Detalhes da peça: Composição: Algodão Estilo: Básico Estampa: Liso Decote: U Manga: Manga curta Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":279
+      }
+    ],
+    "CAMISETAS":[
+      {
+        "product_id":"8098189803681",
+        "name":"Camiseta Manga Curta Dobrada de Malha - Bege",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226512_0006_01_1d5bc74d-45ba-4521-977d-7917ba719374.jpg?v=1745354161",
+        "category":"CAMISETAS",
+        "description":"Desperte seu estilo casual com a CAMISETA MANGA CURTA DOBRADA DE MALHA, perfeita para um look descontraído e atual. Feita em poliéster e viscose, essa peça versátil é um curinga no seu closet. Detalhes da peça: Estilo: BÁSICO Composição: POLIÉSTER, VISCOSE Estampa: LISO Manga: MANGA CURTA Tecido: MALHA Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":290
+      },
+      {
+        "product_id":"8223208800417",
+        "name":"REGATA DECOTE U DE MALHA RIBANA - OFF-WHITE",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50612942_0029_regata-decote-u-de-malha-ribana-off-white_0_1511c9c2-455b-4783-a468-cbb94f110c9d.jpg?v=1747839297",
+        "category":"CAMISETAS",
+        "description":"Descubra a versatilidade da Regata Decote U de Malha Ribana! Com comprimento midi e alças finas, essa peça minimalista em malha lisa é o curinga que seu closet precisa. Ideal para um look elevado em qualquer ocasião. Detalhes da peça: Estampa: liso Comprimento: midi Decote: u Manga: alça Estilo: regata Tecido: malha Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":269
+      },
+      {
+        "product_id":"7788769935521",
+        "name":"T-shirt Viscose Decote V Lisa - Preto",
+        "price":"R$ 89,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50500701_0002_t-shirt-basica-viscose-decote-v-lisa-preto_0_b4fd6783-8bb0-465c-b9ba-049a49cce762.jpg?v=1747835349",
+        "category":"CAMISETAS",
+        "description":"A t-shirt de viscose com decote V é a peça curinga que faltava no seu closet de luxo. Feita em malha de alta qualidade, seu design minimalista e elegante se destaca pela versatilidade e conforto. Perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: v Manga: manga curta Estilo: camiseta Tecido: malha Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":266
+      }
+    ],
+    "SHORTS":[
+      {
+        "product_id":"8093312286881",
+        "name":"Shorts de Malha Atoalhado - Off-white",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226629_0029_shorts-de-malha-atoalhado-off-white_1_b5ecc82b-41f2-488c-8505-a0c406b6a737.jpg?v=1738763563",
+        "category":"SHORTS",
+        "description":"Shorts de malha atoalhado, perfeito para um look casual e confortável. Ideal para dias quentes, com cintura alta e elástico, proporcionando estilo e praticidade. Detalhes da Peça: Estilo: Confortável, Urbano Ocasião: Casual Clima: Calor Altura da Cintura: Cintura Alta Comprimento: Curto Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":263
+      },
+      {
+        "product_id":"8000653099169",
+        "name":"Short com Bolsos Frontais de Malha - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225833_0029_short-curto-com-bolsos-de-malha-off-white_0_bedb6758-fb3f-492c-9b71-54f429d9b6ec.jpg?v=1740759266",
+        "category":"SHORTS",
+        "description":"Short com bolsos frontais de malha, perfeito para um look casual e descolado. Cintura alta com elástico e comprimento curto, destaca-se pela barra larga. Ideal para dias de calor ou meia-estação. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Alfaitaria: Alfaitado Altura da Cintura: Cintura alta Silhueta: Triângulo Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":261
+      },
+      {
+        "product_id":"7903427002529",
+        "name":"Shorts Cintura Alta de Malha - Preto",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226237_0002_shorts-cintura-alta-de-malha-preto_0_2c67b205-2b41-40bc-ad61-b2f6fd417037.jpg?v=1729539593",
+        "category":"SHORTS",
+        "description":"Shorts Cintura Alta de Malha Conforto e elegância se unem neste shorts de malha cintura alta. Perfeito para um look casual com um toque de sofisticação. Detalhes da Peça: Categoria: Clothing Estilo: Confortável, elegante Ocasião: Casual Altura da cintura: Cintura alta Comprimento: Curto Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":255
+      }
+    ]
+  }
+}

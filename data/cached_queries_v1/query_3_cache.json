@@ -1,0 +1,159 @@
+{
+  "query_raw":"Entrevista de emprego em uma empresa criativa",
+  "query_norm":"entrevista de emprego em uma empresa criativa",
+  "generated_at":"2025-08-25T05:55:30.927681+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_3_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "BLAZERS":[
+      {
+        "product_id":"8223288164513",
+        "name":"BLAZER SLIM GOLA COM LAPELA ALFAIATARIA - PRETO",
+        "price":"R$ 499,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310825_0002_blazer-slim-gola-com-lapela-alfaiataria-preto_0_59a8498e-cb22-46c2-8b8f-d6ada03c7020.jpg?v=1748268727",
+        "category":"BLAZERS",
+        "description":"Blazer Slim Gola com Lapela é a peça curinga que faltava no seu closet! Em tecido plano de poliéster e elastano, seu estilo alfaiataria traz elegância e sofisticação para qualquer look. Perfeito para um look elevado no trabalho ou para um evento especial. Detalhes da peça Comprimento: midi Estampa: liso Decote: gola Manga: manga longa Estilo: alfaiataria Tecido: poliéster, elastano Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":326
+      },
+      {
+        "product_id":"8041878651041",
+        "name":"Blazer Abotoamento Duplo - Preto",
+        "price":"R$ 419,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226134_0002_blazer-preto-1_0_96e88ebc-c965-4e62-a13f-b4b38f4483b8.jpg?v=1749567332",
+        "category":"BLAZERS",
+        "description":"Blazer Abotoamento Duplo Destaque-se com elegância no trabalho com nosso blazer abotoamento duplo. O design clássico e sofisticado é perfeito para a meia-estação e dias frios, garantindo um look elevado e versátil. Detalhes da Peça: Estilo: Clássico Ocasião: Para trabalhar Alfaitaria: Alfaitado Clima: Meia-estação, frio Comprimento da manga: Manga longa Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":305
+      },
+      {
+        "product_id":"8070839337121",
+        "name":"Blazer Slim Abotoamento Simples - Preto",
+        "price":"R$ 259,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225402_0002_blazer-slim-abotoamento-simples-preto_0_c29a57db-4701-462a-a796-1745c5a78cc2.jpg?v=1732206122",
+        "category":"BLAZERS",
+        "description":"Blazer Slim Abotoamento Simples Este blazer slim de abotoamento simples é a peça-chave para um look elegante e moderno. Seu corte impecável e design minimalista garantem sofisticação em qualquer ocasião. Detalhes da Peça: Código do Produto: 51225402 Categoria: Clothing Estilo: Clássico Comprimento da Manga: - Estrutura do Material: - Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":305
+      }
+    ],
+    "CAMISAS":[
+      {
+        "product_id":"8223197855905",
+        "name":"CAMISA MANGA LONGA BARRA RETA - PRETO",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425140_0002_camisa-manga-longa-barra-reta-preto-1_0_f90ef993-6ba0-418c-a005-ef1cf687c201.jpg?v=1747260626",
+        "category":"CAMISAS",
+        "description":"Uma camisa de manga longa com barra reta, em tecido plano de poliéster. Versátil e minimalista, perfeita para um look elegante e atemporal. Ideal para um evento social ou uma reunião de negócios. Detalhes da peça Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":326
+      },
+      {
+        "product_id":"8223194808481",
+        "name":"CAMISA MANGA LONGA BARRA RETA - OFF-WHITE",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425139_0029_camisa-manga-longa-barra-reta-off-white_0_f474b6ec-4253-4247-9dec-4aa9a66b53ce.jpg?v=1749567505",
+        "category":"CAMISAS",
+        "description":"Com design clean e minimalista, a CAMISA MANGA LONGA BARRA RETA é uma peça versátil e atemporal, perfeita para um look elegante e sofisticado. Confeccionada em poliéster, possui detalhes na gola e mangas, garantindo um visual sofisticado e moderno. Ideal para compor um look de trabalho ou um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":321
+      },
+      {
+        "product_id":"8223194742945",
+        "name":"CAMISA MANGA LONGA BARRA RETA - PRETO",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425139_0002_camisa-manga-longa-barra-reta-preto_0_815c097e-45dd-4909-b690-7b8d118c21f9.jpg?v=1749567478",
+        "category":"CAMISAS",
+        "description":"Com design clean e minimalista, a CAMISA MANGA LONGA BARRA RETA é uma peça versátil e atemporal, perfeita para um look elegante e sofisticado. Confeccionada em poliéster, possui detalhes na gola e mangas, garantindo um visual sofisticado e moderno. Ideal para compor um look de trabalho ou um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":318
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":298
+      },
+      {
+        "product_id":"7880068563105",
+        "name":"Macacão com Manga Sino Alfaiataria - Rosa Escuro",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225153_0927_macacao-wide-com-manga-sino-rosa-escuro_0_ef3d6441-2854-4caf-9250-37cdace630a4.jpg?v=1743703950",
+        "category":"MACACÕES",
+        "description":"Macacão com manga sino, perfeito para um look elegante e moderno. Ideal para trabalhar ou para uma noite especial. Detalhes da Peça: Estilo clássico Alfaitaria alinhada Manga flutuante Decote redondo Silhueta justa Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":287
+      },
+      {
+        "product_id":"7922702057633",
+        "name":"Macacão com Amarração na Cintura - Caramelo",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0027_macacao-utilitario-manga-longa-caramelo_0_589d81ea-71bd-44b0-bef4-5fc0d4654b67.jpg?v=1743703924",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":282
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"7865175113889",
+        "name":"Calça Reta com Cós Transpassado - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225052_0002_calca-reta-com-cos-transpassado-preto_0_20414b3c-127a-4ae5-9671-b40ca38d4288.jpg?v=1740411129",
+        "category":"CALÇAS",
+        "description":"Calça Reta com cós transpassado - A peça curinga que te acompanha em diversas ocasiões com muito estilo. O cós transpassado traz um toque único a essa calça de alfaiataria, perfeita para compor um look elegante e descolado ao mesmo tempo. Detalhes da peça: Estilo: Reta, Alfaiataria Composição: Poliéster Altura da Cintura: Alta Comprimento: Longo Detalhes: Cós com fechamento transpassado Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":333
+      },
+      {
+        "product_id":"7927614406817",
+        "name":"Calça Reta Cintura Alta Alfaiataria - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226231_0002_calca-cintura-alta-de-alfaiataria-preto_0_e3aade34-dda3-484f-a73e-4d8a20dfe463.jpg?v=1747662684",
+        "category":"CALÇAS",
+        "description":"Desfrute de elegância e conforto com a Calça Reta Cintura Alta Alfaiataria. Feita em viscose e poliéster, seu design clássico e cós alto proporcionam um look elevado em qualquer ocasião. Perfeita para um visual sofisticado e versátil. Detalhes da peça: Estampa: liso Comprimento: longo Cós: alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":332
+      },
+      {
+        "product_id":"8223935758497",
+        "name":"CALÇA RETA COM BOLSOS DE ALFAIATARIA - PRETO",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310841_0002_calca-reta-com-bolsos-de-alfaiataria-preto_3_fb160879-6e97-4322-9113-90f1bacdac54.jpg?v=1749740731",
+        "category":"CALÇAS",
+        "description":"Feita para mulheres sofisticadas, a calça reta com bolsos de alfaiataria é a peça-chave do seu guarda-roupa. Em viscose e poliéster, o tecido de sarja proporciona conforto e elegância. Versátil, pode ser usada em diversas ocasiões, do trabalho a um jantar especial. Detalhes da peça Estampa: liso Comprimento: longo Cós: médio Estilo: reta Tecido: sarja Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":332
+      }
+    ],
+    "BODIES":[
+      {
+        "product_id":"7795258982561",
+        "name":"Body Manga Longa com Decote Quadrado  - Off-white",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50501870_0029_body-manga-longa-com-decote-quadrado-off-white_0_86ee381a-5534-4efb-b2a3-91dc33c5c88e.jpg?v=1743180564",
+        "category":"BODIES",
+        "description":"Body manga longa confeccionado em malha de viscose com decote quadrado, perfeito para um look casual chic. Uma peça versátil que te acompanha por várias temporadas. Detalhes da peça: Decote quadrado Manga longa Tecido em malha de viscose Estampa lisa Estilo confortável e despojado Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":297
+      },
+      {
+        "product_id":"8000617742497",
+        "name":"Body Decote U de Malha com Lurex - Prata",
+        "price":"R$ 79,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225851_0003_body-decote-v-de-malha-de-lurex-prata_0_841fd495-d4f4-4677-a850-fe1025e325e8.jpg?v=1744827702",
+        "category":"BODIES",
+        "description":"Descubra o Body Decote U de Malha com Lurex, a peça curinga que te acompanha em todos os momentos, do básico ao festa. Sua malha de poliéster e elastano agrega conforto, enquanto o detalhe em lurex eleva seu look com um toque de brilho sutil. Detalhes da peça: Estampa: liso Decote: u Manga: alça Estilo: básico, festa Tecido: malha Detalhes: lurex Modelo tem 1.79m de altura e veste o tamanho PP / 36",
+        "relevance_score":269
+      },
+      {
+        "product_id":"8028374892705",
+        "name":"Body Regata de Malha Creponada - Preto",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226022_0002_body-regata-de-malha-creponada-preto_0_f6dcfd21-1e63-4cd6-a7bd-abb3f8c3acfc.jpg?v=1748017652",
+        "category":"BODIES",
+        "description":"Desenvolvido para o seu closet de alta costura, o Body Regata de Malha Creponada é a peça curinga que você precisava! Com estilo regata e tecido de poliéster, possui decote em \"U\" e mangas sem alça, garantindo um look minimalista e sofisticado para diversas ocasiões. Detalhes da peça: Estampa: liso Decote: u Manga: sem alça Estilo: regata Tecido: malha Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":266
+      }
+    ]
+  }
+}

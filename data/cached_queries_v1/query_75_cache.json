@@ -1,0 +1,159 @@
+{
+  "query_raw":"Visita a casa de uma amiga que você não vê há anos",
+  "query_norm":"visita a casa de uma amiga que voce nao ve ha anos",
+  "generated_at":"2025-08-25T07:15:38.104830+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_75_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"7935596462241",
+        "name":"Vestido Curto Reto com Alça - Preto",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225371_0002_vestido-curto-reto-com-alca-preto_0_98c059ca-422d-4340-89c5-a0b37c80283e.jpg?v=1749580489",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para mulheres que buscam elegância e sofisticação, o Vestido Curto Reto com Alça é a peça perfeita para um look versátil e atemporal. Seu design minimalista e tecido de viscose e poliamida garantem conforto e estilo em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: básico Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":242
+      },
+      {
+        "product_id":"7922702712993",
+        "name":"Vestido Midi de Alça com Saia Franzida - Preto",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224795_0002_vestido-midi-de-alca-com-saia-franzida-preto_0_c52e1195-feb5-4c34-a1f1-f77317e63571.jpg?v=1743703893",
+        "category":"VESTIDOS",
+        "description":"Destaque-se com elegância neste VESTIDO MIDI DE ALÇA COM SAIA FRANZIDA. Perfeito para ocasiões festivas, seu design clássico e urbano traz sofisticação e estilo. Detalhes da Peça: Estilo: Clássico, Urbano Ocasião: Arrumada, Festa Alfaitaria: Alfaitado Comprimento: Midi Estilo de Alça: Alça Fina",
+        "relevance_score":241
+      },
+      {
+        "product_id":"8223351865505",
+        "name":"VESTIDO LONGO COM FENDA - PRETO",
+        "price":"R$ 399,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425143_0002_vestido-longo-com-fenda-preto-1_0_58936be0-5a8e-47ca-92fe-7405a4ded71b.jpg?v=1747250628",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com elegância e sofisticação neste vestido longo com fenda. O comprimento midi e a alça fina trazem um toque de sensualidade, enquanto o tecido de viscose e linho garante conforto e fluidez. Perfeito para eventos noturnos ou ocasiões especiais. Detalhes da peça Estampa: liso Comprimento: midi Decote: reto Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":241
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"8028389671073",
+        "name":"Macaquinho Manga Longa - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226102_0002_macaquinho-manga-longa-preto_0_3bdcc896-cb05-4892-a8dd-999056007fc6.jpg?v=1745864564",
+        "category":"MACACÕES",
+        "description":"Macaquinho manga longa perfeito para um look elegante e despojado. Destaque para a cintura com amarração e mangas longas. Ideal para eventos casuais ou encontros sofisticados. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Altura da Cintura: Cintura com amarração Comprimento: Curto Comprimento da Manga: Manga longa Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":239
+      },
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":234
+      },
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":214
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":285
+      },
+      {
+        "product_id":"7832337350817",
+        "name":"Blusa com Decote Halter de Tricot - Off-white",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50502007_0029_blusa-regular-tricot-com-decote-halter-off-white_0_e7952c46-a1bb-4c5d-b476-427cbbef6aa7.jpg?v=1744291636",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa com Decote Halter de Tricô Uma peça versátil e elegante para o seu closet. A blusa de tricô com decote halter é perfeita para um look casual chic. Detalhes da Peça: Estilo: Básico Ocasião: Casual Comprimento: Padrão Estilo de Manga: Regata Estilo de Gola/Decote: Gola Careca Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":262
+      },
+      {
+        "product_id":"7795748077729",
+        "name":"Blusa com Decote Halter de Tricot - Preto",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50502007_0002_blusa-regular-tricot-com-decote-halter-preto_0_9a5f0f3f-c18b-443c-83e5-977a8f518c4d.jpg?v=1744291498",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa com Decote Halter de Tricô Uma peça versátil e elegante para o seu closet. A blusa de tricô com decote halter é perfeita para um look casual chic. Detalhes da Peça: Estilo: Básico Ocasião: Casual Comprimento: Padrão Estilo de Manga: Regata Estilo de Gola/Decote: Gola Careca Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":260
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7944283816097",
+        "name":"Saia Curta de Jacquard Tricot - Caramelo",
+        "price":"R$ 69,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50301874_0027_saia-curta-tricot-jacquard-caramelo_0_69020a8b-2f6f-4f12-bc53-df31c7dcf29d.jpg?v=1743180607",
+        "category":"SAIAS",
+        "description":"Saia Curta Tricot Jacquard Desfrute do verão com estilo nesta saia curta de tricot jacquard. Perfeita para um look casual chic em dias quentes. Detalhes da Peça: Categoria: Clothing Estilo: Statement Ocasião: Casual Clima: Calor, Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.73m de altura e veste o tamanho P /  36",
+        "relevance_score":250
+      },
+      {
+        "product_id":"7979069276321",
+        "name":"Saia Midi Cintura Alta com Pregas - Off-white",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225455_0029_saia-midi-cintura-alta-com-pregas-off-white_0_92c2d4ef-d629-4ef1-b59b-be90eb986b36.jpg?v=1744291453",
+        "category":"SAIAS",
+        "description":"Saia Midi Cintura Alta com Pregas Peça versátil e elegante para um look elevado. A saia midi cintura alta com pregas é um item clássico e atemporal, perfeito para ocasiões casuais. Detalhes da Peça Estilo: Clássico Ocasião: Casual Alfaitaria: Alfaitado Clima: Meia-estação, calor Silhueta: Evasê Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":248
+      },
+      {
+        "product_id":"8010763141281",
+        "name":"Saia Midi com Pregas - Rosa",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225772_0013_saia-midi-com-pregas-rosa_0_93abc5ad-daf1-4c67-8037-ade068fd11e7.jpg?v=1747662509",
+        "category":"SAIAS",
+        "description":"Descubra a saia midi com pregas, uma peça de alfaiataria que une elegância e modernidade. Feita em viscose e poliéster, possui cós alto e comprimento longo, perfeita para um look versátil e sofisticado. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":248
+      }
+    ],
+    "BODIES":[
+      {
+        "product_id":"8000617742497",
+        "name":"Body Decote U de Malha com Lurex - Prata",
+        "price":"R$ 79,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225851_0003_body-decote-v-de-malha-de-lurex-prata_0_841fd495-d4f4-4677-a850-fe1025e325e8.jpg?v=1744827702",
+        "category":"BODIES",
+        "description":"Descubra o Body Decote U de Malha com Lurex, a peça curinga que te acompanha em todos os momentos, do básico ao festa. Sua malha de poliéster e elastano agrega conforto, enquanto o detalhe em lurex eleva seu look com um toque de brilho sutil. Detalhes da peça: Estampa: liso Decote: u Manga: alça Estilo: básico, festa Tecido: malha Detalhes: lurex Modelo tem 1.79m de altura e veste o tamanho PP / 36",
+        "relevance_score":255
+      },
+      {
+        "product_id":"8028374892705",
+        "name":"Body Regata de Malha Creponada - Preto",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226022_0002_body-regata-de-malha-creponada-preto_0_f6dcfd21-1e63-4cd6-a7bd-abb3f8c3acfc.jpg?v=1748017652",
+        "category":"BODIES",
+        "description":"Desenvolvido para o seu closet de alta costura, o Body Regata de Malha Creponada é a peça curinga que você precisava! Com estilo regata e tecido de poliéster, possui decote em \"U\" e mangas sem alça, garantindo um look minimalista e sofisticado para diversas ocasiões. Detalhes da peça: Estampa: liso Decote: u Manga: sem alça Estilo: regata Tecido: malha Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":246
+      },
+      {
+        "product_id":"8028375154849",
+        "name":"Body Regata de Malha Creponada - Off-white",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226022_0029_body-regata-de-malha-creponada-off-white_0_9721338c-ce73-47b5-aa19-8a09ea2de192.jpg?v=1748017713",
+        "category":"BODIES",
+        "description":"Desenvolvido para o seu closet de alta costura, o Body Regata de Malha Creponada é a peça curinga que você precisava! Com estilo regata e tecido de poliéster, possui decote em \"U\" e mangas sem alça, garantindo um look minimalista e sofisticado para diversas ocasiões. Detalhes da peça: Estampa: liso Decote: u Manga: sem alça Estilo: regata Tecido: malha Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":246
+      }
+    ]
+  }
+}

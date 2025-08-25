@@ -1,0 +1,130 @@
+{
+  "query_raw":"Look de aeroporto confortável e no frio",
+  "query_norm":"look de aeroporto confortavel e no frio",
+  "generated_at":"2025-08-25T07:26:30.886262+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_84_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "CALÇAS":[
+      {
+        "product_id":"7927614406817",
+        "name":"Calça Reta Cintura Alta Alfaiataria - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226231_0002_calca-cintura-alta-de-alfaiataria-preto_0_e3aade34-dda3-484f-a73e-4d8a20dfe463.jpg?v=1747662684",
+        "category":"CALÇAS",
+        "description":"Desfrute de elegância e conforto com a Calça Reta Cintura Alta Alfaiataria. Feita em viscose e poliéster, seu design clássico e cós alto proporcionam um look elevado em qualquer ocasião. Perfeita para um visual sofisticado e versátil. Detalhes da peça: Estampa: liso Comprimento: longo Cós: alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":344
+      },
+      {
+        "product_id":"7795362037921",
+        "name":"Calça Jogging Alfaiataria Essential - Azul Marinho",
+        "price":"R$ 79,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/20004043_0016_calca-jogging-essential-azul-marinho_0_a9047dc4-ceac-4dbb-b423-3daa9d6d79b3.jpg?v=1743180575",
+        "category":"CALÇAS",
+        "description":"Calça Jogging Alfaiataria Essential, perfeita para um look casual e elegante. Com cintura alta e amarração, o modelo cropped traz um toque moderno à alfaiataria. Detalhes da Peça: Estilo: Básico, Urbano Ocasião: Casual Estilo de Alfaitaria: Alfaiatado Clima: Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":336
+      },
+      {
+        "product_id":"8223935758497",
+        "name":"CALÇA RETA COM BOLSOS DE ALFAIATARIA - PRETO",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310841_0002_calca-reta-com-bolsos-de-alfaiataria-preto_3_fb160879-6e97-4322-9113-90f1bacdac54.jpg?v=1749740731",
+        "category":"CALÇAS",
+        "description":"Feita para mulheres sofisticadas, a calça reta com bolsos de alfaiataria é a peça-chave do seu guarda-roupa. Em viscose e poliéster, o tecido de sarja proporciona conforto e elegância. Versátil, pode ser usada em diversas ocasiões, do trabalho a um jantar especial. Detalhes da peça Estampa: liso Comprimento: longo Cós: médio Estilo: reta Tecido: sarja Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":336
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":314
+      },
+      {
+        "product_id":"7922702057633",
+        "name":"Macacão com Amarração na Cintura - Caramelo",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0027_macacao-utilitario-manga-longa-caramelo_0_589d81ea-71bd-44b0-bef4-5fc0d4654b67.jpg?v=1743703924",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":304
+      },
+      {
+        "product_id":"7880068563105",
+        "name":"Macacão com Manga Sino Alfaiataria - Rosa Escuro",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225153_0927_macacao-wide-com-manga-sino-rosa-escuro_0_ef3d6441-2854-4caf-9250-37cdace630a4.jpg?v=1743703950",
+        "category":"MACACÕES",
+        "description":"Macacão com manga sino, perfeito para um look elegante e moderno. Ideal para trabalhar ou para uma noite especial. Detalhes da Peça: Estilo clássico Alfaitaria alinhada Manga flutuante Decote redondo Silhueta justa Modelo tem 1.75m de altura e veste o tamanho P / 36",
+        "relevance_score":293
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":346
+      },
+      {
+        "product_id":"7832322048161",
+        "name":"Camiseta Cropped de Tricot Listrada - Azul Marinho e Branco",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_2955_camiseta-cropped-de-trico-listrada-azul-marinho-e-branco_0_ca79b1cf-19e0-46c1-ad9f-68cd0ac0e047.jpg?v=1743180651",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":332
+      },
+      {
+        "product_id":"8151265411233",
+        "name":"Blusa Polo de Tricot Telado - Chumbo",
+        "price":"R$ 219,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211270_0152_blusa-polo-de-tricot-telado-chumbo_0_663f8f02-2952-422e-9ebf-199341352d51.jpg?v=1747254979",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa polo de tricot telado, perfeita para um look casual e descolado. Confeccionada em material reciclado, com gola polo e mangas curtas, é uma peça versátil que te acompanha por várias temporadas. Detalhes da peça: Estilo básico Composição: acrílico, viscose Silhueta reta Comprimento longo Estampa lisa Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":324
+      }
+    ],
+    "BODIES":[
+      {
+        "product_id":"8097776992417",
+        "name":"Body Regata de Malha - Marrom",
+        "price":"R$ 89,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226604_0008_body-regata-marrom_0_89428d30-6d5a-4300-a259-a8639176fbaf.jpg?v=1740000654",
+        "category":"BODIES",
+        "description":"Body regata de malha, perfeito para dias quentes. Versátil, pode ser usado sozinho ou combinado com sobreposições. Confortável e trendy, é um item must-have para um look casual chic. Detalhes da Peça: Body regata de malha, perfeito para dias quentes. Versátil, pode ser usado sozinho ou combinado com sobreposições. Confortável e trendy, é um item musthave para um look casual chic. **Detalhes da Peça:** Composição: Algodão Estilo de Manga: Alça Estampa: Liso Tecido: Malha Decote: U Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":291
+      },
+      {
+        "product_id":"8028374892705",
+        "name":"Body Regata de Malha Creponada - Preto",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226022_0002_body-regata-de-malha-creponada-preto_0_f6dcfd21-1e63-4cd6-a7bd-abb3f8c3acfc.jpg?v=1748017652",
+        "category":"BODIES",
+        "description":"Desenvolvido para o seu closet de alta costura, o Body Regata de Malha Creponada é a peça curinga que você precisava! Com estilo regata e tecido de poliéster, possui decote em \"U\" e mangas sem alça, garantindo um look minimalista e sofisticado para diversas ocasiões. Detalhes da peça: Estampa: liso Decote: u Manga: sem alça Estilo: regata Tecido: malha Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":290
+      },
+      {
+        "product_id":"8028375154849",
+        "name":"Body Regata de Malha Creponada - Off-white",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226022_0029_body-regata-de-malha-creponada-off-white_0_9721338c-ce73-47b5-aa19-8a09ea2de192.jpg?v=1748017713",
+        "category":"BODIES",
+        "description":"Desenvolvido para o seu closet de alta costura, o Body Regata de Malha Creponada é a peça curinga que você precisava! Com estilo regata e tecido de poliéster, possui decote em \"U\" e mangas sem alça, garantindo um look minimalista e sofisticado para diversas ocasiões. Detalhes da peça: Estampa: liso Decote: u Manga: sem alça Estilo: regata Tecido: malha Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":290
+      }
+    ]
+  }
+}

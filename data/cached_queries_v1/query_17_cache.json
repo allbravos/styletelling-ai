@@ -1,0 +1,159 @@
+{
+  "query_raw":"Festival de música indie ao ar livre",
+  "query_norm":"festival de musica indie ao ar livre",
+  "generated_at":"2025-08-25T06:10:12.636615+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_17_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8223351996577",
+        "name":"VESTIDO LONGO COM FENDA - VERDE",
+        "price":"R$ 399,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425143_0014_vestido-longo-com-fenda-verde_0_a37f847f-b645-4464-a229-c7666badd96d.jpg?v=1747250661",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com elegância e sofisticação neste vestido longo com fenda. O comprimento midi e a alça fina trazem um toque de sensualidade, enquanto o tecido de viscose e linho garante conforto e fluidez. Perfeito para eventos noturnos ou ocasiões especiais. Detalhes da peça Estampa: liso Comprimento: midi Decote: reto Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":269
+      },
+      {
+        "product_id":"8150104408225",
+        "name":"Vestido Midi de Tricot - Marrom",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211494_0008_vestido-midi-de-tricot-marrom_0_63f517fd-a82c-4732-8b40-3a4120ba7676.jpg?v=1742237830",
+        "category":"VESTIDOS",
+        "description":"Deslumbre-se com o VESTIDO MIDI DE TRICOT, peça curinga que te acompanha por várias temporadas. Com estilo MAXI, o design minimalista e a alça em V conferem um look elevado. Feito em TRICOT de POLIÉSTER, é perfeito para um visual sofisticado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: midi Decote: v Manga: alça Estilo: maxi Tecido: tricot Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":254
+      },
+      {
+        "product_id":"8150104473761",
+        "name":"Vestido Midi de Tricot - Caqui",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211494_0021_vestido-midi-de-tricot-caqui_0_d282c479-67bd-4e22-bab0-435833629510.jpg?v=1742237837",
+        "category":"VESTIDOS",
+        "description":"Deslumbre-se com o VESTIDO MIDI DE TRICOT, peça curinga que te acompanha por várias temporadas. Com estilo MAXI, o design minimalista e a alça em V conferem um look elevado. Feito em TRICOT de POLIÉSTER, é perfeito para um visual sofisticado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: midi Decote: v Manga: alça Estilo: maxi Tecido: tricot Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":254
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7922702123169",
+        "name":"Macacão com Amarração na Cintura - Cereja",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0351_macacao-utilitario-manga-longa-cereja_0_928f6b8a-daf6-4477-a9a1-2fb32e50f01c.jpg?v=1743703932",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":246
+      },
+      {
+        "product_id":"8223929991329",
+        "name":"Macacão com Alças de Alfaiataria - Verde",
+        "price":"R$ 439,00",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310839_0014_macacao-com-alcas-de-alfaiataria-verde_0_936df973-e592-4ed6-81d6-46e9b578e542.jpg?v=1747173148",
+        "category":"MACACÕES",
+        "description":"Desfrute da elegância e sofisticação do Macacão com Alças de Alfaiataria, perfeito para um evento especial ou uma ocasião casual chique. Feito em linho e viscose, seu comprimento midi e detalhes minimalistas garantem um look versátil e atemporal. Detalhes da peça: Estampa: liso Comprimento: midi Decote: v Manga: alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":233
+      },
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":226
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7944283816097",
+        "name":"Saia Curta de Jacquard Tricot - Caramelo",
+        "price":"R$ 69,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50301874_0027_saia-curta-tricot-jacquard-caramelo_0_69020a8b-2f6f-4f12-bc53-df31c7dcf29d.jpg?v=1743180607",
+        "category":"SAIAS",
+        "description":"Saia Curta Tricot Jacquard Desfrute do verão com estilo nesta saia curta de tricot jacquard. Perfeita para um look casual chic em dias quentes. Detalhes da Peça: Categoria: Clothing Estilo: Statement Ocasião: Casual Clima: Calor, Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.73m de altura e veste o tamanho P /  36",
+        "relevance_score":316
+      },
+      {
+        "product_id":"7826907725985",
+        "name":"Mini Saia Reta Jacquard  - Caramelo",
+        "price":"R$ 49,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50301751_0027_0_mini-saia-reta-jacquard-caramelo_v1724231467790.jpg?v=1724231471",
+        "category":"SAIAS",
+        "description":"Mini saia reta jacquard, peça curinga para um look elevado. Ideal para ocasiões casuais ou arrumadas, seu design clássico e cintura alta sem cós garantem um visual sofisticado e moderno. Detalhes da Peça: Código do Produto: 50301751 Categoria: Clothing Estilo: Versátil Ocasião: Casual, Arrumada Alfaitaria: False Clima: - Altura da Cintura: Cintura Alta Cintura: Sem cós com fechamento Comprimento: Curto Silhueta: Justa Estrutura do Material: Malha Forro: Sem forro Estilo de Barra: Barra Padrão Modelo tem 1.75m de altura e veste o tamanho PP / 36",
+        "relevance_score":292
+      },
+      {
+        "product_id":"7810661089441",
+        "name":"Saia Curta Tecido Texturizado - Lilás",
+        "price":"R$ 49,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50302234_0020_saia-curta-tecido-texturizado-lilas_0_ec2bd5d7-ea31-424a-abd3-11b179202ad5.jpg?v=1739828174",
+        "category":"SAIAS",
+        "description":"Saia curta em tecido texturizado, perfeita para festas e ocasiões noturnas. Design moderno e versátil, ideal para mulheres que buscam um look elegante e despojado ao mesmo tempo. Detalhes da Peça: Categoria: Clothing Estilo: Básico, Urbano Ocasião: Festa, Arrumada, Para à Noite Altura da Cintura: Cintura Média Silhueta: Justa Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":283
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"8046845296801",
+        "name":"Regata Tricot Decote U Texturizada - Amarelo",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226245_0010_regata-de-tricot-decote-u-texturizada-amarelo_0_1b9da023-3282-40e6-aac2-d91fd06fbc8c.jpg?v=1743180638",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata tricot decote U texturizada, peça básica e confortável para um look casual elegante. Ideal para dias quentes, essa regata ajustada destaca-se pelo design texturizado e decote U. Detalhes da Peça: Estilo: Básico, confortável Ocasião: Casual Estilo de Alça: Alça larga Estilo de Gola/Decote: Decote U Comprimento da Manga: Sem manga Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":293
+      },
+      {
+        "product_id":"8150521577633",
+        "name":"Camiseta Cropped de Tricot Listrada - Vermelho",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_0012_camiseta-cropped-de-tricot-listrada-vermelho_0_ffe6adb7-d761-4219-8012-b618e3170dc3.jpg?v=1743180665",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":267
+      },
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":261
+      }
+    ],
+    "ROUPAS DE PRAIA":[
+      {
+        "product_id":"8177626448033",
+        "name":"Pantalona Palms Areia - Areia",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015578_0557_pantalona-palms-areia-areia-4_0_91b93900-9141-4430-8dc7-256adace42a8.jpg?v=1745947403",
+        "category":"ROUPAS DE PRAIA",
+        "description":"Calça em viscose estampada, com modelagem ampla e soltinha, bolsos frontais quadrados. Cós reto com elástico adaptando a vários tipos de quadril. Por ser 100% de viscose, sua transpirabilidade é alta por ser de fibra natural, por isso é perfeita para o verão e dias mais quentes. A coleção Palms é uma estampa exclusiva Suntime, inspirada nas lindas palmeiras que beiram o mar.",
+        "relevance_score":259
+      },
+      {
+        "product_id":"8177627693217",
+        "name":"Saída Curta Aquamarine Topázio - Azul",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015594_0015_saida-de-praia-curta-aquamarine-topazio-azul_0_a7de24ea-d582-43d7-8f7a-0cd400d63814.jpg?v=1746727415",
+        "category":"ROUPAS DE PRAIA",
+        "description":"Com modelagem best-seller, esta peça pode ser usada como saída de praia ou vestido. A saída curta na cor azul clara possui modelagem mais solta, além de mangas longas flare e decote V frontal com detalhe entrelaçado. Simplesmente linda, ela é toda em viscose, um tecido fluido e com transpirabilidade para o verão.",
+        "relevance_score":257
+      },
+      {
+        "product_id":"8177628020897",
+        "name":"Vestido Longo Aquamarine Topázio - Azul",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015595_0015_saida-de-praia-longa-aquamarine-topazio-azul_0_6b73faa2-e692-4816-b983-8866aa1fcf65.jpg?v=1746727415",
+        "category":"ROUPAS DE PRAIA",
+        "description":"Esta peça pode ser usada como vestido ou saída de praia. O vestido longo azul claro Aquamarine possui modelagem ajustada ao corpo, decote reto, alças extremamente finas e amarração por toda a lateral da peça. Além disso, ele é todo em viscose, um tecido leve e com transpirabilidade para o verão. Para as fashionistas de plantão!",
+        "relevance_score":253
+      }
+    ]
+  }
+}

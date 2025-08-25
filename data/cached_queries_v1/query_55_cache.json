@@ -1,0 +1,130 @@
+{
+  "query_raw":"Manhã de trabalho no café com notebook",
+  "query_norm":"manha de trabalho no cafe com notebook",
+  "generated_at":"2025-08-25T06:51:30.039327+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_55_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8223332696225",
+        "name":"VESTIDO CURTO DE ALÇAS - BEGE",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425142_0006_vestido-curto-de-alcas-bege_0_80fe4cbe-9388-44a9-90e7-cec35aedad5c.jpg?v=1746731044",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com o VESTIDO CURTO DE ALÇAS! Perfeito para festas, seu design minimalista e tecido fluido de poliéster, algodão, viscose e linho proporcionam um look elevado e versátil. Um item curinga no seu closet! Detalhes da peça: Estampa: liso Comprimento: curto Decote: u Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":299
+      },
+      {
+        "product_id":"7943878344865",
+        "name":"Vestido Longo com Recortes de Malha - Preto",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226234_0002_vestido-manga-longa-de-malha-com-recortes-preto_0_5d580d20-0a78-40c2-a0f2-cfb394c11a2f.jpg?v=1744114428",
+        "category":"VESTIDOS",
+        "description":"**** Deslumbrante vestido longo com recortes de malha, perfeito para ocasiões especiais ou para um look elevado no dia a dia. O design loose e os detalhes em viscose garantem conforto e estilo único. Detalhes da peça: Estampa: liso Comprimento: longo Decote: u Manga: manga longa Estilo: loose Tecido: malha Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":285
+      },
+      {
+        "product_id":"7935596462241",
+        "name":"Vestido Curto Reto com Alça - Preto",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225371_0002_vestido-curto-reto-com-alca-preto_0_98c059ca-422d-4340-89c5-a0b37c80283e.jpg?v=1749580489",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para mulheres que buscam elegância e sofisticação, o Vestido Curto Reto com Alça é a peça perfeita para um look versátil e atemporal. Seu design minimalista e tecido de viscose e poliamida garantem conforto e estilo em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: básico Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":269
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":316
+      },
+      {
+        "product_id":"7888894263457",
+        "name":"Blusa Manga Longa Decote V - Bege",
+        "price":"R$ 169,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224965_0006_blusa-manga-longa-decote-v-bege_0_49513404-b29c-4fb9-a75d-5c44246ec01b.jpg?v=1745240519",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa Manga Longa Decote V: Peça versátil e cool, ideal para um look elevado no dia a dia. O decote V e o caimento fluido garantem um visual despojado e moderno. Detalhes da Peça: Blusa Manga Longa Decote V: Peça versátil e cool, ideal para um look elevado no dia a dia. O decote V e o caimento fluido garantem um visual despojado e moderno. **Detalhes da Peça:** Estilo: Casual Comprimento da Manga: Longa Decote: V Estampa: Liso Tecido: Plano Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":314
+      },
+      {
+        "product_id":"8098200289441",
+        "name":"Blusa Manga Curta de Malha - Bege",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226606_0006_blusa-manga-curta-de-malha-bege_0_2844ff16-1c23-45f3-add7-7536e6304e24.jpg?v=1739825678",
+        "category":"BLUSAS & TOPS",
+        "description":"Esta blusa manga curta de malha é o item básico perfeito para o seu closet! Versátil e confortável, te acompanha em diversas ocasiões. Combine com jeans para um look casual e despojado ou com uma saia para um visual mais elegante. Detalhes da peça: Composição: Algodão Estilo: Básico Estampa: Liso Decote: U Manga: Manga curta Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":312
+      }
+    ],
+    "CAMISAS":[
+      {
+        "product_id":"8223185404065",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - AREIA",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0557_camisa-manga-longa-barra-arredondada-areia_0_dae87324-2c57-4162-91b6-ba4292dfa8c9.jpg?v=1749230435",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":304
+      },
+      {
+        "product_id":"8223194775713",
+        "name":"CAMISA MANGA LONGA BARRA RETA - MARROM",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425139_0008_camisa-manga-longa-barra-reta-marrom_0_ef870971-10f4-4afc-b7c5-317aebac54c6.jpg?v=1749567485",
+        "category":"CAMISAS",
+        "description":"Com design clean e minimalista, a CAMISA MANGA LONGA BARRA RETA é uma peça versátil e atemporal, perfeita para um look elegante e sofisticado. Confeccionada em poliéster, possui detalhes na gola e mangas, garantindo um visual sofisticado e moderno. Ideal para compor um look de trabalho ou um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":263
+      },
+      {
+        "product_id":"8109215482017",
+        "name":"Camisa Oversized Gola Padre de Algodão - Off-white",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225566_0029_camisa-oversized-gola-padre-de-algodao-off-white_0_aac30832-4a33-498b-9e9e-8520bab300e0.jpg?v=1747662562",
+        "category":"CAMISAS",
+        "description":"Camisa Oversized Gola Padre de Algodão Uma peça versátil e clássica para diversas ocasiões. A camisa oversized em algodão apresenta gola padre e mangas longas, garantindo um look elegante e confortável. Detalhes da peça: Estilo clássico Manga longa com punhos de camisa Gola padre Silhueta oversized Sem forro Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":259
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":286
+      },
+      {
+        "product_id":"7922702057633",
+        "name":"Macacão com Amarração na Cintura - Caramelo",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0027_macacao-utilitario-manga-longa-caramelo_0_589d81ea-71bd-44b0-bef4-5fc0d4654b67.jpg?v=1743703924",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":260
+      },
+      {
+        "product_id":"8028389671073",
+        "name":"Macaquinho Manga Longa - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226102_0002_macaquinho-manga-longa-preto_0_3bdcc896-cb05-4892-a8dd-999056007fc6.jpg?v=1745864564",
+        "category":"MACACÕES",
+        "description":"Macaquinho manga longa perfeito para um look elegante e despojado. Destaque para a cintura com amarração e mangas longas. Ideal para eventos casuais ou encontros sofisticados. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Altura da Cintura: Cintura com amarração Comprimento: Curto Comprimento da Manga: Manga longa Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":259
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "query_raw":"Viagem solo com programação cultural intensa",
+  "query_norm":"viagem solo com programacao cultural intensa",
+  "generated_at":"2025-08-25T07:36:07.497881+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_92_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"7943878344865",
+        "name":"Vestido Longo com Recortes de Malha - Preto",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226234_0002_vestido-manga-longa-de-malha-com-recortes-preto_0_5d580d20-0a78-40c2-a0f2-cfb394c11a2f.jpg?v=1744114428",
+        "category":"VESTIDOS",
+        "description":"**** Deslumbrante vestido longo com recortes de malha, perfeito para ocasiões especiais ou para um look elevado no dia a dia. O design loose e os detalhes em viscose garantem conforto e estilo único. Detalhes da peça: Estampa: liso Comprimento: longo Decote: u Manga: manga longa Estilo: loose Tecido: malha Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":219
+      },
+      {
+        "product_id":"7935596462241",
+        "name":"Vestido Curto Reto com Alça - Preto",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225371_0002_vestido-curto-reto-com-alca-preto_0_98c059ca-422d-4340-89c5-a0b37c80283e.jpg?v=1749580489",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para mulheres que buscam elegância e sofisticação, o Vestido Curto Reto com Alça é a peça perfeita para um look versátil e atemporal. Seu design minimalista e tecido de viscose e poliamida garantem conforto e estilo em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: básico Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":213
+      },
+      {
+        "product_id":"7922702712993",
+        "name":"Vestido Midi de Alça com Saia Franzida - Preto",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224795_0002_vestido-midi-de-alca-com-saia-franzida-preto_0_c52e1195-feb5-4c34-a1f1-f77317e63571.jpg?v=1743703893",
+        "category":"VESTIDOS",
+        "description":"Destaque-se com elegância neste VESTIDO MIDI DE ALÇA COM SAIA FRANZIDA. Perfeito para ocasiões festivas, seu design clássico e urbano traz sofisticação e estilo. Detalhes da Peça: Estilo: Clássico, Urbano Ocasião: Arrumada, Festa Alfaitaria: Alfaitado Comprimento: Midi Estilo de Alça: Alça Fina",
+        "relevance_score":212
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"8028389671073",
+        "name":"Macaquinho Manga Longa - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226102_0002_macaquinho-manga-longa-preto_0_3bdcc896-cb05-4892-a8dd-999056007fc6.jpg?v=1745864564",
+        "category":"MACACÕES",
+        "description":"Macaquinho manga longa perfeito para um look elegante e despojado. Destaque para a cintura com amarração e mangas longas. Ideal para eventos casuais ou encontros sofisticados. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Altura da Cintura: Cintura com amarração Comprimento: Curto Comprimento da Manga: Manga longa Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":210
+      },
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":199
+      },
+      {
+        "product_id":"7914458939553",
+        "name":"Macacão Wide Leg Decote V Regata - Vinho",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224812_0123_macacao-wide-leg-decote-v-regata-vinho_0_1207acc7-5ff8-4eb0-b81e-e4bf64d687a4.jpg?v=1743426012",
+        "category":"MACACÕES",
+        "description":"Macacão elegante com decote V e pernas amplas, ideal para um look casual sofisticado. Peça versátil que te acompanha do trabalho ao happy hour com estilo. Detalhes da Peça: Estilo: Elegante Ocasião: Casual, para trabalhar Alfaitaria: Alfaitado Clima: Calor Altura da Cintura: Cintura alta Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":193
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"7981101940897",
+        "name":"Calça Reta Cós Elástico  - Preto",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225414_0002_calca-reta-cos-elastico-preto_0_f6a1f367-b7be-45bf-a7ca-6af5c3451777.jpg?v=1740412823",
+        "category":"CALÇAS",
+        "description":"Calça Reta Cós Elástico: A peça curinga que te acompanha em diversas ocasiões. Com cintura alta e cós elástico, essa calça proporciona conforto e estilo em um só item. Perfeita para um look casual e descolado. Detalhes da peça: Estilo: Reta Composição: Viscose, Poliamida Altura da Cintura: Cintura Alta Comprimento: Longo Estampa: Liso Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":220
+      },
+      {
+        "product_id":"7956205076641",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0029_calca-wide-leg-cos-elastico-com-pregas-off-white_0_3615de9d-dd76-47d7-aac3-5e0fd616321c.jpg?v=1749566685",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":217
+      },
+      {
+        "product_id":"8223934382241",
+        "name":"CALÇA WIDE LEG CROPPED ALFAIATARIA - BEGE",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310840_0006_calca-wide-leg-cropped-alfaiataria-bege_0_d2415914-a113-467e-9ac3-6077de0d8799.jpg?v=1747404492",
+        "category":"CALÇAS",
+        "description":"Desfrute da elegância urbana da CALÇA WIDE LEG CROPPED ALFAIATARIA, o item curinga perfeito para um look elevado e descolado. Com estilo MOM, tecido fluido de viscose e poliéster, e comprimento midi, essa peça minimalista e atemporal é ideal para diversas ocasiões. Detalhes da peça: Estampa: liso Comprimento: midi Cós: médio Estilo: mom Tecido: plano",
+        "relevance_score":213
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"8169043034273",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Manteiga",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_5799_saia-midi-com-fenda-frontal-alfaiataria-manteiga_0_67c97384-1266-48b3-868f-5d91536ef066.jpg?v=1747255015",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":214
+      },
+      {
+        "product_id":"7979069276321",
+        "name":"Saia Midi Cintura Alta com Pregas - Off-white",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225455_0029_saia-midi-cintura-alta-com-pregas-off-white_0_92c2d4ef-d629-4ef1-b59b-be90eb986b36.jpg?v=1744291453",
+        "category":"SAIAS",
+        "description":"Saia Midi Cintura Alta com Pregas Peça versátil e elegante para um look elevado. A saia midi cintura alta com pregas é um item clássico e atemporal, perfeito para ocasiões casuais. Detalhes da Peça Estilo: Clássico Ocasião: Casual Alfaitaria: Alfaitado Clima: Meia-estação, calor Silhueta: Evasê Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":213
+      },
+      {
+        "product_id":"7842321629345",
+        "name":"Saia Midi Tubo  - Preto",
+        "price":"R$ 259,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51107222_0002_saia-midi-tubo-preto_0_7d4fe1bf-addc-428b-bacd-f5a709ebdce0.jpg?v=1744114192",
+        "category":"SAIAS",
+        "description":"Desfrute da elegância minimalista da Saia Midi Tubo. Com cós alto e comprimento midi, essa peça em crepe é um item versátil e atemporal para seu closet. Perfeito para um look elevado em qualquer ocasião. Detalhes da peça: Estampa: liso Comprimento: midi Cós: alto Estilo: plano Tecido: crepe Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":209
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":253
+      },
+      {
+        "product_id":"7832322048161",
+        "name":"Camiseta Cropped de Tricot Listrada - Azul Marinho e Branco",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_2955_camiseta-cropped-de-trico-listrada-azul-marinho-e-branco_0_ca79b1cf-19e0-46c1-ad9f-68cd0ac0e047.jpg?v=1743180651",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":241
+      },
+      {
+        "product_id":"8000618070177",
+        "name":"Regata Gola Canoa de Malha com Lurex - Dourado",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225849_0009_regata-gola-canoa-de-malha-com-lurex-dourado_0_7be715e2-a49d-4bd4-9fbe-2e62b218c236.jpg?v=1743180653",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata Gola Canoa de Malha com Lurex, perfeita para um look casual elegante durante o dia ou para à noite. Destaque-se com esse item statement e urbano. Detalhes da Peça: Estilo: Statement, Urbano Ocasião: Casual, Para à Noite Silhueta: Justa Decote: Canoa Comprimento da Manga: Regata Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":223
+      }
+    ]
+  }
+}

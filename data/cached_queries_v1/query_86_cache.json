@@ -1,0 +1,159 @@
+{
+  "query_raw":"Primeiro dia de intercâmbio",
+  "query_norm":"primeiro dia de intercambio",
+  "generated_at":"2025-08-25T07:28:54.000103+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_86_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8150104408225",
+        "name":"Vestido Midi de Tricot - Marrom",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211494_0008_vestido-midi-de-tricot-marrom_0_63f517fd-a82c-4732-8b40-3a4120ba7676.jpg?v=1742237830",
+        "category":"VESTIDOS",
+        "description":"Deslumbre-se com o VESTIDO MIDI DE TRICOT, peça curinga que te acompanha por várias temporadas. Com estilo MAXI, o design minimalista e a alça em V conferem um look elevado. Feito em TRICOT de POLIÉSTER, é perfeito para um visual sofisticado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: midi Decote: v Manga: alça Estilo: maxi Tecido: tricot Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":314
+      },
+      {
+        "product_id":"8150104473761",
+        "name":"Vestido Midi de Tricot - Caqui",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211494_0021_vestido-midi-de-tricot-caqui_0_d282c479-67bd-4e22-bab0-435833629510.jpg?v=1742237837",
+        "category":"VESTIDOS",
+        "description":"Deslumbre-se com o VESTIDO MIDI DE TRICOT, peça curinga que te acompanha por várias temporadas. Com estilo MAXI, o design minimalista e a alça em V conferem um look elevado. Feito em TRICOT de POLIÉSTER, é perfeito para um visual sofisticado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: midi Decote: v Manga: alça Estilo: maxi Tecido: tricot Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":314
+      },
+      {
+        "product_id":"7943878344865",
+        "name":"Vestido Longo com Recortes de Malha - Preto",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226234_0002_vestido-manga-longa-de-malha-com-recortes-preto_0_5d580d20-0a78-40c2-a0f2-cfb394c11a2f.jpg?v=1744114428",
+        "category":"VESTIDOS",
+        "description":"**** Deslumbrante vestido longo com recortes de malha, perfeito para ocasiões especiais ou para um look elevado no dia a dia. O design loose e os detalhes em viscose garantem conforto e estilo único. Detalhes da peça: Estampa: liso Comprimento: longo Decote: u Manga: manga longa Estilo: loose Tecido: malha Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":308
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"8028389671073",
+        "name":"Macaquinho Manga Longa - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226102_0002_macaquinho-manga-longa-preto_0_3bdcc896-cb05-4892-a8dd-999056007fc6.jpg?v=1745864564",
+        "category":"MACACÕES",
+        "description":"Macaquinho manga longa perfeito para um look elegante e despojado. Destaque para a cintura com amarração e mangas longas. Ideal para eventos casuais ou encontros sofisticados. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Altura da Cintura: Cintura com amarração Comprimento: Curto Comprimento da Manga: Manga longa Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":302
+      },
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":254
+      },
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":237
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":366
+      },
+      {
+        "product_id":"7832337350817",
+        "name":"Blusa com Decote Halter de Tricot - Off-white",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50502007_0029_blusa-regular-tricot-com-decote-halter-off-white_0_e7952c46-a1bb-4c5d-b476-427cbbef6aa7.jpg?v=1744291636",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa com Decote Halter de Tricô Uma peça versátil e elegante para o seu closet. A blusa de tricô com decote halter é perfeita para um look casual chic. Detalhes da Peça: Estilo: Básico Ocasião: Casual Comprimento: Padrão Estilo de Manga: Regata Estilo de Gola/Decote: Gola Careca Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":345
+      },
+      {
+        "product_id":"7795748077729",
+        "name":"Blusa com Decote Halter de Tricot - Preto",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50502007_0002_blusa-regular-tricot-com-decote-halter-preto_0_9a5f0f3f-c18b-443c-83e5-977a8f518c4d.jpg?v=1744291498",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa com Decote Halter de Tricô Uma peça versátil e elegante para o seu closet. A blusa de tricô com decote halter é perfeita para um look casual chic. Detalhes da Peça: Estilo: Básico Ocasião: Casual Comprimento: Padrão Estilo de Manga: Regata Estilo de Gola/Decote: Gola Careca Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":344
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"8038578127009",
+        "name":"Calça Jogger Cintura Elástico - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225637_0002_calca-jogger-cintura-elastico-preto_0_80c688fa-be8e-4904-a6e4-8ec393d454c2.jpg?v=1740419965",
+        "category":"CALÇAS",
+        "description":"Calça Jogger Cintura Elástico Uma peça versátil e confortável para diversas ocasiões. A calça jogger com cintura elástica é um item clássico e prático que te acompanha por várias temporadas. Detalhes da peça: Estilo clássico Casual e para trabalhar Cintura alta com elástico Comprimento cropped Silhueta reta Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":308
+      },
+      {
+        "product_id":"7981101940897",
+        "name":"Calça Reta Cós Elástico  - Preto",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225414_0002_calca-reta-cos-elastico-preto_0_f6a1f367-b7be-45bf-a7ca-6af5c3451777.jpg?v=1740412823",
+        "category":"CALÇAS",
+        "description":"Calça Reta Cós Elástico: A peça curinga que te acompanha em diversas ocasiões. Com cintura alta e cós elástico, essa calça proporciona conforto e estilo em um só item. Perfeita para um look casual e descolado. Detalhes da peça: Estilo: Reta Composição: Viscose, Poliamida Altura da Cintura: Cintura Alta Comprimento: Longo Estampa: Liso Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":272
+      },
+      {
+        "product_id":"7956205076641",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0029_calca-wide-leg-cos-elastico-com-pregas-off-white_0_3615de9d-dd76-47d7-aac3-5e0fd616321c.jpg?v=1749566685",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":270
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"8000652705953",
+        "name":"Saia Evasê de Malha - Preto",
+        "price":"R$ 149,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225831_0002_short-saia-evase-preto_0_10bc6848-be93-4e17-b539-50a029363778.jpg?v=1733347390",
+        "category":"SAIAS",
+        "description":"Saia Evasê de Malha Uma peça versátil e atemporal para seu closet. A saia evasê de malha, com cintura alta e comprimento curto, é perfeita para looks casuais com um toque de elegância. Detalhes da Peça: Estilo: Básico Ocasião: Casual Alfaitaria: Alfaitado Clima: Calor Silhueta: Evasê Modelo tem 1.79m de altura e veste o tamanho P / 36",
+        "relevance_score":314
+      },
+      {
+        "product_id":"7944283816097",
+        "name":"Saia Curta de Jacquard Tricot - Caramelo",
+        "price":"R$ 69,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50301874_0027_saia-curta-tricot-jacquard-caramelo_0_69020a8b-2f6f-4f12-bc53-df31c7dcf29d.jpg?v=1743180607",
+        "category":"SAIAS",
+        "description":"Saia Curta Tricot Jacquard Desfrute do verão com estilo nesta saia curta de tricot jacquard. Perfeita para um look casual chic em dias quentes. Detalhes da Peça: Categoria: Clothing Estilo: Statement Ocasião: Casual Clima: Calor, Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.73m de altura e veste o tamanho P /  36",
+        "relevance_score":276
+      },
+      {
+        "product_id":"8169043034273",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Manteiga",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_5799_saia-midi-com-fenda-frontal-alfaiataria-manteiga_0_67c97384-1266-48b3-868f-5d91536ef066.jpg?v=1747255015",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":257
+      }
+    ]
+  }
+}

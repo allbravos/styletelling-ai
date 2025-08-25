@@ -1,0 +1,130 @@
+{
+  "query_raw":"Yoga",
+  "query_norm":"yoga",
+  "generated_at":"2025-08-25T06:25:53.865217+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_32_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":342
+      },
+      {
+        "product_id":"7832337350817",
+        "name":"Blusa com Decote Halter de Tricot - Off-white",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50502007_0029_blusa-regular-tricot-com-decote-halter-off-white_0_e7952c46-a1bb-4c5d-b476-427cbbef6aa7.jpg?v=1744291636",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa com Decote Halter de Tricô Uma peça versátil e elegante para o seu closet. A blusa de tricô com decote halter é perfeita para um look casual chic. Detalhes da Peça: Estilo: Básico Ocasião: Casual Comprimento: Padrão Estilo de Manga: Regata Estilo de Gola/Decote: Gola Careca Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":309
+      },
+      {
+        "product_id":"8098200289441",
+        "name":"Blusa Manga Curta de Malha - Bege",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226606_0006_blusa-manga-curta-de-malha-bege_0_2844ff16-1c23-45f3-add7-7536e6304e24.jpg?v=1739825678",
+        "category":"BLUSAS & TOPS",
+        "description":"Esta blusa manga curta de malha é o item básico perfeito para o seu closet! Versátil e confortável, te acompanha em diversas ocasiões. Combine com jeans para um look casual e despojado ou com uma saia para um visual mais elegante. Detalhes da peça: Composição: Algodão Estilo: Básico Estampa: Liso Decote: U Manga: Manga curta Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":309
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"8038578127009",
+        "name":"Calça Jogger Cintura Elástico - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225637_0002_calca-jogger-cintura-elastico-preto_0_80c688fa-be8e-4904-a6e4-8ec393d454c2.jpg?v=1740419965",
+        "category":"CALÇAS",
+        "description":"Calça Jogger Cintura Elástico Uma peça versátil e confortável para diversas ocasiões. A calça jogger com cintura elástica é um item clássico e prático que te acompanha por várias temporadas. Detalhes da peça: Estilo clássico Casual e para trabalhar Cintura alta com elástico Comprimento cropped Silhueta reta Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":274
+      },
+      {
+        "product_id":"7956205076641",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0029_calca-wide-leg-cos-elastico-com-pregas-off-white_0_3615de9d-dd76-47d7-aac3-5e0fd616321c.jpg?v=1749566685",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":265
+      },
+      {
+        "product_id":"7981101940897",
+        "name":"Calça Reta Cós Elástico  - Preto",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225414_0002_calca-reta-cos-elastico-preto_0_f6a1f367-b7be-45bf-a7ca-6af5c3451777.jpg?v=1740412823",
+        "category":"CALÇAS",
+        "description":"Calça Reta Cós Elástico: A peça curinga que te acompanha em diversas ocasiões. Com cintura alta e cós elástico, essa calça proporciona conforto e estilo em um só item. Perfeita para um look casual e descolado. Detalhes da peça: Estilo: Reta Composição: Viscose, Poliamida Altura da Cintura: Cintura Alta Comprimento: Longo Estampa: Liso Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":264
+      }
+    ],
+    "SHORTS":[
+      {
+        "product_id":"8093312286881",
+        "name":"Shorts de Malha Atoalhado - Off-white",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226629_0029_shorts-de-malha-atoalhado-off-white_1_b5ecc82b-41f2-488c-8505-a0c406b6a737.jpg?v=1738763563",
+        "category":"SHORTS",
+        "description":"Shorts de malha atoalhado, perfeito para um look casual e confortável. Ideal para dias quentes, com cintura alta e elástico, proporcionando estilo e praticidade. Detalhes da Peça: Estilo: Confortável, Urbano Ocasião: Casual Clima: Calor Altura da Cintura: Cintura Alta Comprimento: Curto Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":293
+      },
+      {
+        "product_id":"8000652935329",
+        "name":"Short com Bolsos Frontais de Malha - Rosa",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225833_0013_short-curto-com-bolsos-de-malha-rosa_0_4d1a33e3-4a9b-4384-9c4a-4cad9894aa0f.jpg?v=1740759260",
+        "category":"SHORTS",
+        "description":"Short com bolsos frontais de malha, perfeito para um look casual e descolado. Cintura alta com elástico e comprimento curto, destaca-se pela barra larga. Ideal para dias de calor ou meia-estação. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Alfaitaria: Alfaitado Altura da Cintura: Cintura alta Silhueta: Triângulo Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":291
+      },
+      {
+        "product_id":"8000653099169",
+        "name":"Short com Bolsos Frontais de Malha - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225833_0029_short-curto-com-bolsos-de-malha-off-white_0_bedb6758-fb3f-492c-9b71-54f429d9b6ec.jpg?v=1740759266",
+        "category":"SHORTS",
+        "description":"Short com bolsos frontais de malha, perfeito para um look casual e descolado. Cintura alta com elástico e comprimento curto, destaca-se pela barra larga. Ideal para dias de calor ou meia-estação. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Alfaitaria: Alfaitado Altura da Cintura: Cintura alta Silhueta: Triângulo Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":282
+      }
+    ],
+    "BODIES":[
+      {
+        "product_id":"8028374892705",
+        "name":"Body Regata de Malha Creponada - Preto",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226022_0002_body-regata-de-malha-creponada-preto_0_f6dcfd21-1e63-4cd6-a7bd-abb3f8c3acfc.jpg?v=1748017652",
+        "category":"BODIES",
+        "description":"Desenvolvido para o seu closet de alta costura, o Body Regata de Malha Creponada é a peça curinga que você precisava! Com estilo regata e tecido de poliéster, possui decote em \"U\" e mangas sem alça, garantindo um look minimalista e sofisticado para diversas ocasiões. Detalhes da peça: Estampa: liso Decote: u Manga: sem alça Estilo: regata Tecido: malha Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":312
+      },
+      {
+        "product_id":"8028375154849",
+        "name":"Body Regata de Malha Creponada - Off-white",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226022_0029_body-regata-de-malha-creponada-off-white_0_9721338c-ce73-47b5-aa19-8a09ea2de192.jpg?v=1748017713",
+        "category":"BODIES",
+        "description":"Desenvolvido para o seu closet de alta costura, o Body Regata de Malha Creponada é a peça curinga que você precisava! Com estilo regata e tecido de poliéster, possui decote em \"U\" e mangas sem alça, garantindo um look minimalista e sofisticado para diversas ocasiões. Detalhes da peça: Estampa: liso Decote: u Manga: sem alça Estilo: regata Tecido: malha Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":312
+      },
+      {
+        "product_id":"8000617742497",
+        "name":"Body Decote U de Malha com Lurex - Prata",
+        "price":"R$ 79,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225851_0003_body-decote-v-de-malha-de-lurex-prata_0_841fd495-d4f4-4677-a850-fe1025e325e8.jpg?v=1744827702",
+        "category":"BODIES",
+        "description":"Descubra o Body Decote U de Malha com Lurex, a peça curinga que te acompanha em todos os momentos, do básico ao festa. Sua malha de poliéster e elastano agrega conforto, enquanto o detalhe em lurex eleva seu look com um toque de brilho sutil. Detalhes da peça: Estampa: liso Decote: u Manga: alça Estilo: básico, festa Tecido: malha Detalhes: lurex Modelo tem 1.79m de altura e veste o tamanho PP / 36",
+        "relevance_score":298
+      }
+    ]
+  }
+}

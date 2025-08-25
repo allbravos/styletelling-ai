@@ -1,0 +1,159 @@
+{
+  "query_raw":"Roteiro em cidade cosmopolita com muitos deslocamentos",
+  "query_norm":"roteiro em cidade cosmopolita com muitos deslocamentos",
+  "generated_at":"2025-08-25T07:34:56.254381+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_91_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"7951449686177",
+        "name":"Vestido Mídi com Recorte Assimétrico de Malha Canelada - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226226_0006_vestido-longo-regata-de-malha-canelada-com-bege_0_e1e3c798-c3a0-44b5-87cc-2b4798e2d095.jpg?v=1740081234",
+        "category":"VESTIDOS",
+        "description":"Desperte a atenção com nosso Vestido Mídi Com Recorte Assimétrico de Malha Canelada. O design inovador e versátil torna esta peça um item curinga para diversas ocasiões, proporcionando um look elevado e moderno. Detalhes da peça: Estilo: RETA Composição: POLIÉSTER Comprimento: MIDI Tecido: MALHA Estampa: LISO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":303
+      },
+      {
+        "product_id":"8150104408225",
+        "name":"Vestido Midi de Tricot - Marrom",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211494_0008_vestido-midi-de-tricot-marrom_0_63f517fd-a82c-4732-8b40-3a4120ba7676.jpg?v=1742237830",
+        "category":"VESTIDOS",
+        "description":"Deslumbre-se com o VESTIDO MIDI DE TRICOT, peça curinga que te acompanha por várias temporadas. Com estilo MAXI, o design minimalista e a alça em V conferem um look elevado. Feito em TRICOT de POLIÉSTER, é perfeito para um visual sofisticado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: midi Decote: v Manga: alça Estilo: maxi Tecido: tricot Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":295
+      },
+      {
+        "product_id":"8150104473761",
+        "name":"Vestido Midi de Tricot - Caqui",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211494_0021_vestido-midi-de-tricot-caqui_0_d282c479-67bd-4e22-bab0-435833629510.jpg?v=1742237837",
+        "category":"VESTIDOS",
+        "description":"Deslumbre-se com o VESTIDO MIDI DE TRICOT, peça curinga que te acompanha por várias temporadas. Com estilo MAXI, o design minimalista e a alça em V conferem um look elevado. Feito em TRICOT de POLIÉSTER, é perfeito para um visual sofisticado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: midi Decote: v Manga: alça Estilo: maxi Tecido: tricot Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":295
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"8028389671073",
+        "name":"Macaquinho Manga Longa - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226102_0002_macaquinho-manga-longa-preto_0_3bdcc896-cb05-4892-a8dd-999056007fc6.jpg?v=1745864564",
+        "category":"MACACÕES",
+        "description":"Macaquinho manga longa perfeito para um look elegante e despojado. Destaque para a cintura com amarração e mangas longas. Ideal para eventos casuais ou encontros sofisticados. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Altura da Cintura: Cintura com amarração Comprimento: Curto Comprimento da Manga: Manga longa Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":285
+      },
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":274
+      },
+      {
+        "product_id":"7922702057633",
+        "name":"Macacão com Amarração na Cintura - Caramelo",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0027_macacao-utilitario-manga-longa-caramelo_0_589d81ea-71bd-44b0-bef4-5fc0d4654b67.jpg?v=1743703924",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":254
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":363
+      },
+      {
+        "product_id":"8028374925473",
+        "name":"Blusa Um Ombro Só de Ribana Power - Preto",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226025_0002_blusa-um-ombro-so-de-ribana-power-preto_0_1bdbf6b6-a66c-4c86-b1d9-e8f9d44e5443.jpg?v=1744291920",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa um ombro só de ribana power, perfeita para um look casual elegante. Destaque para o design assimétrico e alça fina, ideal para ocasiões descontraídas com um toque de sofisticação. Detalhes da Peça: Estilo: Elegante Ocasião: Casual Altura da Cintura: Cintura Comprimento: Padrão Estilo de Gola/Decote Frontal: Um ombro só Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":317
+      },
+      {
+        "product_id":"8028375285921",
+        "name":"Blusa Um Ombro Só de Ribana Power - Off-white",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226025_0029_blusa-um-ombro-so-de-ribana-power-off-white_0_d93e94fb-5276-45af-9538-84c213c29311.jpg?v=1744291933",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa um ombro só de ribana power, perfeita para um look casual elegante. Destaque para o design assimétrico e alça fina, ideal para ocasiões descontraídas com um toque de sofisticação. Detalhes da Peça: Estilo: Elegante Ocasião: Casual Altura da Cintura: Cintura Comprimento: Padrão Estilo de Gola/Decote Frontal: Um ombro só Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":315
+      }
+    ],
+    "CALÇAS":[
+      {
+        "product_id":"7981101940897",
+        "name":"Calça Reta Cós Elástico  - Preto",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225414_0002_calca-reta-cos-elastico-preto_0_f6a1f367-b7be-45bf-a7ca-6af5c3451777.jpg?v=1740412823",
+        "category":"CALÇAS",
+        "description":"Calça Reta Cós Elástico: A peça curinga que te acompanha em diversas ocasiões. Com cintura alta e cós elástico, essa calça proporciona conforto e estilo em um só item. Perfeita para um look casual e descolado. Detalhes da peça: Estilo: Reta Composição: Viscose, Poliamida Altura da Cintura: Cintura Alta Comprimento: Longo Estampa: Liso Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":295
+      },
+      {
+        "product_id":"7956205076641",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0029_calca-wide-leg-cos-elastico-com-pregas-off-white_0_3615de9d-dd76-47d7-aac3-5e0fd616321c.jpg?v=1749566685",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":294
+      },
+      {
+        "product_id":"7865175113889",
+        "name":"Calça Reta com Cós Transpassado - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225052_0002_calca-reta-com-cos-transpassado-preto_0_20414b3c-127a-4ae5-9671-b40ca38d4288.jpg?v=1740411129",
+        "category":"CALÇAS",
+        "description":"Calça Reta com cós transpassado - A peça curinga que te acompanha em diversas ocasiões com muito estilo. O cós transpassado traz um toque único a essa calça de alfaiataria, perfeita para compor um look elegante e descolado ao mesmo tempo. Detalhes da peça: Estilo: Reta, Alfaiataria Composição: Poliéster Altura da Cintura: Alta Comprimento: Longo Detalhes: Cós com fechamento transpassado Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":289
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"7935598395553",
+        "name":"Saia Curta Transpassada com Amarração - Preto",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225420_0002_saia-curta-transpassada-com-amarracao-preto_0_a80e8049-9385-4091-ac70-12280b15a8eb.jpg?v=1743771241",
+        "category":"SAIAS",
+        "description":"Saia Curta Transpassada com Amarração: peça versátil que te acompanha em diversas ocasiões. O design transpassado e a amarração destacam a silhueta, garantindo um look cool e descolado. Detalhes da peça: Composição: Viscose, Poliamida Comprimento: Curto Detalhes: Amarração Estampa: Liso Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":309
+      },
+      {
+        "product_id":"8169043034273",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Manteiga",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_5799_saia-midi-com-fenda-frontal-alfaiataria-manteiga_0_67c97384-1266-48b3-868f-5d91536ef066.jpg?v=1747255015",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":307
+      },
+      {
+        "product_id":"8169042968737",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Marrom Escuro",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_0403_saia-midi-com-fenda-frontal-alfaiataria-marrom-escuro_0_17812b6f-b630-49cc-88c2-bed7598d84ae.jpg?v=1747255007",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":285
+      }
+    ]
+  }
+}

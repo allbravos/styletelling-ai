@@ -1,0 +1,130 @@
+{
+  "query_raw":"Beach tênis",
+  "query_norm":"beach tenis",
+  "generated_at":"2025-08-25T06:27:57.129720+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_34_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "ROUPAS DE PRAIA":[
+      {
+        "product_id":"8177627693217",
+        "name":"Saída Curta Aquamarine Topázio - Azul",
+        "price":"R$ 249,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015594_0015_saida-de-praia-curta-aquamarine-topazio-azul_0_a7de24ea-d582-43d7-8f7a-0cd400d63814.jpg?v=1746727415",
+        "category":"ROUPAS DE PRAIA",
+        "description":"Com modelagem best-seller, esta peça pode ser usada como saída de praia ou vestido. A saída curta na cor azul clara possui modelagem mais solta, além de mangas longas flare e decote V frontal com detalhe entrelaçado. Simplesmente linda, ela é toda em viscose, um tecido fluido e com transpirabilidade para o verão.",
+        "relevance_score":300
+      },
+      {
+        "product_id":"8177626448033",
+        "name":"Pantalona Palms Areia - Areia",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015578_0557_pantalona-palms-areia-areia-4_0_91b93900-9141-4430-8dc7-256adace42a8.jpg?v=1745947403",
+        "category":"ROUPAS DE PRAIA",
+        "description":"Calça em viscose estampada, com modelagem ampla e soltinha, bolsos frontais quadrados. Cós reto com elástico adaptando a vários tipos de quadril. Por ser 100% de viscose, sua transpirabilidade é alta por ser de fibra natural, por isso é perfeita para o verão e dias mais quentes. A coleção Palms é uma estampa exclusiva Suntime, inspirada nas lindas palmeiras que beiram o mar.",
+        "relevance_score":292
+      },
+      {
+        "product_id":"8177628020897",
+        "name":"Vestido Longo Aquamarine Topázio - Azul",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015595_0015_saida-de-praia-longa-aquamarine-topazio-azul_0_6b73faa2-e692-4816-b983-8866aa1fcf65.jpg?v=1746727415",
+        "category":"ROUPAS DE PRAIA",
+        "description":"Esta peça pode ser usada como vestido ou saída de praia. O vestido longo azul claro Aquamarine possui modelagem ajustada ao corpo, decote reto, alças extremamente finas e amarração por toda a lateral da peça. Além disso, ele é todo em viscose, um tecido leve e com transpirabilidade para o verão. Para as fashionistas de plantão!",
+        "relevance_score":292
+      }
+    ],
+    "BIQUÍNIS CALCINHA":[
+      {
+        "product_id":"8177626022049",
+        "name":"Calcinha Palms Fiorella Areia - Areia",
+        "price":"R$ 149,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015575_0557_calcinha-palms-fiorella-areia-areia-4_0_b4c68d59-a819-4220-8e04-c59873b13389.jpg?v=1743180583",
+        "category":"BIQUÍNIS CALCINHA",
+        "description":"O Bottom Fiorella tem cobertura midi, e laterais mais finas. Veste todos os tipos de quadris. A coleção Palms tem estampa exclusiva inspirada nas lindas palmeiras que beiram o mar. Toda em tecido biodegradável, as peças desta coleção é ecoamiga e portanto mais sustentável. São duas variantes de cor, em opções neutras. Uma fundo nude no tom areia com palmeiras em tons camelo e outra fundo preto também com palmeiras em tons camelos. Dificil escolher qual combinação mais bonita. A coleção ainda é completa com roupas na mesma estampa para combinar.",
+        "relevance_score":308
+      },
+      {
+        "product_id":"8216497684641",
+        "name":"Calcinha Palms Vitoria Preto - Preto",
+        "price":"R$ 109,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015579_0002_03.jpg?v=1743091711",
+        "category":"BIQUÍNIS CALCINHA",
+        "description":"Bottom Midi com laterais largas. O bottom Vitória é muito versátil por ser dupla face e ter o cós dobrável. A coleção Palms tem estampa exclusiva inspirada nas lindas palmeiras que beiram o mar. Toda em tecido biodegradável, as peças desta coleção é ecoamiga e portanto mais sustentável. São duas variantes de cor, em opções neutras. Uma fundo nude no tom areia com palmeiras em tons camelo e outra fundo preto também com palmeiras em tons camelos. Dificil escolher qual combinação mais bonita. A coleção ainda é completa com roupas na mesma estampa para combinar.",
+        "relevance_score":308
+      },
+      {
+        "product_id":"8177626611873",
+        "name":"Calcinha Palms Fiorella Preto - Preto",
+        "price":"R$ 149,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015580_0002_01.jpg?v=1743091344",
+        "category":"BIQUÍNIS CALCINHA",
+        "description":"O Bottom Fiorella tem cobertura midi, e laterais mais finas. Veste todos os tipos de quadris. A coleção Palms tem estampa exclusiva inspirada nas lindas palmeiras que beiram o mar. Toda em tecido biodegradável, as peças desta coleção é ecoamiga e portanto mais sustentável. São duas variantes de cor, em opções neutras. Uma fundo nude no tom areia com palmeiras em tons camelo e outra fundo preto também com palmeiras em tons camelos. Difícil escolher qual combinação mais bonita. A coleção ainda é completa com roupas na mesma estampa para combinar.",
+        "relevance_score":290
+      }
+    ],
+    "BIQUÍNIS TOP":[
+      {
+        "product_id":"8177624776865",
+        "name":"Top Halter Magnólia Areia - Areia",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015563_0557_top-halter-magnolia-areia-areia-4_0_d6fb6512-f49f-4698-a740-132ecebcb052.jpg?v=1743180582",
+        "category":"BIQUÍNIS TOP",
+        "description":"Peça para todas as fashionistas de plantão, o top halter sem aro e sem bojo pode ser usado como top fora da areia também. O tecido é trabalhado e tem detalhe vazado como um macramê. Nas cores off white e areia, esta peça torna-se ainda mais elegante.",
+        "relevance_score":316
+      },
+      {
+        "product_id":"8177624973473",
+        "name":"Top com Aro Magnólia Areia - Areia",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015565_0557_top-com-aro-magnolia-areia-areia-4_0_981386ce-8775-4e84-89dd-f1946c5befa9.jpg?v=1743180583",
+        "category":"BIQUÍNIS TOP",
+        "description":"Top balconet com aro contínuo e sem bojo. Possui alças fixas com detalhe de folhas de magnólia. O tecido do top é trabalhado e tem detalhes vazados como um macramê. Nas cores off white e areia, esta peça é fina e delicada.",
+        "relevance_score":300
+      },
+      {
+        "product_id":"8177624383649",
+        "name":"Top Triângulo Magnólia Areia - Areia",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/40015561_0557_top-triangulo-magnolia-areia-areia-4_0_ed4b8e2c-b74e-4673-83e5-83b737835347.jpg?v=1743180581",
+        "category":"BIQUÍNIS TOP",
+        "description":"Top triângulo sem bojo. Segue a modelagem clássica dos biquínis e o tecido é trabalhado em estilo macramê nas cores off white e areia.",
+        "relevance_score":287
+      }
+    ],
+    "SHORTS":[
+      {
+        "product_id":"8223925141665",
+        "name":"SHORTS CURTO RETO ALFAIATARIA - AREIA",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310830_0557_shorts-curto-reto-alfaiataria-areia_0_6f1f5d23-7e77-4423-bddf-37a89c4813a2.jpg?v=1747916563",
+        "category":"SHORTS",
+        "description":"Despojado e sofisticado, o Shorts Curto em Alfaiataria é um must-have para o seu closet de verão. Feito em poliéster e elastano, possui cós médio e comprimento curto, perfeito para um look casual chic. Detalhes da peça Estampa: liso Comprimento: curto Cós: médio Estilo: shorts Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":295
+      },
+      {
+        "product_id":"8223924781217",
+        "name":"SHORTS CURTO COM VINCOS - PRETO",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425146_0002_shorts-curto-com-amarracao-preto_0_b5985be0-f9ca-4d48-86a9-c66eb1cc187a.jpg?v=1749567309",
+        "category":"SHORTS",
+        "description":"Este shorts curto com vincos é o must-have da estação para mulheres sofisticadas. Com comprimento curto e cós médio, ele é versátil e elegante, perfeito para um look elevado em diversas ocasiões. Feito em viscose e poliéster, o tecido plano garante conforto e estilo. Detalhes da peça Estampa: liso Comprimento: curto Cós: médio Estilo: shorts Tecido: plano Detalhes: vincos Modelo tem 1.78m de altura e veste o tamanho P / 36",
+        "relevance_score":294
+      },
+      {
+        "product_id":"8010817503393",
+        "name":"Short com Bolsos Embutidos - Preto",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225763_0002_short-com-bolsos-embutidos-preto_0_5feffe28-9b33-420d-83d7-e0cf3d9e19c0.jpg?v=1748017586",
+        "category":"SHORTS",
+        "description":"Short com bolsos embutidos, perfeito para um passeio no parque. O design reto e o tecido de crepe garantem conforto e estilo. Detalhes da peça: Estilo: Reta Composição: Viscose, Poliéster Altura da Cintura: Alta Comprimento: Curto Tecido: Crepe Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":292
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+query,file
+"Casamento na praia no fim do dia, clima informal-chique",query_1_cache.json
+"Almoço de domingo com a família em restaurante italiano",query_2_cache.json
+"Entrevista de emprego em uma empresa criativa",query_3_cache.json
+"Aniversário infantil em salão de festas",query_4_cache.json
+"Happy hour com colegas do trabalho em bar de vinhos",query_5_cache.json
+"Jantar de dia dos namorados em restaurante elegante",query_6_cache.json
+"Feira de antiguidades num sábado de sol",query_7_cache.json
+"Palestra ou talk de moda num evento de networking",query_8_cache.json
+"Sessão de fotos profissional para redes sociais",query_9_cache.json
+"Encontro romântico em café charmoso pela manhã",query_10_cache.json
+"Passeio turístico em cidade histórica no verão",query_11_cache.json
+"Batizado de criança em manhã de domingo",query_12_cache.json
+"Casamento no campo, fim da tarde",query_13_cache.json
+"Casamento formal em igreja a noite",query_14_cache.json
+"Reunião importante com cliente, presencial",query_15_cache.json
+"Evento de gala com premiação corporativa",query_16_cache.json
+"Festival de música indie ao ar livre",query_17_cache.json
+"Lançamento de livro",query_18_cache.json
+"Noite de teatro",query_19_cache.json
+"Encontro com amigas em barzinho",query_20_cache.json
+"Formatura dos filhos no colégio",query_21_cache.json
+"Formatura de faculdade",query_22_cache.json
+"Brunch com amigas no domingo",query_23_cache.json
+"Evento de lançamento de coleção de marca de moda autoral",query_24_cache.json
+"Cerimônia civil de casamento no cartório",query_25_cache.json
+"Confraternização de fim de ano do trabalho (diurna)",query_26_cache.json
+"Coquetel de confraternização de fim de ano do trabalho (noturno)",query_27_cache.json
+"Viagem de verão para cidade litorânea com amigos",query_28_cache.json
+"Roupas confortáveis para trabalhar de casa no inverno",query_29_cache.json
+"Um look elegante para um jantar de negócios",query_30_cache.json
+"Academia",query_31_cache.json
+"Yoga",query_32_cache.json
+"Crossfit",query_33_cache.json
+"Beach tênis",query_34_cache.json
+"Look para ir da academia para o mercado",query_35_cache.json
+"Primeira reunião com um novo cliente internacional (online)",query_36_cache.json
+"Apresentação de projeto em coworking",query_37_cache.json
+"Viagem de trabalho com jantar com equipe à noite",query_38_cache.json
+"Reunião online em empresa tradicional",query_39_cache.json
+"Almoço executivo com diretoria",query_40_cache.json
+"Sou arquiteta e preciso visitar obras",query_41_cache.json
+"Sou arquiteta e preciso de looks para visitar fornecedores",query_42_cache.json
+"Dia de treinamento interno da equipe",query_43_cache.json
+"Sessão de fotos para foto corporativa",query_44_cache.json
+"Viagem para feira de negócios no exterior",query_45_cache.json
+"Entrevista de emprego remota (videoconferência)",query_46_cache.json
+"Gravação de vídeo institucional da empresa",query_47_cache.json
+"Aulas de yoga ao ar livre",query_48_cache.json
+"Sessão de terapia ou análise",query_49_cache.json
+"Check-up médico",query_50_cache.json
+"Ida ao laboratório",query_51_cache.json
+"Caminhada no parque com amiga",query_52_cache.json
+"Ida ao salão de beleza para corte e coloração",query_53_cache.json
+"Compra de plantas em loja especializada",query_54_cache.json
+"Manhã de trabalho no café com notebook",query_55_cache.json
+"Volta à academia depois de tempo parada",query_56_cache.json
+"Visita guiada a exposição de arte contemporânea",query_57_cache.json
+"Noite de jazz em bar descolado",query_58_cache.json
+"Festival de cinema independente",query_59_cache.json
+"Oficina de cerâmica em ateliê",query_60_cache.json
+"Feira de zines ou mercado de arte gráfica",query_61_cache.json
+"Noite de karaokê com amigos",query_62_cache.json
+"Aula de dança de salão",query_63_cache.json
+"Pocket show de banda local",query_64_cache.json
+"Ensaio aberto de peça teatral",query_65_cache.json
+"Tarde de autógrafos em livraria cult",query_66_cache.json
+"Encontro com sogros pela primeira vez",query_67_cache.json
+"Churrasco na casa de amigos",query_68_cache.json
+"Amigo secreto entre amigas num piquenique",query_69_cache.json
+"Visita a alguém que acabou de ter bebê",query_70_cache.json
+"Reencontro com amigas do colégio",query_71_cache.json
+"Almoço de aniversário da avó",query_72_cache.json
+"Encontro casual com ex (sem intenção romântica)",query_73_cache.json
+"Jantar de reconciliação com alguém querido",query_74_cache.json
+"Visita a casa de uma amiga que você não vê há anos",query_75_cache.json
+"Festa à fantasia com tema ""famosos dos anos 2000""",query_76_cache.json
+"Festa de Réveillon na praia",query_77_cache.json
+"Jantar temático de gastronomia mexicana",query_78_cache.json
+"Festa junina noturna em sítio",query_79_cache.json
+"Evento com dresscode branco e dourado",query_80_cache.json
+"Chá revelação de bebê",query_81_cache.json
+"Festa de noivado intimista",query_82_cache.json
+"Viagem internacional com clima frio",query_83_cache.json
+"Look de aeroporto confortável e no frio",query_84_cache.json
+"Look para road trip com paradas culturais",query_85_cache.json
+"Primeiro dia de intercâmbio",query_86_cache.json
+"Tour gastronômico por bairros da cidade",query_87_cache.json
+"Viagem para hotel-fazenda no interior",query_88_cache.json
+"Look para visitar vinícola no inverno",query_89_cache.json
+"Viagem com clima incerto (chuva + calor)",query_90_cache.json
+"Roteiro em cidade cosmopolita com muitos deslocamentos",query_91_cache.json
+"Viagem solo com programação cultural intensa",query_92_cache.json
+"Missa de sétimo dia",query_93_cache.json
+"Velório e enterro",query_94_cache.json
+"Culto evangélico com família do(a) parceiro(a)",query_95_cache.json
+"Primeira comunhão de sobrinho(a)",query_96_cache.json
+"Bar Mitzvah",query_97_cache.json
+"Gravação de reels com dicas de estilo",query_98_cache.json
+"Vídeo ao vivo com marca parceira",query_99_cache.json
+"Sessão de consultoria de estilo como cliente",query_100_cache.json
+"Evento de networking entre influenciadoras de moda",query_101_cache.json
+"Primeiro encontro romântico",query_102_cache.json
+"Tinderdate",query_103_cache.json
+"Segundo encontro",query_104_cache.json

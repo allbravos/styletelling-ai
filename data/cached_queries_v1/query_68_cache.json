@@ -1,0 +1,130 @@
+{
+  "query_raw":"Churrasco na casa de amigos",
+  "query_norm":"churrasco na casa de amigos",
+  "generated_at":"2025-08-25T07:07:01.943950+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_68_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8223309562017",
+        "name":"VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA - AREIA",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310828_0557_vestido-curto-frente-unica-alfaiataria-areia_0_615246cf-fb8b-4470-95dc-60c9d13cb58b.jpg?v=1746647757",
+        "category":"VESTIDOS",
+        "description":"Desfrute do VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA, uma peça versátil e elegante para o seu closet de alta classe. Com design minimalista e tecido de poliéster e elastano, este vestido curto apresenta um decote reto, sem alça, perfeito para ocasiões sofisticadas e modernas. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: sem alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":143
+      },
+      {
+        "product_id":"8223344132257",
+        "name":"VESTIDO CURTO ACINTURADO ALFAIATARIA - AREIA",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310829_0557_vestido-curto-acinturado-alfaiataria-areia_0_c317ea67-a930-4358-a557-e67f41cd1568.jpg?v=1749224766",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para a mulher contemporânea, o Vestido Curto Acinturado de Alfaiataria é a peça ideal para quem busca sofisticação e versatilidade. Com corte impecável e tecido de alta qualidade, sua alça fina e decote reto adicionam um toque minimalista e elegante ao look. Perfeito para eventos diurnos ou uma noite casual elegante. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: alfaiataria Tecido: plano",
+        "relevance_score":143
+      },
+      {
+        "product_id":"8223332696225",
+        "name":"VESTIDO CURTO DE ALÇAS - BEGE",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425142_0006_vestido-curto-de-alcas-bege_0_80fe4cbe-9388-44a9-90e7-cec35aedad5c.jpg?v=1746731044",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com o VESTIDO CURTO DE ALÇAS! Perfeito para festas, seu design minimalista e tecido fluido de poliéster, algodão, viscose e linho proporcionam um look elevado e versátil. Um item curinga no seu closet! Detalhes da peça: Estampa: liso Comprimento: curto Decote: u Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":142
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":171
+      },
+      {
+        "product_id":"7888894263457",
+        "name":"Blusa Manga Longa Decote V - Bege",
+        "price":"R$ 169,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224965_0006_blusa-manga-longa-decote-v-bege_0_49513404-b29c-4fb9-a75d-5c44246ec01b.jpg?v=1745240519",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa Manga Longa Decote V: Peça versátil e cool, ideal para um look elevado no dia a dia. O decote V e o caimento fluido garantem um visual despojado e moderno. Detalhes da Peça: Blusa Manga Longa Decote V: Peça versátil e cool, ideal para um look elevado no dia a dia. O decote V e o caimento fluido garantem um visual despojado e moderno. **Detalhes da Peça:** Estilo: Casual Comprimento da Manga: Longa Decote: V Estampa: Liso Tecido: Plano Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":153
+      },
+      {
+        "product_id":"8098200289441",
+        "name":"Blusa Manga Curta de Malha - Bege",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226606_0006_blusa-manga-curta-de-malha-bege_0_2844ff16-1c23-45f3-add7-7536e6304e24.jpg?v=1739825678",
+        "category":"BLUSAS & TOPS",
+        "description":"Esta blusa manga curta de malha é o item básico perfeito para o seu closet! Versátil e confortável, te acompanha em diversas ocasiões. Combine com jeans para um look casual e despojado ou com uma saia para um visual mais elegante. Detalhes da peça: Composição: Algodão Estilo: Básico Estampa: Liso Decote: U Manga: Manga curta Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":153
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"8169042968737",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Marrom Escuro",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_0403_saia-midi-com-fenda-frontal-alfaiataria-marrom-escuro_0_17812b6f-b630-49cc-88c2-bed7598d84ae.jpg?v=1747255007",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":147
+      },
+      {
+        "product_id":"8223927468193",
+        "name":"SAIA CURTA SLIM DE ALFAIATARIA - BEGE",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310836_0006_saia-curta-slim-de-alfaiataria-bege_0_9cc5e5ef-62fd-4ba7-9b5b-706037913014.jpg?v=1747411960",
+        "category":"SAIAS",
+        "description":"Desenvolvida para mulheres que buscam sofisticação no dia a dia, a Saia Curta Slim de Alfaiataria é um item versátil e elegante. Com tecido plano de poliéster e elastano, seu corte impecável garante um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Cós: médio Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":142
+      },
+      {
+        "product_id":"7786583261345",
+        "name":"Saia Midi Statement - Caramelo",
+        "price":"R$ 459,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/20005998_0027_saia-midi-statement-caramelo_0_9c3d3f56-c306-4bf4-af08-3303e184ef4a.jpg?v=1749156657",
+        "category":"SAIAS",
+        "description":"Desperte olhares com a saia midi statement! Com recortes assimétricos e cintura alta, essa peça em poliuretano é o item ideal para um look elevado e descolado. Perfeita para eventos sofisticados ou um jantar especial. Detalhes da peça Estampa: liso Comprimento: midi Cós: alto Estilo: maxi Tecido: poliuretano Detalhes: recortes assimétricos Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":138
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":143
+      },
+      {
+        "product_id":"7922702057633",
+        "name":"Macacão com Amarração na Cintura - Caramelo",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0027_macacao-utilitario-manga-longa-caramelo_0_589d81ea-71bd-44b0-bef4-5fc0d4654b67.jpg?v=1743703924",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":141
+      },
+      {
+        "product_id":"8028389671073",
+        "name":"Macaquinho Manga Longa - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226102_0002_macaquinho-manga-longa-preto_0_3bdcc896-cb05-4892-a8dd-999056007fc6.jpg?v=1745864564",
+        "category":"MACACÕES",
+        "description":"Macaquinho manga longa perfeito para um look elegante e despojado. Destaque para a cintura com amarração e mangas longas. Ideal para eventos casuais ou encontros sofisticados. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Altura da Cintura: Cintura com amarração Comprimento: Curto Comprimento da Manga: Manga longa Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":113
+      }
+    ]
+  }
+}

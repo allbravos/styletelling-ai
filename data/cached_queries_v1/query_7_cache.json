@@ -1,0 +1,159 @@
+{
+  "query_raw":"Feira de antiguidades num sábado de sol",
+  "query_norm":"feira de antiguidades num sabado de sol",
+  "generated_at":"2025-08-25T05:59:42.642513+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_7_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "VESTIDOS":[
+      {
+        "product_id":"8223344132257",
+        "name":"VESTIDO CURTO ACINTURADO ALFAIATARIA - AREIA",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310829_0557_vestido-curto-acinturado-alfaiataria-areia_0_c317ea67-a930-4358-a557-e67f41cd1568.jpg?v=1749224766",
+        "category":"VESTIDOS",
+        "description":"Desenvolvido para a mulher contemporânea, o Vestido Curto Acinturado de Alfaiataria é a peça ideal para quem busca sofisticação e versatilidade. Com corte impecável e tecido de alta qualidade, sua alça fina e decote reto adicionam um toque minimalista e elegante ao look. Perfeito para eventos diurnos ou uma noite casual elegante. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: alça Estilo: alfaiataria Tecido: plano",
+        "relevance_score":146
+      },
+      {
+        "product_id":"8223332696225",
+        "name":"VESTIDO CURTO DE ALÇAS - BEGE",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425142_0006_vestido-curto-de-alcas-bege_0_80fe4cbe-9388-44a9-90e7-cec35aedad5c.jpg?v=1746731044",
+        "category":"VESTIDOS",
+        "description":"Deslumbre com o VESTIDO CURTO DE ALÇAS! Perfeito para festas, seu design minimalista e tecido fluido de poliéster, algodão, viscose e linho proporcionam um look elevado e versátil. Um item curinga no seu closet! Detalhes da peça: Estampa: liso Comprimento: curto Decote: u Manga: alça Estilo: festa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":144
+      },
+      {
+        "product_id":"8223309562017",
+        "name":"VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA - AREIA",
+        "price":"R$ 279,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310828_0557_vestido-curto-frente-unica-alfaiataria-areia_0_615246cf-fb8b-4470-95dc-60c9d13cb58b.jpg?v=1746647757",
+        "category":"VESTIDOS",
+        "description":"Desfrute do VESTIDO CURTO FRENTE ÚNICA ALFAIATARIA, uma peça versátil e elegante para o seu closet de alta classe. Com design minimalista e tecido de poliéster e elastano, este vestido curto apresenta um decote reto, sem alça, perfeito para ocasiões sofisticadas e modernas. Detalhes da peça: Estampa: liso Comprimento: curto Decote: reto Manga: sem alça Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":142
+      }
+    ],
+    "SAIAS":[
+      {
+        "product_id":"8169042968737",
+        "name":"Saia Midi com Fenda Frontal Alfaiataria - Marrom Escuro",
+        "price":"R$ 209,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304864_0403_saia-midi-com-fenda-frontal-alfaiataria-marrom-escuro_0_17812b6f-b630-49cc-88c2-bed7598d84ae.jpg?v=1747255007",
+        "category":"SAIAS",
+        "description":"Saia midi com fenda frontal em alfaiataria, perfeita para um look elegante e moderno. Versátil, pode ser usada do trabalho ao happy hour, garantindo sofisticação e estilo. Detalhes da peça: Estilo: Reta Comprimento: Midi Composição: Viscose, Poliéster Tecido: Crepe Cós: Alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":149
+      },
+      {
+        "product_id":"8223926583457",
+        "name":"SAIA MIDI COM FENDA DE ALFAIATARIA - MARROM",
+        "price":"R$ 399,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310834_0008_saia-midi-com-fenda-de-alfaiataria-marrom_0_f7b3e7d6-2952-42d2-9112-8fcb7fe9aded.jpg?v=1747839298",
+        "category":"SAIAS",
+        "description":"A saia perfeita para um look elegante e sofisticado! Com design moderno e fenda sutil, é um item versátil que te acompanha em diversas ocasiões. Feita em sarja de alta qualidade, garante conforto e estilo em um só produto. Detalhes da peça: Estampa: liso Comprimento: midi Cós: médio Estilo: alfaiataria Tecido: sarja Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":140
+      },
+      {
+        "product_id":"8223927468193",
+        "name":"SAIA CURTA SLIM DE ALFAIATARIA - BEGE",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310836_0006_saia-curta-slim-de-alfaiataria-bege_0_9cc5e5ef-62fd-4ba7-9b5b-706037913014.jpg?v=1747411960",
+        "category":"SAIAS",
+        "description":"Desenvolvida para mulheres que buscam sofisticação no dia a dia, a Saia Curta Slim de Alfaiataria é um item versátil e elegante. Com tecido plano de poliéster e elastano, seu corte impecável garante um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Cós: médio Estilo: alfaiataria Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":140
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":174
+      },
+      {
+        "product_id":"7888894263457",
+        "name":"Blusa Manga Longa Decote V - Bege",
+        "price":"R$ 169,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51224965_0006_blusa-manga-longa-decote-v-bege_0_49513404-b29c-4fb9-a75d-5c44246ec01b.jpg?v=1745240519",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa Manga Longa Decote V: Peça versátil e cool, ideal para um look elevado no dia a dia. O decote V e o caimento fluido garantem um visual despojado e moderno. Detalhes da Peça: Blusa Manga Longa Decote V: Peça versátil e cool, ideal para um look elevado no dia a dia. O decote V e o caimento fluido garantem um visual despojado e moderno. **Detalhes da Peça:** Estilo: Casual Comprimento da Manga: Longa Decote: V Estampa: Liso Tecido: Plano Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":151
+      },
+      {
+        "product_id":"8041802268833",
+        "name":"Regata Reta  - Bege",
+        "price":"R$ 169,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225355_0006_regata-reta-com-botoes-na-lateral-bege_0_91ff4485-918f-4450-8f54-1506ddb8208c.jpg?v=1743180658",
+        "category":"BLUSAS & TOPS",
+        "description":"Regata Reta em crepe, perfeita para um look casual-chic. Ideal para combinar com peças de alfaiataria ou jeans. O fecho de botão nas costas adiciona um toque de sofisticação. Detalhes da peça: Estilo básico Composição: viscose, poliamida Fecho de botão nas costas Estampa lisa Decote reto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":148
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7922702057633",
+        "name":"Macacão com Amarração na Cintura - Caramelo",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0027_macacao-utilitario-manga-longa-caramelo_0_589d81ea-71bd-44b0-bef4-5fc0d4654b67.jpg?v=1743703924",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":144
+      },
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":140
+      },
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":112
+      }
+    ],
+    "CAMISAS":[
+      {
+        "product_id":"8223185404065",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - AREIA",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0557_camisa-manga-longa-barra-arredondada-areia_0_dae87324-2c57-4162-91b6-ba4292dfa8c9.jpg?v=1749230435",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":156
+      },
+      {
+        "product_id":"8223194775713",
+        "name":"CAMISA MANGA LONGA BARRA RETA - MARROM",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425139_0008_camisa-manga-longa-barra-reta-marrom_0_ef870971-10f4-4afc-b7c5-317aebac54c6.jpg?v=1749567485",
+        "category":"CAMISAS",
+        "description":"Com design clean e minimalista, a CAMISA MANGA LONGA BARRA RETA é uma peça versátil e atemporal, perfeita para um look elegante e sofisticado. Confeccionada em poliéster, possui detalhes na gola e mangas, garantindo um visual sofisticado e moderno. Ideal para compor um look de trabalho ou um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":138
+      },
+      {
+        "product_id":"8223185305761",
+        "name":"CAMISA MANGA LONGA BARRA ARREDONDADA - OFF-WHITE",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50425138_0029_camisa-manga-longa-barra-arredondada-off-white_0_6ff6f4dc-5932-485e-8a9f-b0c561cb3365.jpg?v=1749230425",
+        "category":"CAMISAS",
+        "description":"Uma camisa versátil e moderna para mulheres sofisticadas. Com manga longa e barra arredondada, essa peça em poliéster é perfeita para um look elegante e atemporal. Ideal para o escritório ou para um jantar especial. Detalhes da peça: Estampa: liso Comprimento: midi Decote: gola Manga: manga longa Estilo: camisa Tecido: plano",
+        "relevance_score":116
+      }
+    ]
+  }
+}

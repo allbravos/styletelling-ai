@@ -1,0 +1,130 @@
+{
+  "query_raw":"Roupas confortáveis para trabalhar de casa no inverno",
+  "query_norm":"roupas confortaveis para trabalhar de casa no inverno",
+  "generated_at":"2025-08-25T06:22:44.338607+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_29_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "CALÇAS":[
+      {
+        "product_id":"7927614406817",
+        "name":"Calça Reta Cintura Alta Alfaiataria - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226231_0002_calca-cintura-alta-de-alfaiataria-preto_0_e3aade34-dda3-484f-a73e-4d8a20dfe463.jpg?v=1747662684",
+        "category":"CALÇAS",
+        "description":"Desfrute de elegância e conforto com a Calça Reta Cintura Alta Alfaiataria. Feita em viscose e poliéster, seu design clássico e cós alto proporcionam um look elevado em qualquer ocasião. Perfeita para um visual sofisticado e versátil. Detalhes da peça: Estampa: liso Comprimento: longo Cós: alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":283
+      },
+      {
+        "product_id":"7956205076641",
+        "name":"Calça Wide Leg Cós Elástico com Pregas - Off-white",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225408_0029_calca-wide-leg-cos-elastico-com-pregas-off-white_0_3615de9d-dd76-47d7-aac3-5e0fd616321c.jpg?v=1749566685",
+        "category":"CALÇAS",
+        "description":"Desfrute do conforto e elegância da Calça Wide Leg Cós Elástico Com Pregas. Com seu cós alto e design reto, essa peça minimalista em poliéster é perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: longo Cós: alto Estilo: reta Tecido: plano Detalhes: pregas Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":283
+      },
+      {
+        "product_id":"7786463330465",
+        "name":"Calça Jogging Alfaiataria Essential - Preto",
+        "price":"R$ 79,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/20004043_0002_calca-jogging-essential-preto_0_66c5c643-1558-41cd-bebd-03fed1036a7f.jpg?v=1743180545",
+        "category":"CALÇAS",
+        "description":"Calça Jogging Alfaiataria Essential, perfeita para um look casual e elegante. Com cintura alta e amarração, o modelo cropped traz um toque moderno à alfaiataria. Detalhes da Peça: Estilo: Básico, Urbano Ocasião: Casual Estilo de Alfaitaria: Alfaiatado Clima: Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":279
+      }
+    ],
+    "MACACÕES":[
+      {
+        "product_id":"7853141688481",
+        "name":"Macacão com Amarração na Cintura - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50305112_0002_macacao-utilitario-manga-longa-preto_0_851d26cd-809c-432e-b533-7ba00c4581ef.jpg?v=1743703892",
+        "category":"MACACÕES",
+        "description":"Macacão elegante e versátil, perfeito para um jantar especial. Com amarração na cintura e gola de camisa, é uma peça atemporal e sofisticada para mulheres modernas. Detalhes da peça: Estilo alfaiataria Comprimento longo Manga longa com ombros caídos Fechamento por zíper Bolsos laterais Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":263
+      },
+      {
+        "product_id":"8028389671073",
+        "name":"Macaquinho Manga Longa - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226102_0002_macaquinho-manga-longa-preto_0_3bdcc896-cb05-4892-a8dd-999056007fc6.jpg?v=1745864564",
+        "category":"MACACÕES",
+        "description":"Macaquinho manga longa perfeito para um look elegante e despojado. Destaque para a cintura com amarração e mangas longas. Ideal para eventos casuais ou encontros sofisticados. Detalhes da Peça: Estilo: Urbano, confortável Ocasião: Casual Altura da Cintura: Cintura com amarração Comprimento: Curto Comprimento da Manga: Manga longa Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":260
+      },
+      {
+        "product_id":"7949612548257",
+        "name":"Macacão com Alças Largas - Bege",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225390_0006_macacao-com-alcas-e-recortes-bege_0_eed402a9-2afc-4ab3-bac0-7919d3be3c48.jpg?v=1743705355",
+        "category":"MACACÕES",
+        "description":"Destaque-se com elegância neste macacão com alças largas. Perfeito para um look de trabalho sofisticado ou um passeio casual. Detalhes da Peça: Estilo clássico e urbano Alfaitaria alinhada Clima ideal para meia-estação e calor Cintura e comprimento longos Decote quadrado e decote reto nas costas Modelo tem 1.79m de altura e veste o tamanho P / 38",
+        "relevance_score":247
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":307
+      },
+      {
+        "product_id":"8151265411233",
+        "name":"Blusa Polo de Tricot Telado - Chumbo",
+        "price":"R$ 219,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211270_0152_blusa-polo-de-tricot-telado-chumbo_0_663f8f02-2952-422e-9ebf-199341352d51.jpg?v=1747254979",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa polo de tricot telado, perfeita para um look casual e descolado. Confeccionada em material reciclado, com gola polo e mangas curtas, é uma peça versátil que te acompanha por várias temporadas. Detalhes da peça: Estilo básico Composição: acrílico, viscose Silhueta reta Comprimento longo Estampa lisa Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":296
+      },
+      {
+        "product_id":"8169817112737",
+        "name":"Blusa Polo de Tricot Telado - Caqui",
+        "price":"R$ 219,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211270_0021_blusa-polo-de-tricot-telado-caqui_0_2ff7a5d2-34e3-45fb-b22c-50421444c8d7.jpg?v=1747255058",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa polo de tricot telado, perfeita para um look casual e descolado. Confeccionada em material reciclado, com gola polo e mangas curtas, é uma peça versátil que te acompanha por várias temporadas. Detalhes da peça: Estilo básico Composição: acrílico, viscose Silhueta reta Comprimento longo Estampa lisa Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":286
+      }
+    ],
+    "BODIES":[
+      {
+        "product_id":"8097776992417",
+        "name":"Body Regata de Malha - Marrom",
+        "price":"R$ 89,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226604_0008_body-regata-marrom_0_89428d30-6d5a-4300-a259-a8639176fbaf.jpg?v=1740000654",
+        "category":"BODIES",
+        "description":"Body regata de malha, perfeito para dias quentes. Versátil, pode ser usado sozinho ou combinado com sobreposições. Confortável e trendy, é um item must-have para um look casual chic. Detalhes da Peça: Body regata de malha, perfeito para dias quentes. Versátil, pode ser usado sozinho ou combinado com sobreposições. Confortável e trendy, é um item musthave para um look casual chic. **Detalhes da Peça:** Composição: Algodão Estilo de Manga: Alça Estampa: Liso Tecido: Malha Decote: U Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":267
+      },
+      {
+        "product_id":"8028374892705",
+        "name":"Body Regata de Malha Creponada - Preto",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226022_0002_body-regata-de-malha-creponada-preto_0_f6dcfd21-1e63-4cd6-a7bd-abb3f8c3acfc.jpg?v=1748017652",
+        "category":"BODIES",
+        "description":"Desenvolvido para o seu closet de alta costura, o Body Regata de Malha Creponada é a peça curinga que você precisava! Com estilo regata e tecido de poliéster, possui decote em \"U\" e mangas sem alça, garantindo um look minimalista e sofisticado para diversas ocasiões. Detalhes da peça: Estampa: liso Decote: u Manga: sem alça Estilo: regata Tecido: malha Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":265
+      },
+      {
+        "product_id":"8028375154849",
+        "name":"Body Regata de Malha Creponada - Off-white",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226022_0029_body-regata-de-malha-creponada-off-white_0_9721338c-ce73-47b5-aa19-8a09ea2de192.jpg?v=1748017713",
+        "category":"BODIES",
+        "description":"Desenvolvido para o seu closet de alta costura, o Body Regata de Malha Creponada é a peça curinga que você precisava! Com estilo regata e tecido de poliéster, possui decote em \"U\" e mangas sem alça, garantindo um look minimalista e sofisticado para diversas ocasiões. Detalhes da peça: Estampa: liso Decote: u Manga: sem alça Estilo: regata Tecido: malha Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":265
+      }
+    ]
+  }
+}

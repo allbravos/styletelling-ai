@@ -1,0 +1,159 @@
+{
+  "query_raw":"Crossfit",
+  "query_norm":"crossfit",
+  "generated_at":"2025-08-25T06:26:54.705745+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_33_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "CALÇAS":[
+      {
+        "product_id":"7927614406817",
+        "name":"Calça Reta Cintura Alta Alfaiataria - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226231_0002_calca-cintura-alta-de-alfaiataria-preto_0_e3aade34-dda3-484f-a73e-4d8a20dfe463.jpg?v=1747662684",
+        "category":"CALÇAS",
+        "description":"Desfrute de elegância e conforto com a Calça Reta Cintura Alta Alfaiataria. Feita em viscose e poliéster, seu design clássico e cós alto proporcionam um look elevado em qualquer ocasião. Perfeita para um visual sofisticado e versátil. Detalhes da peça: Estampa: liso Comprimento: longo Cós: alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":350
+      },
+      {
+        "product_id":"8223935758497",
+        "name":"CALÇA RETA COM BOLSOS DE ALFAIATARIA - PRETO",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310841_0002_calca-reta-com-bolsos-de-alfaiataria-preto_3_fb160879-6e97-4322-9113-90f1bacdac54.jpg?v=1749740731",
+        "category":"CALÇAS",
+        "description":"Feita para mulheres sofisticadas, a calça reta com bolsos de alfaiataria é a peça-chave do seu guarda-roupa. Em viscose e poliéster, o tecido de sarja proporciona conforto e elegância. Versátil, pode ser usada em diversas ocasiões, do trabalho a um jantar especial. Detalhes da peça Estampa: liso Comprimento: longo Cós: médio Estilo: reta Tecido: sarja Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":347
+      },
+      {
+        "product_id":"7786463330465",
+        "name":"Calça Jogging Alfaiataria Essential - Preto",
+        "price":"R$ 79,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/20004043_0002_calca-jogging-essential-preto_0_66c5c643-1558-41cd-bebd-03fed1036a7f.jpg?v=1743180545",
+        "category":"CALÇAS",
+        "description":"Calça Jogging Alfaiataria Essential, perfeita para um look casual e elegante. Com cintura alta e amarração, o modelo cropped traz um toque moderno à alfaiataria. Detalhes da Peça: Estilo: Básico, Urbano Ocasião: Casual Estilo de Alfaitaria: Alfaiatado Clima: Meia-Estação Altura da Cintura: Cintura Alta Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":333
+      }
+    ],
+    "SHORTS":[
+      {
+        "product_id":"8154913308833",
+        "name":"Shorts Alfaiataria com Barra Dobrada - Preto",
+        "price":"R$ 189,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304829_0002_shorts-alfaiataria-com-barra-dobrada-preto_0_ab77643d-e484-423b-a33a-c9e9949c6fda.jpg?v=1743704258",
+        "category":"SHORTS",
+        "description":"Desfrute do shorts de alfaiataria com barra dobrada, perfeito para um look casual-chic. Feito em viscose e poliéster, possui cós alto e comprimento curto. Versátil e elegante, ideal para um visual moderno e sofisticado. Detalhes da peça Estampa: liso Comprimento: curto Cós: alto Estilo: shorts Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":330
+      },
+      {
+        "product_id":"7795680936097",
+        "name":"Shorts de Sarja Essential - Preto",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/20025514_0002_shorts-sarja-essential-preto_0_0b922a14-0006-4d75-8653-7512f4c4b6c6.jpg?v=1743180527",
+        "category":"SHORTS",
+        "description":"Desfrute do verão com estilo e conforto com nosso Shorts de Sarja Essential. Com design clássico e versátil, este shorts de sarja é perfeito para combinar com diversas peças, te acompanhando em diversas ocasiões. Detalhes da peça: Estilo: Reta Composição: Algodão Comprimento: Curto Estampa: Liso Cós: Alto Tecido: Sarja Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":328
+      },
+      {
+        "product_id":"8223925076129",
+        "name":"SHORTS CURTO RETO ALFAIATARIA - PRETO",
+        "price":"R$ 239,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310830_0002_shorts-curto-reto-alfaiataria-preto_0_371f4bbf-ecb2-4070-921b-e047d80b1c2d.jpg?v=1747916601",
+        "category":"SHORTS",
+        "description":"Despojado e sofisticado, o Shorts Curto em Alfaiataria é um must-have para o seu closet de verão. Feito em poliéster e elastano, possui cós médio e comprimento curto, perfeito para um look casual chic. Detalhes da peça Estampa: liso Comprimento: curto Cós: médio Estilo: shorts Tecido: plano Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":322
+      }
+    ],
+    "CAMISETAS":[
+      {
+        "product_id":"8097765032097",
+        "name":"Camiseta Gola V sem Cava de Malha - Vermelho e Branco",
+        "price":"R$ 139,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226492_8321_camiseta-gola-v-sem-cava-vermelho-e-branco_0_30881a93-31ab-4078-8bfc-fbd5af9842df.jpg?v=1739976571",
+        "category":"CAMISETAS",
+        "description":"A camiseta gola V sem cava de malha é um item versátil e confortável, perfeito para um look casual com um toque urbano. Seu design oversized e manga curta garantem estilo e praticidade. Detalhes da Peça: Estilo: Urbano, Confortável Ocasião: Casual Comprimento da Manga: Manga Curta Decote: Decote V Silhueta: Oversized Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":353
+      },
+      {
+        "product_id":"8098189803681",
+        "name":"Camiseta Manga Curta Dobrada de Malha - Bege",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226512_0006_01_1d5bc74d-45ba-4521-977d-7917ba719374.jpg?v=1745354161",
+        "category":"CAMISETAS",
+        "description":"Desperte seu estilo casual com a CAMISETA MANGA CURTA DOBRADA DE MALHA, perfeita para um look descontraído e atual. Feita em poliéster e viscose, essa peça versátil é um curinga no seu closet. Detalhes da peça: Estilo: BÁSICO Composição: POLIÉSTER, VISCOSE Estampa: LISO Manga: MANGA CURTA Tecido: MALHA Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":338
+      },
+      {
+        "product_id":"7788769935521",
+        "name":"T-shirt Viscose Decote V Lisa - Preto",
+        "price":"R$ 89,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50500701_0002_t-shirt-basica-viscose-decote-v-lisa-preto_0_b4fd6783-8bb0-465c-b9ba-049a49cce762.jpg?v=1747835349",
+        "category":"CAMISETAS",
+        "description":"A t-shirt de viscose com decote V é a peça curinga que faltava no seu closet de luxo. Feita em malha de alta qualidade, seu design minimalista e elegante se destaca pela versatilidade e conforto. Perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: v Manga: manga curta Estilo: camiseta Tecido: malha Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":320
+      }
+    ],
+    "BODIES":[
+      {
+        "product_id":"8028374892705",
+        "name":"Body Regata de Malha Creponada - Preto",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226022_0002_body-regata-de-malha-creponada-preto_0_f6dcfd21-1e63-4cd6-a7bd-abb3f8c3acfc.jpg?v=1748017652",
+        "category":"BODIES",
+        "description":"Desenvolvido para o seu closet de alta costura, o Body Regata de Malha Creponada é a peça curinga que você precisava! Com estilo regata e tecido de poliéster, possui decote em \"U\" e mangas sem alça, garantindo um look minimalista e sofisticado para diversas ocasiões. Detalhes da peça: Estampa: liso Decote: u Manga: sem alça Estilo: regata Tecido: malha Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":327
+      },
+      {
+        "product_id":"8097776992417",
+        "name":"Body Regata de Malha - Marrom",
+        "price":"R$ 89,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226604_0008_body-regata-marrom_0_89428d30-6d5a-4300-a259-a8639176fbaf.jpg?v=1740000654",
+        "category":"BODIES",
+        "description":"Body regata de malha, perfeito para dias quentes. Versátil, pode ser usado sozinho ou combinado com sobreposições. Confortável e trendy, é um item must-have para um look casual chic. Detalhes da Peça: Body regata de malha, perfeito para dias quentes. Versátil, pode ser usado sozinho ou combinado com sobreposições. Confortável e trendy, é um item musthave para um look casual chic. **Detalhes da Peça:** Composição: Algodão Estilo de Manga: Alça Estampa: Liso Tecido: Malha Decote: U Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":313
+      },
+      {
+        "product_id":"8028375154849",
+        "name":"Body Regata de Malha Creponada - Off-white",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226022_0029_body-regata-de-malha-creponada-off-white_0_9721338c-ce73-47b5-aa19-8a09ea2de192.jpg?v=1748017713",
+        "category":"BODIES",
+        "description":"Desenvolvido para o seu closet de alta costura, o Body Regata de Malha Creponada é a peça curinga que você precisava! Com estilo regata e tecido de poliéster, possui decote em \"U\" e mangas sem alça, garantindo um look minimalista e sofisticado para diversas ocasiões. Detalhes da peça: Estampa: liso Decote: u Manga: sem alça Estilo: regata Tecido: malha Modelo tem 1.76m de altura e veste o tamanho P / 38",
+        "relevance_score":311
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":381
+      },
+      {
+        "product_id":"8151265411233",
+        "name":"Blusa Polo de Tricot Telado - Chumbo",
+        "price":"R$ 219,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211270_0152_blusa-polo-de-tricot-telado-chumbo_0_663f8f02-2952-422e-9ebf-199341352d51.jpg?v=1747254979",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa polo de tricot telado, perfeita para um look casual e descolado. Confeccionada em material reciclado, com gola polo e mangas curtas, é uma peça versátil que te acompanha por várias temporadas. Detalhes da peça: Estilo básico Composição: acrílico, viscose Silhueta reta Comprimento longo Estampa lisa Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":334
+      },
+      {
+        "product_id":"8098200289441",
+        "name":"Blusa Manga Curta de Malha - Bege",
+        "price":"R$ 99,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226606_0006_blusa-manga-curta-de-malha-bege_0_2844ff16-1c23-45f3-add7-7536e6304e24.jpg?v=1739825678",
+        "category":"BLUSAS & TOPS",
+        "description":"Esta blusa manga curta de malha é o item básico perfeito para o seu closet! Versátil e confortável, te acompanha em diversas ocasiões. Combine com jeans para um look casual e despojado ou com uma saia para um visual mais elegante. Detalhes da peça: Composição: Algodão Estilo: Básico Estampa: Liso Decote: U Manga: Manga curta Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":329
+      }
+    ]
+  }
+}

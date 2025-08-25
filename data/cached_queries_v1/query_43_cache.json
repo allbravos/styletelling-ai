@@ -1,0 +1,130 @@
+{
+  "query_raw":"Dia de treinamento interno da equipe",
+  "query_norm":"dia de treinamento interno da equipe",
+  "generated_at":"2025-08-25T06:37:45.533748+00:00",
+  "meta":{
+    "source":"prewarm_from_file",
+    "file":"query_43_cache.json",
+    "norm_version":"v1",
+    "backend_version":"styletelling-prewarm-ui",
+    "mode":"real"
+  },
+  "result":{
+    "CALÇAS":[
+      {
+        "product_id":"7865175113889",
+        "name":"Calça Reta com Cós Transpassado - Preto",
+        "price":"R$ 179,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51225052_0002_calca-reta-com-cos-transpassado-preto_0_20414b3c-127a-4ae5-9671-b40ca38d4288.jpg?v=1740411129",
+        "category":"CALÇAS",
+        "description":"Calça Reta com cós transpassado - A peça curinga que te acompanha em diversas ocasiões com muito estilo. O cós transpassado traz um toque único a essa calça de alfaiataria, perfeita para compor um look elegante e descolado ao mesmo tempo. Detalhes da peça: Estilo: Reta, Alfaiataria Composição: Poliéster Altura da Cintura: Alta Comprimento: Longo Detalhes: Cós com fechamento transpassado Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":256
+      },
+      {
+        "product_id":"7927614406817",
+        "name":"Calça Reta Cintura Alta Alfaiataria - Preto",
+        "price":"R$ 299,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226231_0002_calca-cintura-alta-de-alfaiataria-preto_0_e3aade34-dda3-484f-a73e-4d8a20dfe463.jpg?v=1747662684",
+        "category":"CALÇAS",
+        "description":"Desfrute de elegância e conforto com a Calça Reta Cintura Alta Alfaiataria. Feita em viscose e poliéster, seu design clássico e cós alto proporcionam um look elevado em qualquer ocasião. Perfeita para um visual sofisticado e versátil. Detalhes da peça: Estampa: liso Comprimento: longo Cós: alto Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":253
+      },
+      {
+        "product_id":"8223935758497",
+        "name":"CALÇA RETA COM BOLSOS DE ALFAIATARIA - PRETO",
+        "price":"R$ 359,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50310841_0002_calca-reta-com-bolsos-de-alfaiataria-preto_3_fb160879-6e97-4322-9113-90f1bacdac54.jpg?v=1749740731",
+        "category":"CALÇAS",
+        "description":"Feita para mulheres sofisticadas, a calça reta com bolsos de alfaiataria é a peça-chave do seu guarda-roupa. Em viscose e poliéster, o tecido de sarja proporciona conforto e elegância. Versátil, pode ser usada em diversas ocasiões, do trabalho a um jantar especial. Detalhes da peça Estampa: liso Comprimento: longo Cós: médio Estilo: reta Tecido: sarja Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":253
+      }
+    ],
+    "CALÇAS JEANS":[
+      {
+        "product_id":"8223930908833",
+        "name":"CALÇA MOM CROPPED SARJA - BEGE",
+        "price":"R$ 339,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50512005_0006_calca-mom-cropped-sarja-bege_0_704b52eb-ad86-40c3-b7a6-8a571ee25ada.jpg?v=1747839284",
+        "category":"CALÇAS JEANS",
+        "description":"Descubra a CALÇA MOM CROPPED SARJA, perfeita para um look casual e sofisticado. Seu estilo SLIM e comprimento MIDI garantem versatilidade, enquanto a composição em algodão, viscose e linho oferece conforto e qualidade. Um item must-have no seu closet! Detalhes da peça Estampa: liso Comprimento: midi Cós: médio Estilo: slim Tecido: sarja Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":236
+      },
+      {
+        "product_id":"7892752564385",
+        "name":"Calça Reta Cropped de Sarja - Bege",
+        "price":"R$ 259,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50304651_0006_calca-sarja-reta-cropped-bege_0_a205bc68-9899-43da-a604-8f999add4811.jpg?v=1748016987",
+        "category":"CALÇAS JEANS",
+        "description":"Com design clean e minimalista, a CALÇA RETA CROPPED DE SARJA é a peça curinga que faltava no seu closet. Com cós alto e comprimento midi, é perfeita para um look casual chic ou até mesmo para um office look sofisticado. Feita em sarja de algodão, garante conforto e estilo em um único item. Detalhes da peça: Estampa: liso Comprimento: midi Cós: alto Estilo: reta Tecido: sarja Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":219
+      },
+      {
+        "product_id":"8223930417313",
+        "name":"CALÇA RETA CINTURA ALTA SARJA - BEGE",
+        "price":"R$ 319,89",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50512004_0006_calca-reta-cintura-alta-sarja-bege_0_52f8f7a5-46b8-49cd-b8eb-378cb3b545f9.jpg?v=1747916583",
+        "category":"CALÇAS JEANS",
+        "description":"A calça reta de cintura alta em sarja é um item essencial para o closet de quem busca um look elevado e versátil. Confeccionada em algodão, seu estilo clássico e detalhes minimalistas garantem elegância em qualquer ocasião. Detalhes da peça Comprimento: longo Cós: alto Tecido: sarja Estilo: reta Composição: algodão Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":219
+      }
+    ],
+    "CAMISETAS":[
+      {
+        "product_id":"8098189803681",
+        "name":"Camiseta Manga Curta Dobrada de Malha - Bege",
+        "price":"R$ 119,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51226512_0006_01_1d5bc74d-45ba-4521-977d-7917ba719374.jpg?v=1745354161",
+        "category":"CAMISETAS",
+        "description":"Desperte seu estilo casual com a CAMISETA MANGA CURTA DOBRADA DE MALHA, perfeita para um look descontraído e atual. Feita em poliéster e viscose, essa peça versátil é um curinga no seu closet. Detalhes da peça: Estilo: BÁSICO Composição: POLIÉSTER, VISCOSE Estampa: LISO Manga: MANGA CURTA Tecido: MALHA Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":260
+      },
+      {
+        "product_id":"7788769935521",
+        "name":"T-shirt Viscose Decote V Lisa - Preto",
+        "price":"R$ 89,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50500701_0002_t-shirt-basica-viscose-decote-v-lisa-preto_0_b4fd6783-8bb0-465c-b9ba-049a49cce762.jpg?v=1747835349",
+        "category":"CAMISETAS",
+        "description":"A t-shirt de viscose com decote V é a peça curinga que faltava no seu closet de luxo. Feita em malha de alta qualidade, seu design minimalista e elegante se destaca pela versatilidade e conforto. Perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: v Manga: manga curta Estilo: camiseta Tecido: malha Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":247
+      },
+      {
+        "product_id":"7788770099361",
+        "name":"T-shirt Viscose Decote V Lisa - Off-white",
+        "price":"R$ 89,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50500701_0029_t-shirt-basica-viscose-decote-v-lisa-off-white_0_b448a068-f640-4c72-a85c-83257d1ac91b.jpg?v=1747835261",
+        "category":"CAMISETAS",
+        "description":"A t-shirt de viscose com decote V é a peça curinga que faltava no seu closet de luxo. Feita em malha de alta qualidade, seu design minimalista e elegante se destaca pela versatilidade e conforto. Perfeita para um look elevado em qualquer ocasião. Detalhes da peça Estampa: liso Comprimento: curto Decote: v Manga: manga curta Estilo: camiseta Tecido: malha Modelo tem 1.77m de altura e veste o tamanho P / 38",
+        "relevance_score":247
+      }
+    ],
+    "BLUSAS & TOPS":[
+      {
+        "product_id":"7789876641953",
+        "name":"Camiseta Cropped de Tricot Listrada - Off-white e Bege",
+        "price":"R$ 199,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211462_3214_camiseta-cropped-de-trico-listrada-off-white-e-bege_0_683fde1a-7165-4f07-8724-0c6e2feb9561.jpg?v=1743180620",
+        "category":"BLUSAS & TOPS",
+        "description":"Leve o seu estilo a um novo nível com nossa CAMISETA CROPPED DE TRICOT LISTRADA. Perfeita para um passeio descontraído, a peça destaca-se pelo design listrado e moderno. Confeccionada em tricot, garante conforto e estilo em um só item. Detalhes da peça: Estilo: CAMISETA Composição: VISCOSE, POLIAMIDA Silhueta: RETA Comprimento: CURTO Estampa: LISTRADO Modelo tem 1.8m de altura e veste o tamanho P / 38",
+        "relevance_score":307
+      },
+      {
+        "product_id":"8151265411233",
+        "name":"Blusa Polo de Tricot Telado - Chumbo",
+        "price":"R$ 219,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/51211270_0152_blusa-polo-de-tricot-telado-chumbo_0_663f8f02-2952-422e-9ebf-199341352d51.jpg?v=1747254979",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa polo de tricot telado, perfeita para um look casual e descolado. Confeccionada em material reciclado, com gola polo e mangas curtas, é uma peça versátil que te acompanha por várias temporadas. Detalhes da peça: Estilo básico Composição: acrílico, viscose Silhueta reta Comprimento longo Estampa lisa Modelo tem 1.77m de altura e veste o tamanho P / 36",
+        "relevance_score":269
+      },
+      {
+        "product_id":"7795748077729",
+        "name":"Blusa com Decote Halter de Tricot - Preto",
+        "price":"R$ 159,90",
+        "image_url":"https://cdn.shopify.com/s/files/1/0623/5871/6577/files/50502007_0002_blusa-regular-tricot-com-decote-halter-preto_0_9a5f0f3f-c18b-443c-83e5-977a8f518c4d.jpg?v=1744291498",
+        "category":"BLUSAS & TOPS",
+        "description":"Blusa com Decote Halter de Tricô Uma peça versátil e elegante para o seu closet. A blusa de tricô com decote halter é perfeita para um look casual chic. Detalhes da Peça: Estilo: Básico Ocasião: Casual Comprimento: Padrão Estilo de Manga: Regata Estilo de Gola/Decote: Gola Careca Modelo tem 1.76m de altura e veste o tamanho P / 36",
+        "relevance_score":265
+      }
+    ]
+  }
+}
