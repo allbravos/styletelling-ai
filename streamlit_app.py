@@ -27,6 +27,7 @@ from streamlit_products import render_grouped_products
 # --------------------------- constants ---------------------------------------
 MAX_PRODUCTS = 15
 USE_CACHE: bool = True
+SHOW_CACHE_TOOLS = False
 # --------------------------- page setup & state -------------------------------
 st.set_page_config(page_title="Styletelling – Streamlit", layout="wide")
 ensure_tables()
@@ -83,58 +84,59 @@ def _fetch_results_for_prewarm(query: str) -> dict:
         raise RuntimeError("Fluxo terminou sem 'final_result'")
     return final_payload
 
-with st.sidebar:
-    st.markdown("### Cache")
-    _overwrite = st.checkbox("Sobrescrever existentes", False)
-    _limit = st.number_input("Limite (0 = todos)", min_value=0, value=0, step=1)
-    if st.button("🔧 Preaquecer cache agora"):
-        _rows = read_rows("data/queries.csv")
-        if _limit and _limit > 0:
-            _rows = _rows[: int(_limit)]
+if SHOW_CACHE_TOOLS:
+    with st.sidebar:
+        st.markdown("### Cache")
+        _overwrite = st.checkbox("Sobrescrever existentes", False)
+        _limit = st.number_input("Limite (0 = todos)", min_value=0, value=0, step=1)
+        if st.button("🔧 Preaquecer cache agora"):
+            _rows = read_rows("data/queries.csv")
+            if _limit and _limit > 0:
+                _rows = _rows[: int(_limit)]
 
-        prog = st.progress(0.0, text="Preparando…")
-        log = st.empty()
+            prog = st.progress(0.0, text="Preparando…")
+            log = st.empty()
 
-        total = len(_rows)
-        written = 0
-        skipped = 0
-        failed = 0
+            total = len(_rows)
+            written = 0
+            skipped = 0
+            failed = 0
 
-        for i, r in enumerate(_rows, start=1):
-            try:
-                # skip if exists and not overwriting
-                path = CACHE_DIR / r.filename
-                if path.exists() and not _overwrite:
-                    skipped += 1
-                else:
-                    # fetch + write envelope atomically
-                    result = _fetch_results_for_prewarm(r.query_raw)
-                    env = build_envelope(
-                        query_raw=r.query_raw,
-                        query_norm=r.query_norm,
-                        result=result,
-                        filename=r.filename,
-                        meta_extra={
-                            "backend_version": "styletelling-prewarm-ui",
-                            "mode": DATA_MODE,
-                        },
+            for i, r in enumerate(_rows, start=1):
+                try:
+                    # skip if exists and not overwriting
+                    path = CACHE_DIR / r.filename
+                    if path.exists() and not _overwrite:
+                        skipped += 1
+                    else:
+                        # fetch + write envelope atomically
+                        result = _fetch_results_for_prewarm(r.query_raw)
+                        env = build_envelope(
+                            query_raw=r.query_raw,
+                            query_norm=r.query_norm,
+                            result=result,
+                            filename=r.filename,
+                            meta_extra={
+                                "backend_version": "styletelling-prewarm-ui",
+                                "mode": DATA_MODE,
+                            },
+                        )
+                        write_cache(r.filename, env)
+                        written += 1
+
+                    prog.progress(i / total, text=f"{i}/{total} • {r.filename}")
+                    log.markdown(
+                        f"**Último:** `{r.filename}`  \n"
+                        f"— *query:* {r.query_raw[:80]}{'…' if len(r.query_raw)>80 else ''}"
                     )
-                    write_cache(r.filename, env)
-                    written += 1
+                except Exception as e:
+                    failed += 1
+                    prog.progress(i / total, text=f"{i}/{total} • erro em {r.filename}")
+                    log.markdown(f"**Erro:** `{r.filename}` — {e}")
 
-                prog.progress(i / total, text=f"{i}/{total} • {r.filename}")
-                log.markdown(
-                    f"**Último:** `{r.filename}`  \n"
-                    f"— *query:* {r.query_raw[:80]}{'…' if len(r.query_raw)>80 else ''}"
-                )
-            except Exception as e:
-                failed += 1
-                prog.progress(i / total, text=f"{i}/{total} • erro em {r.filename}")
-                log.markdown(f"**Erro:** `{r.filename}` — {e}")
-
-        st.success(
-            f"Preaquecer concluído • total={total} • gravados={written} • pulados={skipped} • falhas={failed}"
-        )
+            st.success(
+                f"Preaquecer concluído • total={total} • gravados={written} • pulados={skipped} • falhas={failed}"
+            )
 
 # --------------------------- helpers (unchanged) ------------------------------
 
