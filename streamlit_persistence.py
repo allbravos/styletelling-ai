@@ -2,8 +2,7 @@
 import os
 import sqlite3
 from typing import Optional
-
-_DB_PATH = os.environ.get("DB_PATH", "styletelling.db")
+from config.config import DB_PATH
 
 _SCHEMA = """
 CREATE TABLE IF NOT EXISTS product_feedback (
@@ -20,7 +19,7 @@ CREATE TABLE IF NOT EXISTS product_feedback (
 """
 
 def _connect():
-    conn = sqlite3.connect(_DB_PATH, isolation_level=None)
+    conn = sqlite3.connect(DB_PATH, isolation_level=None)
     conn.execute("PRAGMA journal_mode=WAL;")
     conn.execute("PRAGMA foreign_keys=ON;")
     return conn

@@ -8,9 +8,10 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List, Optional, Callable, Tuple
+from config.config import CACHE_DIR
 
 NORM_VERSION = "v1"
-CACHE_DIR = Path(__file__).parent / "cached_queries_v1"
+CACHE_DIR = Path(CACHE_DIR)
 
 # ----------------
 # Normalization

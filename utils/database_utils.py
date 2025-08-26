@@ -1,17 +1,16 @@
 # database_utils_sqlite.py
 # This script has been adapted for use with Python's built-in sqlite3 library, instead of postgres lib
-
 import sqlite3
 import pandas as pd
 import re
 
-DATABASE_PATH = "../styletelling.sqlite"
+from config.config import DB_PATH
 
 
 # Database connection functions
 def connect_to_db():
     """Establishes a connection to the SQLite database."""
-    return sqlite3.connect(DATABASE_PATH)
+    return sqlite3.connect(DB_PATH)
 
 
 def fetch_dict(conn, sql_query, columns, params=None, batch_size=1000):

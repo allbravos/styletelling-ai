@@ -2,10 +2,7 @@
 import time
 import os
 from openai import OpenAI, APIError, RateLimitError, AuthenticationError
-
-# --- API Key ---
-# Place the API key for the service you want to use (OpenAI, DeepSeek, Google) here.
-API_KEY = os.getenv("API_KEY")
+from config.config import API_KEY
 
 # Number of tokens in one million
 TOKENS_PER_MILLION = 1_000_000
