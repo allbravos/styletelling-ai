@@ -2,14 +2,12 @@
 from collections import OrderedDict
 from typing import Dict, List, Any
 from io import BytesIO
-import html as _html
-
 import streamlit as st
+import uuid
 import requests
 from PIL import Image, ImageDraw, ImageFont
 
-# Keep this constant here so the default value in group_products remains identical
-MAX_PRODUCTS = 15  # global cap across categories
+from config.config import MAX_PRODUCTS
 
 
 def format_context_summary(ctx: Dict[str, Any]) -> str:
@@ -62,6 +60,27 @@ def group_products(final_results: Dict[str, List[Dict[str, Any]]], cap: int = MA
         if total >= cap:
             break
     return grouped
+
+
+def reset_session_for_run(q: str):
+    st.session_state.session_id = str(uuid.uuid4())
+    st.session_state.last_query = q
+    st.session_state.logs = ["### Processando sua solicitação."]
+    st.session_state.products = {}
+    # also clear per-product transient states from any previous run
+    keys_to_clear = [
+        k for k in list(st.session_state.keys())
+        if any(
+            k.startswith(prefix) for prefix in (
+                "submitted_", "need_comment_", "details_", "error_",
+                "like_", "dislike_", "confirm_", "cancel_",
+                "d_", "d_send_", "d_cancel_",
+                "open_dialog_",  # ensure dialog flags are cleared
+            )
+        )
+    ]
+    for k in keys_to_clear:
+        st.session_state.pop(k, None)
 
 
 @st.cache_data(show_spinner=False, ttl=3600)
