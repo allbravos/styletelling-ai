@@ -11,7 +11,6 @@ from streamlit_persistence import save_feedback
 from utils.streamlit_utils import _fetch_image_bytes, _placeholder_bytes, inject_discreet_link_css_once
 
 
-
 def _render_image(p: Dict[str, Any]):
     """Render product image with graceful fallback to a placeholder."""
     raw = _fetch_image_bytes(p.get("image_url"))
@@ -134,25 +133,12 @@ def _render_product_card(p: Dict[str, Any], scope: str):
             st.rerun()
             return
 
-# Render grouped products in rows with category headers
-def _dedupe_products(items: list[dict]) -> list[dict]:
-    seen = set()
-    out = []
-    for p in items:
-        # Use the same identity you trust for a product; fallback to the stable uid
-        key = p.get("product_id") or p.get("sku") or p.get("url") or _stable_uid(p)
-        if key in seen:
-            continue
-        seen.add(key)
-        out.append(p)
-    return out
 
 def render_grouped_products(grouped: Dict[str, List[Dict[str, Any]]]):
     if not grouped:
         st.info("Nenhum produto encontrado. Tente refinar a descrição.")
         return
     for cat, products in grouped.items():
-        products = _dedupe_products(products)  # <-- remove dupes early
         st.subheader(f"{cat} · {len(products)}")
         cols_per_row = 3
         for i, p in enumerate(products):
@@ -161,4 +147,3 @@ def render_grouped_products(grouped: Dict[str, List[Dict[str, Any]]]):
             scope = f"{cat}_{i}"
             with row[i % cols_per_row]:
                 _render_product_card(p, scope=scope)
-
