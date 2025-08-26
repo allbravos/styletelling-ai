@@ -1,10 +1,10 @@
 # Copy to config/config.yaml for local dev
 MAX_PRODUCTS: 15
-DEV_MODE: False
-RECORD_CACHE: False
+DEV_MODE: false
+RECORD_CACHE: false
 USE_CACHE: true
 
-DB_PATH: data/styletelling.sqlite
+DB_PATH: styletelling.sqlite
 CACHE_DIR: data/cached_queries_v1
 PROMPT_DIR: prompts
 
