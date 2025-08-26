@@ -63,24 +63,23 @@ def group_products(final_results: Dict[str, List[Dict[str, Any]]], cap: int = MA
 
 
 def reset_session_for_run(q: str):
-    st.session_state.session_id = str(uuid.uuid4())
+    st.session_state.session_id = str(uuid.uuid4())  # keep if used elsewhere
     st.session_state.last_query = q
     st.session_state.logs = ["### Processando sua solicitação."]
     st.session_state.products = {}
-    # also clear per-product transient states from any previous run
-    keys_to_clear = [
-        k for k in list(st.session_state.keys())
-        if any(
-            k.startswith(prefix) for prefix in (
-                "submitted_", "need_comment_", "details_", "error_",
-                "like_", "dislike_", "confirm_", "cancel_",
-                "d_", "d_send_", "d_cancel_",
-                "open_dialog_",  # ensure dialog flags are cleared
-            )
-        )
-    ]
+    st.session_state.result_set_id = None
+
+    _prefixes = (
+        "submitted_", "need_comment_", "details_", "error_",
+        "like_", "dislike_", "confirm_", "cancel_",
+        "d_", "d_send_", "d_cancel_",
+        "open_dialog_",
+    )
+    keys_to_clear = [k for k in list(st.session_state.keys()) if k.startswith(_prefixes)]
     for k in keys_to_clear:
         st.session_state.pop(k, None)
+
+    st.session_state.pop("_card_occurrence_counter", None)
 
 
 @st.cache_data(show_spinner=False, ttl=3600)

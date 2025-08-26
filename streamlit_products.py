@@ -80,12 +80,25 @@ def _next_widget_seq() -> int:
     st.session_state[k] = st.session_state.get(k, 0) + 1
     return st.session_state[k]
 
+
 def _render_product_card(p: Dict[str, Any], scope: str):
+
+    if "result_set_id" not in st.session_state:
+        st.session_state.result_set_id = "rsid0"
+
     pid = p["product_id"]
     cat = (p.get("category") or "").replace(" ", "_")
     uid = _stable_uid(p)
-    seq = _next_widget_seq()  # <-- NEW: per-render tiebreaker
-    base = f"{pid}_{cat}_{uid}_{scope}_{seq}_{st.session_state.session_id}"
+
+    # --- CHANGED: stable, deterministic base (no seq/session_id) ---
+    rsid = st.session_state.get("result_set_id") or "rsid0"
+    base = f"{pid}_{cat}_{uid}_{scope}_{rsid}"
+
+    occ_map = st.session_state.setdefault("_card_occurrence_counter", {})
+    occ = occ_map.get(base, 0)
+    occ_map[base] = occ + 1
+    if occ > 0:
+        base = f"{base}_{occ}"
 
     submitted_key = f"submitted_{base}"
     open_dialog_key = f"open_dialog_{base}"
@@ -135,6 +148,8 @@ def _render_product_card(p: Dict[str, Any], scope: str):
 
 
 def render_grouped_products(grouped: Dict[str, List[Dict[str, Any]]]):
+    # reset per-render occurrence map so base keys stay stable across reruns
+    st.session_state["_card_occurrence_counter"] = {}
     if not grouped:
         st.info("Nenhum produto encontrado. Tente refinar a descrição.")
         return

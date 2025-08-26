@@ -1,6 +1,7 @@
 # streamlit_app.py
 # Split version: exact UI/strings preserved from original; only moves are imports.
 # No refactors beyond importing helpers and product renderer.
+import hashlib
 from typing import Dict, List, Any
 import time
 import uuid
@@ -66,17 +67,20 @@ def _render_results():
 
 
 def _handle_stream(q: str):
+    import hashlib
 
     if USE_CACHE and q:
         key = canonicalize_query(q)
         cached_payload = get_cached_result(key, CACHE_INDEX)
         if cached_payload is not None:
+            # Stable result-set id for this exact query (same across reruns)
+            st.session_state.result_set_id = hashlib.sha1(key.encode()).hexdigest()[:10]
+
             st.session_state.products = cached_payload
             total = sum(len(v) for v in st.session_state.products.values())
             st.session_state.logs.append("⚡ Resultado do cache")
             st.session_state.logs.append(f"\n---\n**Tempo total:** ~0s • Itens retornados: {total}")
             _render_logs()
-            _render_results()
             return
 
     with st.spinner("Encontrando os melhores produtos…"):
@@ -110,6 +114,10 @@ def _handle_stream(q: str):
                 elif status == "final_result":
                     final_results = step.get("data") or {}
                     st.session_state.products = group_products(final_results, cap=MAX_PRODUCTS)
+
+                    # Set stable result-set id now that the batch is ready
+                    key_for_id = canonicalize_query(q)
+                    st.session_state.result_set_id = hashlib.sha1(key_for_id.encode()).hexdigest()[:10]
 
                     if USE_CACHE and RECORD_CACHE:
                         key = canonicalize_query(q)
