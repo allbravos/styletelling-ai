@@ -43,7 +43,7 @@ API_KEY: str = _get("API_KEY")
 MAX_PRODUCTS: int = _get("MAX_PRODUCTS", 15)
 DEV_MODE: bool = _get("DEV_MODE", False)
 RECORD_CACHE: bool = _get("RECORD_CACHE", True)
-DB_PATH: str = _get("DB_PATH", "data/app.sqlite3")
+DB_PATH: str = _get("DB_PATH", "styletelling.sqlite")
 CACHE_DIR: str = _get("CACHE_DIR", "data/cached_queries_v1")
 PROMPT_DIR: str = _get("PROMPT_DIR", "prompts/")
 
