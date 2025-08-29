@@ -15,7 +15,7 @@ SYSTEM_MESSAGE = 'Act as an style specialist.'
 # Configuration
 # MODEL = "gpt-4o"
 # MODEL = "gemini-2.5-flash"
-MODEL = "deepseek-v3"
+MODEL = "gpt-4o"
 
 INPUT_TABLE = 'organizations'
 TABLE_ID = 'mutua_id'

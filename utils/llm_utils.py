@@ -24,6 +24,11 @@ MODELS = {
         "model_name": "gpt-5-mini",
         "cost_per_million": {"input": 0.25, "output": 2.0}
     },
+    "gpt-4o": {
+        "provider": "openai",
+        "model_name": "gpt-4o",
+        "cost_per_million": {"input": 2.5, "output": 10.0}
+    },
     "gpt-4o-mini": {
         "provider": "openai",
         "model_name": "gpt-4o-mini",
@@ -44,7 +49,7 @@ MODELS = {
 }
 
 # Default model to use
-current_model = "deepseek-v3"
+current_model = "gpt-4o"
 
 
 def call_model(messages, model=current_model, response_format=None, retry=False, temperature=1):
