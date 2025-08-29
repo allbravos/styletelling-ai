@@ -123,7 +123,7 @@ def search_products_with_details(detailed_results, category_name=None, limit=3):
         params.append(category_name)
 
     final_sql = f"""
-      SELECT p.product_id, p.name, p.price, p.image_url, p.category, p.description, ranked.relevance_score
+      SELECT p.product_id, p.name, p.price, p.image_url, p.image_file, p.category, p.description, ranked.relevance_score
       FROM ({ranked_subq}) AS ranked
       JOIN products p ON p.product_id = ranked.product_id
       {where_clause} ORDER BY ranked.relevance_score DESC LIMIT ?

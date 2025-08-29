@@ -1,7 +1,7 @@
 # streamlit_products.py
 # Minimal move-only split: product UI + feedback helpers extracted verbatim
 # No refactors; keep behavior identical.
-
+import os
 from typing import Dict, List, Any
 from io import BytesIO
 import hashlib, json
@@ -11,12 +11,29 @@ from streamlit_persistence import save_feedback
 from utils.streamlit_utils import _fetch_image_bytes, _placeholder_bytes, inject_discreet_link_css_once
 
 
-def _render_image(p: Dict[str, Any]):
+def _render_image(p: dict):
     """Render product image with graceful fallback to a placeholder."""
-    raw = _fetch_image_bytes(p.get("image_url"))
+    img_file = p.get("image_file")
+    img_url = p.get("image_url")
+    raw = None
+
+    if img_file:
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        photos_dir = os.path.join(base_dir, "photos")
+        local_path = os.path.join(photos_dir, img_file)
+
+        if os.path.exists(local_path):
+            with open(local_path, "rb") as f:
+                raw = f.read()
+
+    if not raw and img_url:
+        raw = _fetch_image_bytes(img_url)
+
     if not raw:
         raw = _placeholder_bytes()
+
     st.image(BytesIO(raw), use_container_width=True)
+
 
 
 # --------------------------- helpers: feedback & UI ----------------------------

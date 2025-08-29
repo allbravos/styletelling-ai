@@ -49,6 +49,7 @@ def group_products(final_results: Dict[str, List[Dict[str, Any]]], cap: int = MA
                 "price": p.get("price"),
                 "relevance_score": p.get("relevance_score"),
                 "image_url": p.get("image_url"),
+                "image_file": p.get("image_file"),
                 "category": cat,
                 "description": p.get("description", ""),
             })
