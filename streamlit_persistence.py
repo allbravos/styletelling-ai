@@ -1,8 +1,7 @@
 # streamlit_persistence.py
 import os
-import sqlite3
 from typing import Optional
-from config.config import DB_PATH
+from utils.database_utils import connect_to_db  # Use centralized connection
 
 _SCHEMA = """
 CREATE TABLE IF NOT EXISTS product_feedback (
@@ -19,7 +18,8 @@ CREATE TABLE IF NOT EXISTS product_feedback (
 """
 
 def _connect():
-    conn = sqlite3.connect(DB_PATH, isolation_level=None)
+    """Use centralized connection with additional SQLite optimizations."""
+    conn = connect_to_db()
     conn.execute("PRAGMA journal_mode=WAL;")
     conn.execute("PRAGMA foreign_keys=ON;")
     return conn

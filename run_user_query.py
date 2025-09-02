@@ -2,10 +2,9 @@
 # This script processes a user query to find product recommendations.
 # Updated to include context reporting for UI display.
 
-import sqlite3
 import json
 import concurrent.futures
-from config.config import DB_PATH as DATABASE_PATH
+from utils.database_utils import connect_to_db  # Use centralized connection
 from utils.execute_prompt import execute_prompt
 from utils.util_functions import to_int_safe
 
@@ -77,72 +76,70 @@ def normalize_attribute_name(raw_attr):
 
 
 def search_products_with_details(detailed_results, category_name=None, limit=3):
-    """Finds and ranks products based on style attributes (unchanged)."""
-    conn = sqlite3.connect(DATABASE_PATH)
-    conn.row_factory = sqlite3.Row
-    cur = conn.cursor()
+    """Finds and ranks products based on style attributes."""
+    # FIXED: Use centralized connection
+    with connect_to_db() as conn:
+        conn.row_factory = lambda cursor, row: dict(zip([col[0] for col in cursor.description], row))
+        cur = conn.cursor()
 
-    triples = []
-    if not detailed_results:
-        conn.close()
-        return []
+        triples = []
+        if not detailed_results:
+            return []
 
-    for block in detailed_results:
-        key = normalize_attribute_name(block.get("attribute", ""))
-        info = ATTRIBUTE_INFO.get(key)
-        if not info:
-            continue
+        for block in detailed_results:
+            key = normalize_attribute_name(block.get("attribute", ""))
+            info = ATTRIBUTE_INFO.get(key)
+            if not info:
+                continue
 
-        cur.execute("SELECT id FROM attributes WHERE name = ?", (info["attr_name"],))
-        row = cur.fetchone()
-        if not row:
-            continue
-        attr_id = row["id"]
+            cur.execute("SELECT id FROM attributes WHERE name = ?", (info["attr_name"],))
+            row = cur.fetchone()
+            if not row:
+                continue
+            attr_id = row["id"]
 
-        for i in (1, 2, 3):
-            val_id, val_score = block.get(f"value_{i}_id"), block.get(f"value_{i}_score")
-            if val_id is not None and val_score is not None:
-                triples.append((attr_id, to_int_safe(val_id), to_int_safe(val_score)))
+            for i in (1, 2, 3):
+                val_id, val_score = block.get(f"value_{i}_id"), block.get(f"value_{i}_score")
+                if val_id is not None and val_score is not None:
+                    triples.append((attr_id, to_int_safe(val_id), to_int_safe(val_score)))
 
-    if not triples:
-        conn.close()
-        return []
+        if not triples:
+            return []
 
-    case_parts, params = [], []
-    for att_id, val_id, score in triples:
-        case_parts.append("WHEN attribute_id = ? AND value_id = ? THEN score * ?")
-        params.extend([att_id, val_id, score])
-    case_sql = f"CASE {' '.join(case_parts)} ELSE 0 END"
+        case_parts, params = [], []
+        for att_id, val_id, score in triples:
+            case_parts.append("WHEN attribute_id = ? AND value_id = ? THEN score * ?")
+            params.extend([att_id, val_id, score])
+        case_sql = f"CASE {' '.join(case_parts)} ELSE 0 END"
 
-    ranked_subq = f"SELECT product_id, SUM({case_sql}) AS relevance_score FROM products_taxonomy GROUP BY product_id"
+        ranked_subq = f"SELECT product_id, SUM({case_sql}) AS relevance_score FROM products_taxonomy GROUP BY product_id"
 
-    where_clause = ""
-    if category_name:
-        where_clause = "WHERE p.category = ?"
-        params.append(category_name)
+        where_clause = ""
+        if category_name:
+            where_clause = "WHERE p.category = ?"
+            params.append(category_name)
 
-    final_sql = f"""
-      SELECT p.product_id, p.name, p.price, p.image_url, p.image_file, p.category, p.description, ranked.relevance_score
-      FROM ({ranked_subq}) AS ranked
-      JOIN products p ON p.product_id = ranked.product_id
-      {where_clause} ORDER BY ranked.relevance_score DESC LIMIT ?
-    """
-    params.append(limit)
+        final_sql = f"""
+          SELECT p.product_id, p.name, p.price, p.image_url, p.image_file, p.category, p.description, ranked.relevance_score
+          FROM ({ranked_subq}) AS ranked
+          JOIN products p ON p.product_id = ranked.product_id
+          {where_clause} ORDER BY ranked.relevance_score DESC LIMIT ?
+        """
+        params.append(limit)
 
-    cur.execute(final_sql, params)
-    rows = cur.fetchall()
-    conn.close()
+        cur.execute(final_sql, params)
+        rows = cur.fetchall()
 
-    product_list = []
-    for r in rows:
-        product_dict = dict(r)
-        price_val = product_dict.get('price')
-        if isinstance(price_val, (int, float)):
-            price_in_reais = price_val / 100.0
-            product_dict['price'] = f"R$ {price_in_reais:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
-        product_list.append(product_dict)
+        product_list = []
+        for r in rows:
+            product_dict = dict(r)
+            price_val = product_dict.get('price')
+            if isinstance(price_val, (int, float)):
+                price_in_reais = price_val / 100.0
+                product_dict['price'] = f"R$ {price_in_reais:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+            product_list.append(product_dict)
 
-    return product_list
+        return product_list
 
 
 def process_user_query_streaming(user_query, category_score_threshold=6):
