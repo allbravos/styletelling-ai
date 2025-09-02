@@ -5,11 +5,10 @@
 import sqlite3
 import json
 import concurrent.futures
+from config.config import DB_PATH as DATABASE_PATH
 from utils.execute_prompt import execute_prompt
 from utils.util_functions import to_int_safe
 
-# Path to the SQLite database
-DATABASE_PATH = "styletelling.sqlite"
 
 # --- Constants (unchanged) ---
 ATTRIBUTE_INFO = {
